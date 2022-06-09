@@ -1,5 +1,4 @@
-Chapter ###### 11
-The Epistle of Paul the Apostle to the Philippians
+
 %% Metadata
 Tags: #Scripture/NewT
 People: 

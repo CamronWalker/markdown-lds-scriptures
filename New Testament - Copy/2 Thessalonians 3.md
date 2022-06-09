@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 14
-The Second Epistle of Paul the Apostle to the Thessalonians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 

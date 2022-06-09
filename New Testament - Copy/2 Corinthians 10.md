@@ -1,8 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 8
-The Second Epistle of Paul the Apostle to the Corinthians
-Next
 
 %% Metadata
 Tags: #Scripture/NewT

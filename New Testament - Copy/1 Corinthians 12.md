@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 7
-The First Epistle of Paul the Apostle to the Corinthians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 
@@ -81,13 +75,5 @@ Are all apostles? are all prophets? are all teachers? are all workers of miracle
 Have all the gifts of healing? do all speak with tongues? do all interpret?
 ###### 31
 But covet earnestly the best gifts: and yet shew I unto you a more excellent way.
-
-Prev
-Home
-Next
-Chapter 11
-Up
-Chapter 13
-
 
 

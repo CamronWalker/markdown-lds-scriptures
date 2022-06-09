@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 10
-The Epistle of Paul the Apostle to the Ephesians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 

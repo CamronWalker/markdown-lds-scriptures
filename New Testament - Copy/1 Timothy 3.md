@@ -1,8 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 15
-The First Epistle of Paul the Apostle to Timothy
-Next
 
 %% Metadata
 Tags: #Scripture/NewT

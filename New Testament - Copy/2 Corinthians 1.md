@@ -1,5 +1,3 @@
-Chapter ###### 8
-The Second Epistle of Paul the Apostle to the Corinthians
 %% Metadata
 Tags: #Scripture/NewT
 People: 

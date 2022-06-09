@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 7
-The First Epistle of Paul the Apostle to the Corinthians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 
@@ -135,13 +129,4 @@ The sting of death is sin; and the strength of sin is the law.
 But thanks be to God, which giveth us the victory through our Lord Jesus Christ.
 ###### 58
 Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
-
-Prev
-Home
-Next
-Chapter 14
-Up
-Chapter 16
-
-
 

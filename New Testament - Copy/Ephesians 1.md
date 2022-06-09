@@ -1,5 +1,3 @@
-Chapter ###### 10
-The Epistle of Paul the Apostle to the Ephesians
 %% Metadata
 Tags: #Scripture/NewT
 People: 

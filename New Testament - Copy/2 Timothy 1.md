@@ -1,5 +1,3 @@
-Chapter ###### 16
-The Second Epistle of Paul the Apostle to Timothy
 %% Metadata
 Tags: #Scripture/NewT
 People: 

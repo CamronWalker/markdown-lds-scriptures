@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 7
-The First Epistle of Paul the Apostle to the Corinthians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 
@@ -88,12 +82,7 @@ Wherefore, my brethren, when ye come together to eat, tarry one for another.
 ###### 34
 And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.
 
-Prev
-Home
-Next
-Chapter 10
-Up
-Chapter 12
+
 
 
 

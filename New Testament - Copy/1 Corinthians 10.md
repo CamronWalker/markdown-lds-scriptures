@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 7
-The First Epistle of Paul the Apostle to the Corinthians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 

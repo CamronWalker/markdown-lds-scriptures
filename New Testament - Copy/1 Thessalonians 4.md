@@ -1,8 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 13
-The First Epistle of Paul the Apostle to the Thessalonians
-Next
 
 %% Metadata
 Tags: #Scripture/NewT

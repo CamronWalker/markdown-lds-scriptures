@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 7
-The First Epistle of Paul the Apostle to the Corinthians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 
@@ -67,13 +61,3 @@ If any man love not the Lord Jesus Christ, let him be Anathema Maran-atha.
 The grace of our Lord Jesus Christ be with you.
 ###### 24
 My love be with you all in Christ Jesus. Amen.
-
-Prev
-Home
-Next
-Chapter 15
-Up
-The Second Epistle of Paul the Apostle to the Corinthians
-
-
-

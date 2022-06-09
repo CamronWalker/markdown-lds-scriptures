@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 12
-The Epistle of Paul the Apostle to the Colossians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 

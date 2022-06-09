@@ -1,5 +1,3 @@
-Chapter ###### 14
-The Second Epistle of Paul the Apostle to the Thessalonians
 %% Metadata
 Tags: #Scripture/NewT
 People: 

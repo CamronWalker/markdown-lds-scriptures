@@ -1,8 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 8
-The Second Epistle of Paul the Apostle to the Corinthians
-Next
 
 %% Metadata
 Tags: #Scripture/NewT
@@ -86,12 +81,7 @@ In Damascus the governor under Aretas the king kept the city of the Damascenes w
 ###### 33
 And through a window in a basket was I let down by the wall, and escaped his hands.
 
-Prev
-Home
-Next
-Chapter 10
-Up
-Chapter 12
+
 
 
 

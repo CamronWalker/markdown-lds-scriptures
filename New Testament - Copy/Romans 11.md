@@ -1,8 +1,4 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 6
-The Epistle of Paul the Apostle to the Romans
-Next
+
 
 %% Metadata
 Tags: #Scripture/NewT
@@ -92,12 +88,7 @@ Or who hath first given to him, and it shall be recompensed unto him again?
 ###### 36
 For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.
 
-Prev
-Home
-Next
-Chapter 10
-Up
-Chapter 12
+
 
 
 

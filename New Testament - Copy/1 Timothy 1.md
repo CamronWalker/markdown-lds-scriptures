@@ -1,5 +1,3 @@
-Chapter ###### 15
-The First Epistle of Paul the Apostle to Timothy
 %% Metadata
 Tags: #Scripture/NewT
 People: 

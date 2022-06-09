@@ -1,5 +1,3 @@
-Chapter ###### 7
-The First Epistle of Paul the Apostle to the Corinthians
 %% Metadata
 Tags: #Scripture/NewT
 People: 

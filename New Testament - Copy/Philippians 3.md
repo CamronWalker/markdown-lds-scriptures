@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 11
-The Epistle of Paul the Apostle to the Philippians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 

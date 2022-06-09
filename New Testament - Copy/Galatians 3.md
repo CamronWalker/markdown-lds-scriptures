@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 9
-The Epistle of Paul the Apostle to the Galatians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 

@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 7
-The First Epistle of Paul the Apostle to the Corinthians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 
@@ -99,13 +93,3 @@ But if any man be ignorant, let him be ignorant.
 Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.
 ###### 40
 Let all things be done decently and in order.
-
-Prev
-Home
-Next
-Chapter 13
-Up
-Chapter 15
-
-
-

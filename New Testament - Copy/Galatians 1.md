@@ -1,5 +1,3 @@
-Chapter ###### 9
-The Epistle of Paul the Apostle to the Galatians
 %% Metadata
 Tags: #Scripture/NewT
 People: 

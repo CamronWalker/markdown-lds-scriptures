@@ -1,5 +1,3 @@
-Chapter ###### 6
-The Epistle of Paul the Apostle to the Romans
 %% Metadata
 Tags: #Scripture/NewT
 People: 

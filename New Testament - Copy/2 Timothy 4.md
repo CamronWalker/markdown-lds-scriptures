@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 16
-The Second Epistle of Paul the Apostle to Timothy
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 

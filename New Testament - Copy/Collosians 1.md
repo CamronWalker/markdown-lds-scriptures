@@ -1,5 +1,3 @@
-Chapter ###### 12
-The Epistle of Paul the Apostle to the Colossians
 %% Metadata
 Tags: #Scripture/NewT
 People: 

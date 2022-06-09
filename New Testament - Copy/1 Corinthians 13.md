@@ -1,9 +1,3 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 7
-The First Epistle of Paul the Apostle to the Corinthians
-Next
-
 %% Metadata
 Tags: #Scripture/NewT
 People: 
@@ -45,13 +39,4 @@ When I was a child, I spake as a child, I understood as a child, I thought as a 
 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
 ###### 13
 And now abideth faith, hope, charity, these three; but the greatest of these is charity.
-
-Prev
-Home
-Next
-Chapter 12
-Up
-Chapter 14
-
-
 
