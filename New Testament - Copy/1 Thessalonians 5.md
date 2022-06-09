@@ -71,12 +71,4 @@ I charge you by the Lord that this epistle be read unto all the holy brethren.
 ###### 28
 The grace of our Lord Jesus Christ be with you. Amen.
 
-Prev
-Home
-Next
-Chapter 4
-Up
-The Second Epistle of Paul the Apostle to the Thessalonians
-
-
 

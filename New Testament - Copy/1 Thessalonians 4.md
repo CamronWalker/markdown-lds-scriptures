@@ -51,12 +51,3 @@ Then we which are alive and remain shall be caught up together with them in the 
 ###### 18
 Wherefore comfort one another with these words.
 
-Prev
-Home
-Next
-Chapter 3
-Up
-Chapter 5
-
-
-

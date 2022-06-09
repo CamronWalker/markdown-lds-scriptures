@@ -41,12 +41,4 @@ And the Lord make you to increase and abound in love one toward another, and tow
 ###### 13
 To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.
 
-Prev
-Home
-Next
-Chapter 2
-Up
-Chapter 4
-
-
 

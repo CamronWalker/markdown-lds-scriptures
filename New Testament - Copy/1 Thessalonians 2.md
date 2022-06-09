@@ -55,12 +55,4 @@ For what is our hope, or joy, or crown of rejoicing? Are not even ye in the pres
 ###### 20
 For ye are our glory and joy.
 
-Prev
-Home
-Next
-The First Epistle of Paul the Apostle to the Thessalonians
-Up
-Chapter 3
-
-
 
