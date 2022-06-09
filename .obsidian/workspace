@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "2986dfc47c4054c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd2418a715a73a0d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "037ad056473e4e72",
+    "type": "split",
+    "children": [
+      {
+        "id": "49255eef3097beb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e57aa595cab1490a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b115b93db5e973c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b058a10f78897b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b9e537967d6d55f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541b9aa462f9a35d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd2418a715a73a0d",
+  "lastOpenFiles": [
+    "Book of Mormon/01 1 Nephi/1 Nephi 1.md",
+    "Test.md",
+    "Book of Mormon/01 1 Nephi/1 Nephi 7.md",
+    "Book of Mormon/01 1 Nephi/1 Nephi 8.md",
+    "Book of Mormon/01 1 Nephi/1 Nephi 6.md",
+    "Book of Mormon/01 1 Nephi/1 Nephi 5.md",
+    "Book of Mormon/01 1 Nephi/1 Nephi 4.md",
+    "Book of Mormon/01 1 Nephi/1 Nephi 3.md",
+    "Book of Mormon/01 1 Nephi/1 Nephi 2.md"
+  ]
+}
