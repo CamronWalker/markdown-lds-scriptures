@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 7
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 6| <-- John 6]] | [[John]] | [[John 8| John 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.
 ###### 2

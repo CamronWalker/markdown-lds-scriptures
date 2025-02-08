@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 28
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 27| <-- Job 27]] | [[Job]] | [[Job 29| Job 29 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/28?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SURELY there is a vein for the silver, and a place for gold where they fine it.
 ###### 2

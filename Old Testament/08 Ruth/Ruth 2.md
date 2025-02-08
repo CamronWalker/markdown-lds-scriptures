@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ruth 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ruth 1| <-- Ruth 1]] | [[Ruth]] | [[Ruth 3| Ruth 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.
 ###### 2

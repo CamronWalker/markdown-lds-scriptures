@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 34
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 33| <-- Numbers 33]] | [[Numbers]] | [[Numbers 35| Numbers 35 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/34?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses, saying,
 ###### 2

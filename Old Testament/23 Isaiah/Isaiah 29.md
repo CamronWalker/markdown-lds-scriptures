@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 28| <-- Isaiah 28]] | [[Isaiah]] | [[Isaiah 30| Isaiah 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WOE to Ariel, to Ariel, the city where David dwelt!  add ye year to year; let them kill sacrifices.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Song of Solomon 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Song of Solomon 2| <-- Song of Solomon 2]] | [[Song of Solomon]] | [[Song of Solomon 4| Song of Solomon 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BY night on my bed I sought him whom my soul loveth: I sought him, but I found him not.
 ###### 2

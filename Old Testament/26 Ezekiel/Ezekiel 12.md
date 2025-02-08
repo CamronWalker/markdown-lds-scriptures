@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 11| <-- Ezekiel 11]] | [[Ezekiel]] | [[Ezekiel 13| Ezekiel 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word of the LORD also came unto me, saying,
 ###### 2

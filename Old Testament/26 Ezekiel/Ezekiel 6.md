@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 5| <-- Ezekiel 5]] | [[Ezekiel]] | [[Ezekiel 7| Ezekiel 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the word of the LORD came unto me, saying,
 ###### 2

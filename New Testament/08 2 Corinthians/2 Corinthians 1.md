@@ -1,20 +1,18 @@
 Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 16| <-- 1 Corinthians 16]] | [[2 Corinthians]] | [[2 Corinthians 2| 2 Corinthians 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 ###### 2

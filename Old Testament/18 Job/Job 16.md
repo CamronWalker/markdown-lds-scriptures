@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 15| <-- Job 15]] | [[Job]] | [[Job 17| Job 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Job answered and said,
 ###### 2

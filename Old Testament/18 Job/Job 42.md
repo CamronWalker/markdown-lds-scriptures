@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 42
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 41| <-- Job 41]] | [[Job]] | [[Psalm 1| Psalm 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/42?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Job answered the LORD, and said,
 ###### 2

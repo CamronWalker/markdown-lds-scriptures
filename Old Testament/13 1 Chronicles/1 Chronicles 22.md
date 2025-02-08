@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 21| <-- 1 Chronicles 21]] | [[1 Chronicles]] | [[1 Chronicles 23| 1 Chronicles 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 5| <-- 2 Chronicles 5]] | [[2 Chronicles]] | [[2 Chronicles 7| 2 Chronicles 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN said Solomon, The LORD hath said that he would dwell in the thick darkness.
 ###### 2

@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 15
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 14| <-- Romans 14]] | [[Romans]] | [[Romans 16| Romans 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WE then that are strong ought to bear the infirmities of the weak, and not to please ourselves.
 ###### 2

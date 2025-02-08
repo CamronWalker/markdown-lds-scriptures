@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 20| <-- Numbers 20]] | [[Numbers]] | [[Numbers 22| Numbers 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners.
 ###### 2

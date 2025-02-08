@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 2| <-- Luke 2]] | [[Luke]] | [[Luke 4| Luke 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 ###### 2

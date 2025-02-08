@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 15| <-- Proverbs 15]] | [[Proverbs]] | [[Proverbs 17| Proverbs 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE preparations of the heart in man, and the answer of the tongue, is from the LORD.
 ###### 2

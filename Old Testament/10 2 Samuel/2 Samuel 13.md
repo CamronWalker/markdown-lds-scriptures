@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 12| <-- 2 Samuel 12]] | [[2 Samuel]] | [[2 Samuel 14| 2 Samuel 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.
 ###### 2

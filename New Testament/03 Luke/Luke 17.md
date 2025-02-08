@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 17
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 16| <-- Luke 16]] | [[Luke]] | [[Luke 18| Luke 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!
 ###### 2

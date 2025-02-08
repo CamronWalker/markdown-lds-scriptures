@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 8
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 7| <-- 1 Nephi 7]] | [[1 Nephi]] | [[1 Nephi 9| 1 Nephi 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that we had gathered together all manner of seeds of every kind, both of grain of every kind, and also of the seeds of fruit of every kind.
 ###### 2

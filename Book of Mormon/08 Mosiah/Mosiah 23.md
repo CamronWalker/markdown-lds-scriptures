@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 23
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 22| <-- Mosiah 22]] | [[Mosiah]] | [[Mosiah 24| Mosiah 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now Alma, having been warned of the Lord that the armies of king Noah would come upon them, and having made it known to his people, therefore they gathered together their flocks, and took of their grain, and departed into the wilderness before the armies of king Noah.
 ###### 2

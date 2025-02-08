@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 43
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 42| <-- Psalm 42]] | [[Psalms]] | [[Psalm 44| Psalm 44 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/43?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 JUDGE me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
 ###### 2

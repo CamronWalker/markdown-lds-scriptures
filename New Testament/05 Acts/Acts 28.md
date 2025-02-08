@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 28
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 27| <-- Acts 27]] | [[Acts]] | [[Romans 1| Romans 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/28?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND when they were escaped, then they knew that the island was called Melita.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 48
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 47| <-- Jeremiah 47]] | [[Jeremiah]] | [[Jeremiah 49| Jeremiah 49 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/48?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AGAINST Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo!  for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.
 ###### 2

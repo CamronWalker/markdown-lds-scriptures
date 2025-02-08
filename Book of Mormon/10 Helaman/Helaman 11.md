@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 11
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 10| <-- Helaman 10]] | [[Helaman]] | [[Helaman 12| Helaman 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass in the seventy and second year of the reign of the judges that the contentions did increase, insomuch that there were wars throughout all the land among all the people of Nephi.
 ###### 2

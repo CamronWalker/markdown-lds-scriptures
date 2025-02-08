@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 1| <-- 1 Corinthians 1]] | [[1 Corinthians]] | [[1 Corinthians 3| 1 Corinthians 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.
 ###### 2

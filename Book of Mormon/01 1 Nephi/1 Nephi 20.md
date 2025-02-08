@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 20
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 19| <-- 1 Nephi 19]] | [[1 Nephi]] | [[1 Nephi 21| 1 Nephi 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/20?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Hearken and hear this, O house of Jacob, who are called by the name of Israel, and are come forth out of the waters of Judah, or out of the waters of baptism, who swear by the name of the Lord, and make mention of the God of Israel, yet they swear not in truth nor in righteousness.
 ###### 2

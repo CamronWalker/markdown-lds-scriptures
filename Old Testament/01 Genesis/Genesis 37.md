@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 37
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 36| <-- Genesis 36]] | [[Genesis]] | [[Genesis 38| Genesis 38 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/37?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 20
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 19| <-- Revelation 19]] | [[Revelation]] | [[Revelation 21| Revelation 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/20?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
 ###### 2

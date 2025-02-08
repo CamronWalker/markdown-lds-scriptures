@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 37
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 36| <-- Isaiah 36]] | [[Isaiah]] | [[Isaiah 38| Isaiah 38 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/37?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.
 ###### 2

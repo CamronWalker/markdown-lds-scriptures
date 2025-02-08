@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Philemon 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Titus 3| <-- Titus 3]] | [[Philemon]] | [[Hebrews 1| Hebrews 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philem/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,
 ###### 2

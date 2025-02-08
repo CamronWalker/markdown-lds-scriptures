@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 28
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 27| <-- Matthew 27]] | [[Matthew]] | [[Mark 1| Mark 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 IN the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.
 ###### 2

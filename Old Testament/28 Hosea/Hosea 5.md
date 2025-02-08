@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 4| <-- Hosea 4]] | [[Hosea]] | [[Hosea 6| Hosea 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.
 ###### 2

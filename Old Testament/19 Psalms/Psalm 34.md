@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 34
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 33| <-- Psalm 33]] | [[Psalms]] | [[Psalm 35| Psalm 35 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/34?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL bless the LORD at all times: his praise shall continually be in my mouth.
 ###### 2

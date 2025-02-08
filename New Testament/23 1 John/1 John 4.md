@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 John 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 John 3| <-- 1 John 3]] | [[1 John]] | [[1 John 5| 1 John 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BELOVED, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 ###### 2

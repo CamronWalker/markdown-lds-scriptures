@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 113
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 112| <-- Psalm 112]] | [[Psalms]] | [[Psalm 114| Psalm 114 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/113?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  Praise, O ye servants of the LORD, praise the name of the LORD.
 ###### 2

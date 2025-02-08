@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 131
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 130| <-- Psalm 130]] | [[Psalms]] | [[Psalm 132| Psalm 132 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/131?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.
 ###### 2

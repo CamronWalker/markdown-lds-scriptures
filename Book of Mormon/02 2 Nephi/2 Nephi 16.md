@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 16
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 15| <-- 2 Nephi 15]] | [[2 Nephi]] | [[2 Nephi 17| 2 Nephi 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 In the year that king Uzziah died, I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.
 ###### 2

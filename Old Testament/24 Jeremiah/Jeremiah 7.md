@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 6| <-- Jeremiah 6]] | [[Jeremiah]] | [[Jeremiah 8| Jeremiah 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word that came to Jeremiah from the LORD, saying,
 ###### 2

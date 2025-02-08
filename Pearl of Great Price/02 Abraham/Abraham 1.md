@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Abraham 1
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Moses 8| <-- Moses 8]] | [[Abraham]] | [[Abraham 2| Abraham 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 IN the land of the Chaldeans, at the residence of my fathers, I, Abraham, saw that it was needful for me to obtain another place of residence;
 ###### 2

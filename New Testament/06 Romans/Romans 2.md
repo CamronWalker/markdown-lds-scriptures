@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 1| <-- Romans 1]] | [[Romans]] | [[Romans 3| Romans 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEREFORE thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
 ###### 2

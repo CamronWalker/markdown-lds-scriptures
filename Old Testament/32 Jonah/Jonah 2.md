@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jonah 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jonah 1| <-- Jonah 1]] | [[Jonah]] | [[Jonah 3| Jonah 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Jonah prayed unto the LORD his God out of the fish's belly,
 ###### 2

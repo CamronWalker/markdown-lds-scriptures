@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 11| <-- 2 Kings 11]] | [[2 Kings]] | [[2 Kings 13| 2 Kings 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem.  And his mother's name was Zibiah of Beer-sheba.
 ###### 2

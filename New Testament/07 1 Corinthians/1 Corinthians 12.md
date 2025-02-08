@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 12
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 11| <-- 1 Corinthians 11]] | [[1 Corinthians]] | [[1 Corinthians 13| 1 Corinthians 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW concerning spiritual gifts, brethren, I would not have you ignorant.
 ###### 2

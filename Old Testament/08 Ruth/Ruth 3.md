@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ruth 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ruth 2| <-- Ruth 2]] | [[Ruth]] | [[Ruth 4| Ruth 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?
 ###### 2

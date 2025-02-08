@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 34
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 33| <-- Alma 33]] | [[Alma]] | [[Alma 35| Alma 35 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that after Alma had spoken these words unto them he sat down upon the ground, and Amulek arose and began to teach them, saying:
 ###### 2

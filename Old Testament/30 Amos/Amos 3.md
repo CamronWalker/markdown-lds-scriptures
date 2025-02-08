@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Amos 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Amos 2| <-- Amos 2]] | [[Amos]] | [[Amos 4| Amos 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Daniel 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Daniel 7| <-- Daniel 7]] | [[Daniel]] | [[Daniel 9| Daniel 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first.
 ###### 2

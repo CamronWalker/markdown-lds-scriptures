@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 24| <-- Deuteronomy 24]] | [[Deuteronomy]] | [[Deuteronomy 26| Deuteronomy 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IF there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked.
 ###### 2

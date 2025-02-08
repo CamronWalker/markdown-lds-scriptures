@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 14| <-- Deuteronomy 14]] | [[Deuteronomy]] | [[Deuteronomy 16| Deuteronomy 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AT the end of every seven years thou shalt make a release.
 ###### 2

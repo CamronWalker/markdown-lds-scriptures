@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 30
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 29| <-- Jeremiah 29]] | [[Jeremiah]] | [[Jeremiah 31| Jeremiah 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/30?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word that came to Jeremiah from the LORD, saying,
 ###### 2

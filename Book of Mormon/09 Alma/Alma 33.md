@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 33
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 32| <-- Alma 32]] | [[Alma]] | [[Alma 34| Alma 34 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/33?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now after Alma had spoken these words, they sent forth unto him desiring to know whether they should believe in one God, that they might obtain this fruit of which he had spoken, or how they should plant the seed, or the word of which he had spoken, which he said must be planted in their hearts; or in what manner they should begin to exercise their faith.
 ###### 2

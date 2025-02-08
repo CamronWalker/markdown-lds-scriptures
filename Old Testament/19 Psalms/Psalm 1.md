@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 42| <-- Job 42]] | [[Psalms]] | [[Psalm 2| Psalm 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BLESSED is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
 ###### 2

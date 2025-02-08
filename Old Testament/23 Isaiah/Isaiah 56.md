@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 56
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 55| <-- Isaiah 55]] | [[Isaiah]] | [[Isaiah 57| Isaiah 57 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/56?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THUS saith the LORD, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.
 ###### 2

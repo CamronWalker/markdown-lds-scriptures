@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 24| <-- Ezekiel 24]] | [[Ezekiel]] | [[Ezekiel 26| Ezekiel 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word of the LORD came again unto me, saying,
 ###### 2

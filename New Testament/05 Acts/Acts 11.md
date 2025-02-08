@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 11
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 10| <-- Acts 10]] | [[Acts]] | [[Acts 12| Acts 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.
 ###### 2

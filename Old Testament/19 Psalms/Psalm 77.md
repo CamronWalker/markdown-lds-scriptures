@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 77
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 76| <-- Psalm 76]] | [[Psalms]] | [[Psalm 78| Psalm 78 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/77?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I CRIED unto God with my voice, even unto God with my voice; and he gave ear unto me.
 ###### 2

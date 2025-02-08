@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 13| <-- Proverbs 13]] | [[Proverbs]] | [[Proverbs 15| Proverbs 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 EVERY wise woman buildeth her house: but the foolish plucketh it down with her hands.
 ###### 2

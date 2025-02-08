@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 21| <-- Genesis 21]] | [[Genesis]] | [[Genesis 23| Genesis 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
 ###### 2

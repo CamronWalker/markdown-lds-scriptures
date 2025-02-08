@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 1
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Words of Mormon 1| <-- Words of Mormon 1]] | [[Mosiah]] | [[Mosiah 2| Mosiah 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now there was no more contention in all the land of Zarahemla, among all the people who belonged to king Benjamin, so that king Benjamin had continual peace all the remainder of his days.
 ###### 2

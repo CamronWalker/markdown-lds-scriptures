@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 62
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 61| <-- Psalm 61]] | [[Psalms]] | [[Psalm 63| Psalm 63 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/62?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 TRULY my soul waiteth upon God: from him cometh my salvation.
 ###### 2

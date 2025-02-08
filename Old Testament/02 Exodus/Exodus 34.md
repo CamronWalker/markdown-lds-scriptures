@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 34
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 33| <-- Exodus 33]] | [[Exodus]] | [[Exodus 35| Exodus 35 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/34?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 66
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 65| <-- Isaiah 65]] | [[Isaiah]] | [[Jeremiah 1| Jeremiah 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/66?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THUS saith the LORD, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me?  and where is the place of my rest?
 ###### 2

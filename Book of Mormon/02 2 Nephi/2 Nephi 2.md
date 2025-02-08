@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 2
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 1| <-- 2 Nephi 1]] | [[2 Nephi]] | [[2 Nephi 3| 2 Nephi 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, Jacob, I speak unto you: Thou art my first-born in the days of my tribulation in the wilderness. And behold, in thy childhood thou hast suffered afflictions and much sorrow, because of the rudeness of thy brethren.
 ###### 2

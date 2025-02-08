@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 6
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 5| <-- 3 Nephi 5]] | [[3 Nephi]] | [[3 Nephi 7| 3 Nephi 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that the people of the Nephites did all return to their own lands in the twenty and sixth year, every man, with his family, his flocks and his herds, his horses and his cattle, and all things whatsoever did belong unto them.
 ###### 2

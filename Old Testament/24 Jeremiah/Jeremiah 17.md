@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 16| <-- Jeremiah 16]] | [[Jeremiah]] | [[Jeremiah 18| Jeremiah 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars;
 ###### 2

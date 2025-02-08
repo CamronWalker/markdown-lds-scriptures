@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 16| <-- Leviticus 16]] | [[Leviticus]] | [[Leviticus 18| Leviticus 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses, saying,
 ###### 2

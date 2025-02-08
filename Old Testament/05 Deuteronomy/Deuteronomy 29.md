@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 28| <-- Deuteronomy 28]] | [[Deuteronomy]] | [[Deuteronomy 30| Deuteronomy 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THESE are the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.
 ###### 2

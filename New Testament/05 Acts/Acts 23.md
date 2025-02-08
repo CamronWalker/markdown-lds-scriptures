@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 23
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 22| <-- Acts 22]] | [[Acts]] | [[Acts 24| Acts 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/23?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND Paul, earnestly beholding the council, said, Men and brethren, I have lived in all good conscience before God until this day.
 ###### 2

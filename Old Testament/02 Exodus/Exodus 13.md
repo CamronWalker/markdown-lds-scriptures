@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 12| <-- Exodus 12]] | [[Exodus]] | [[Exodus 14| Exodus 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses, saying,
 ###### 2

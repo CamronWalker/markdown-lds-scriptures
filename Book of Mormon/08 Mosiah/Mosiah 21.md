@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 21
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 20| <-- Mosiah 20]] | [[Mosiah]] | [[Mosiah 22| Mosiah 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/21?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that Limhi and his people returned to the city of Nephi, and began to dwell in the land again in peace.
 ###### 2

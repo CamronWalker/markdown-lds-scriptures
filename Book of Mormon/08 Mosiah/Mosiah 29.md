@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 29
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 28| <-- Mosiah 28]] | [[Mosiah]] | [[Alma 1| Alma 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now when Mosiah had done this he sent out throughout all the land, among all the people, desiring to know their will concerning who should be their king.
 ###### 2

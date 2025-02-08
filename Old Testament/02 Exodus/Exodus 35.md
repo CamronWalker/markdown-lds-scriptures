@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 35
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 34| <-- Exodus 34]] | [[Exodus]] | [[Exodus 36| Exodus 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/35?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.
 ###### 2

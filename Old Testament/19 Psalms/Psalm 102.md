@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 102
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 101| <-- Psalm 101]] | [[Psalms]] | [[Psalm 103| Psalm 103 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/102?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR my prayer, O LORD, and let my cry come unto thee.
 ###### 2

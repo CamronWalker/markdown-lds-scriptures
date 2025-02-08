@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# James 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[James 3| <-- James 3]] | [[James]] | [[James 5| James 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FROM whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
 ###### 2

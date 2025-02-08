@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 31
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 30| <-- Genesis 30]] | [[Genesis]] | [[Genesis 32| Genesis 32 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/31?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND he heard the words of Laban's sons, saying, Jacob hath taken away all that was our father's; and of that which was our father's hath he gotten all this glory.
 ###### 2

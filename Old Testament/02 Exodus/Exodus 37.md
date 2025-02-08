@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 37
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 36| <-- Exodus 36]] | [[Exodus]] | [[Exodus 38| Exodus 38 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/37?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:
 ###### 2

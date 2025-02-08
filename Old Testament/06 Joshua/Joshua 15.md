@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joshua 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joshua 14| <-- Joshua 14]] | [[Joshua]] | [[Joshua 16| Joshua 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THIS then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast.
 ###### 2

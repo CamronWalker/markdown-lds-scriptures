@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 11| <-- Numbers 11]] | [[Numbers]] | [[Numbers 13| Numbers 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 ###### 2

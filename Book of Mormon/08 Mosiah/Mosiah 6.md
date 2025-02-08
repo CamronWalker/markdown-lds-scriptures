@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 6
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 5| <-- Mosiah 5]] | [[Mosiah]] | [[Mosiah 7| Mosiah 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, king Benjamin thought it was expedient, after having finished speaking to the people, that he should take the names of all those who had entered into a covenant with God to keep his commandments.
 ###### 2

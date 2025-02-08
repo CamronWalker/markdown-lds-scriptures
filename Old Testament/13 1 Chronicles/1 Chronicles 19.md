@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 18| <-- 1 Chronicles 18]] | [[1 Chronicles]] | [[1 Chronicles 20| 1 Chronicles 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead.
 ###### 2

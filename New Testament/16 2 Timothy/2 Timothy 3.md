@@ -4,21 +4,19 @@ Chapter ###### 16
 The Second Epistle of Paul the Apostle to Timothy
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Timothy 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Timothy 2| <-- 2 Timothy 2]] | [[2 Timothy]] | [[2 Timothy 4| 2 Timothy 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THIS know also, that in the last days perilous times shall come.
 ###### 2

@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 5| <-- Romans 5]] | [[Romans]] | [[Romans 7| Romans 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WHAT shall we say then? Shall we continue in sin, that grace may abound?
 ###### 2

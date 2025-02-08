@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 9| <-- 2 Samuel 9]] | [[2 Samuel]] | [[2 Samuel 11| 2 Samuel 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead.
 ###### 2

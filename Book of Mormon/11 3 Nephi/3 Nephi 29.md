@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 29
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 28| <-- 3 Nephi 28]] | [[3 Nephi]] | [[3 Nephi 30| 3 Nephi 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/29?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now behold, I say unto you that when the Lord shall see fit, in his wisdom, that these sayings shall come unto the Gentiles according to his word, then ye may know that the covenant which the Father hath made with the children of Israel, concerning their restoration to the lands of their inheritance, is already beginning to be fulfilled.
 ###### 2

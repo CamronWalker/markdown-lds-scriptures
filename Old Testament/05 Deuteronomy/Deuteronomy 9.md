@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 8| <-- Deuteronomy 8]] | [[Deuteronomy]] | [[Deuteronomy 10| Deuteronomy 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,
 ###### 2

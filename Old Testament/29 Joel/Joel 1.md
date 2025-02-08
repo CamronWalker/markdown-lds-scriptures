@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joel 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 14| <-- Hosea 14]] | [[Joel]] | [[Joel 2| Joel 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/joel/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word of the LORD that came to Joel the son of Pethuel.
 ###### 2

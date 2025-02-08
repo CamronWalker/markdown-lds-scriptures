@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 22
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 21| <-- Matthew 21]] | [[Matthew]] | [[Matthew 23| Matthew 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/22?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jesus answered and spake unto them again by parables, and said,
 ###### 2

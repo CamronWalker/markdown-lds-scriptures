@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 11
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 10| <-- 3 Nephi 10]] | [[3 Nephi]] | [[3 Nephi 12| 3 Nephi 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that there were a great multitude gathered together, of the people of Nephi, round about the temple which was in the land Bountiful; and they were marveling and wondering one with another, and were showing one to another the great and marvelous change which had taken place.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 41
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 40| <-- Alma 40]] | [[Alma]] | [[Alma 42| Alma 42 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/41?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, my son, I have somewhat to say concerning the restoration of which has been spoken; for behold, some have wrested the scriptures, and have gone far astray because of this thing. And I perceive that thy mind has been worried also concerning this thing. But behold, I will explain it unto thee.
 ###### 2

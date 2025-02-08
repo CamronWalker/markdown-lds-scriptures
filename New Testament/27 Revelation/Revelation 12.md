@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 12
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 11| <-- Revelation 11]] | [[Revelation]] | [[Revelation 13| Revelation 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 ###### 2

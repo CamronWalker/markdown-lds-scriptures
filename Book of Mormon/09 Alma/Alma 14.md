@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 14
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 13| <-- Alma 13]] | [[Alma]] | [[Alma 15| Alma 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass after he had made an end of speaking unto the people many of them did believe on his words, and began to repent, and to search the scriptures.
 ###### 2

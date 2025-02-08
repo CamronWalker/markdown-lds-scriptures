@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 13| <-- Leviticus 13]] | [[Leviticus]] | [[Leviticus 15| Leviticus 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses, saying,
 ###### 2

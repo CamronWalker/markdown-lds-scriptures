@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# James 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[James 4| <-- James 4]] | [[James]] | [[1 Peter 1| 1 Peter 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 GO to now, ye rich men, weep and howl for your miseries that shall come upon you.
 ###### 2

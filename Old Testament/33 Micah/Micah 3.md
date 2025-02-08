@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Micah 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Micah 2| <-- Micah 2]] | [[Micah]] | [[Micah 4| Micah 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; Is it not for you to know judgment?
 ###### 2

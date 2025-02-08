@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 18
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 17| <-- 1 Nephi 17]] | [[1 Nephi]] | [[1 Nephi 19| 1 Nephi 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that they did worship the Lord, and did go forth with me; and we did work timbers of curious workmanship. And the Lord did show me from time to time after what manner I should work the timbers of the ship.
 ###### 2

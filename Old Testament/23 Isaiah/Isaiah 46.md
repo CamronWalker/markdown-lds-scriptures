@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 46
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 45| <-- Isaiah 45]] | [[Isaiah]] | [[Isaiah 47| Isaiah 47 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/46?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BEL boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast.
 ###### 2

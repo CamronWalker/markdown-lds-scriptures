@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 13
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 12| <-- Helaman 12]] | [[Helaman]] | [[Helaman 14| Helaman 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass in the eighty and sixth year, the Nephites did still remain in wickedness, yea, in great wickedness, while the Lamanites did observe strictly to keep the commandments of God, according to the law of Moses.
 ###### 2

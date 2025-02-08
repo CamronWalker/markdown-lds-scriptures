@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 130
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 129| <-- Psalm 129]] | [[Psalms]] | [[Psalm 131| Psalm 131 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/130?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 OUT of the depths have I cried unto thee, O LORD.
 ###### 2

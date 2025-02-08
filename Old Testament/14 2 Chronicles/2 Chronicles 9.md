@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 8| <-- 2 Chronicles 8]] | [[2 Chronicles]] | [[2 Chronicles 10| 2 Chronicles 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
 ###### 2

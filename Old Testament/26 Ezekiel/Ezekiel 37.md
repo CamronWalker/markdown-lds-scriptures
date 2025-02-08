@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 37
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 36| <-- Ezekiel 36]] | [[Ezekiel]] | [[Ezekiel 38| Ezekiel 38 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,
 ###### 2

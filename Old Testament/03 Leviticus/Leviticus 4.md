@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 3| <-- Leviticus 3]] | [[Leviticus]] | [[Leviticus 5| Leviticus 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses, saying,
 ###### 2

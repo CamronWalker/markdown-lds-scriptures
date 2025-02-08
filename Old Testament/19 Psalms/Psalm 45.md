@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 45
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 44| <-- Psalm 44]] | [[Psalms]] | [[Psalm 46| Psalm 46 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/45?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.
 ###### 2

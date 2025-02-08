@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 8| <-- Hosea 8]] | [[Hosea]] | [[Hosea 10| Hosea 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 REJOICE not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 14
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 13| <-- John 13]] | [[John]] | [[John 15| John 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 LET not your heart be troubled: ye believe in God, believe also in me.
 ###### 2

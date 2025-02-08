@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 24
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 23| <-- Deuteronomy 23]] | [[Deuteronomy]] | [[Deuteronomy 25| Deuteronomy 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/24?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house.
 ###### 2

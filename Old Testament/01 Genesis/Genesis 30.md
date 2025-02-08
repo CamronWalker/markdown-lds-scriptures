@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 30
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 29| <-- Genesis 29]] | [[Genesis]] | [[Genesis 31| Genesis 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/30?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
 ###### 2

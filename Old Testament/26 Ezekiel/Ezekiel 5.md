@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 4| <-- Ezekiel 4]] | [[Ezekiel]] | [[Ezekiel 6| Ezekiel 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND thou, son of man, take thee a sharp knife, take thee a barber's razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weight, and divide the hair.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 John 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 John 2| <-- 1 John 2]] | [[1 John]] | [[1 John 4| 1 John 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BEHOLD, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
 ###### 2

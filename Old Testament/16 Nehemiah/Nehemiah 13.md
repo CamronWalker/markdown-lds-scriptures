@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nehemiah 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nehemiah 12| <-- Nehemiah 12]] | [[Nehemiah]] | [[Esther 1| Esther 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ON that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;
 ###### 2

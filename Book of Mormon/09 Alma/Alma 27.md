@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 27
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 26| <-- Alma 26]] | [[Alma]] | [[Alma 28| Alma 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/27?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now it came to pass that when those Lamanites who had gone to war against the Nephites had found, after their many struggles to destroy them, that it was in vain to seek their destruction, they returned again to the land of Nephi.
 ###### 2

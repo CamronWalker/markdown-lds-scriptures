@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 29
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 28| <-- 2 Nephi 28]] | [[2 Nephi]] | [[2 Nephi 30| 2 Nephi 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/29?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 But behold, there shall be many--at that day when I shall proceed to do a marvelous work among them, that I may remember my covenants which I have made unto the children of men, that I may set my hand again the second time to recover my people, which are of the house of Israel;
 ###### 2

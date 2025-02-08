@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 5| <-- Job 5]] | [[Job]] | [[Job 7| Job 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BUT Job answered and said,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 10| <-- Ecclesiastes 10]] | [[Ecclesiastes]] | [[Ecclesiastes 12| Ecclesiastes 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 CAST thy bread upon the waters: for thou shalt find it after many days.
 ###### 2

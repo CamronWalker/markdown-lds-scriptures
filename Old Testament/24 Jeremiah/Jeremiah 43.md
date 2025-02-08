@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 43
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 42| <-- Jeremiah 42]] | [[Jeremiah]] | [[Jeremiah 44| Jeremiah 44 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/43?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, that when Jeremiah had made an end of speaking unto all the people all the words of the LORD their God, for which the LORD their God had sent him to them, even all these words,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 4
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 3| <-- Ether 3]] | [[Ether]] | [[Ether 5| Ether 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And the Lord commanded the brother of Jared to go down out of the mount from the presence of the Lord, and write the things which he had seen; and they were forbidden to come unto the children of men until after that he should be lifted up upon the cross; and for this cause did king Mosiah keep them, that they should not come unto the world until after Christ should show himself unto his people.
 ###### 2

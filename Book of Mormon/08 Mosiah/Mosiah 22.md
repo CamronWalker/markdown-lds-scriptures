@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 22
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 21| <-- Mosiah 21]] | [[Mosiah]] | [[Mosiah 23| Mosiah 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/22?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that Ammon and king Limhi began to consult with the people how they should deliver themselves out of bondage; and even they did cause that all the people should gather themselves together; and this they did that they might have the voice of the people concerning the matter.
 ###### 2

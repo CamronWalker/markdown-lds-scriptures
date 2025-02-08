@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 24
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 23| <-- Leviticus 23]] | [[Leviticus]] | [[Leviticus 25| Leviticus 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/24?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses, saying,
 ###### 2

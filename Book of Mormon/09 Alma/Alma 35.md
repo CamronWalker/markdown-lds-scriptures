@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 35
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 34| <-- Alma 34]] | [[Alma]] | [[Alma 36| Alma 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/35?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now it came to pass that after Amulek had made an end of these words, they withdrew themselves from the multitude and came over into the land of Jershon.
 ###### 2

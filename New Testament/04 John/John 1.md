@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 24| <-- Luke 24]] | [[John]] | [[John 2| John 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 IN the beginning was the Word, and the Word was with God, and the Word was God.
 ###### 2

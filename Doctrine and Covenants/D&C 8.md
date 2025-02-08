@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/DandC
-People: 
-%%
-# D&C 8
+---
+publish: true
+tags:
+  - Scripture/DandC
+cssclasses:
+  - scriptures
+---
 [[D&C 7| <-- D&C 7]] | [[D&C]] | [[D&C 9| D&C 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 OLIVER Cowdery, verily, verily, I say unto you, that assuredly as the Lord liveth, who is your God and your Redeemer, even so surely shall you receive a knowledge of whatsoever things you shall ask in faith, with an honest heart, believing that you shall receive a knowledge concerning the engravings of old records, which are ancient, which contain those parts of my scripture of which has been spoken by the manifestation of my Spirit.
 ###### 2

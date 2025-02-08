@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Song of Solomon 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Song of Solomon 6| <-- Song of Solomon 6]] | [[Song of Solomon]] | [[Song of Solomon 8| Song of Solomon 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HOW beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 16
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 15| <-- Matthew 15]] | [[Matthew]] | [[Matthew 17| Matthew 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
 ###### 2

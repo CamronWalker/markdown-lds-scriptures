@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 12
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 11| <-- Alma 11]] | [[Alma]] | [[Alma 13| Alma 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now Alma, seeing that the words of Amulek had silenced Zeezrom, for he beheld that Amulek had caught him in his lying and deceiving to destroy him, and seeing that he began to tremble under a consciousness of his guilt, he opened his mouth and began to speak unto him, and to establish the words of Amulek, and to explain things beyond, or to unfold the scriptures beyond that which Amulek had done.
 ###### 2

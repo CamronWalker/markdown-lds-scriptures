@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 5| <-- Psalm 5]] | [[Psalms]] | [[Psalm 7| Psalm 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
 ###### 2

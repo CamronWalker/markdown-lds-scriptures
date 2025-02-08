@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Lamentations 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Lamentations 4| <-- Lamentations 4]] | [[Lamentations]] | [[Ezekial 1| Ezekial 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 REMEMBER, O LORD, what is come upon us: consider, and behold our reproach.
 ###### 2

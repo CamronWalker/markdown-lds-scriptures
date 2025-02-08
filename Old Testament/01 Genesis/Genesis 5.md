@@ -1,19 +1,16 @@
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 4| <-- Genesis 4]] | [[Genesis]] | [[Genesis 6| Genesis 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THIS is the book of the generations of Adam.  In the day that God created man, in the likeness of God made he him;
 ###### 2

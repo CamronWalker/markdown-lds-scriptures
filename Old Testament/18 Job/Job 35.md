@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 35
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 34| <-- Job 34]] | [[Job]] | [[Job 36| Job 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/35?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ELIHU spake moreover, and said,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 2| <-- Acts 2]] | [[Acts]] | [[Acts 4| Acts 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Peter and John went up together into the temple at the hour of prayer, being the ninth hour.
 ###### 2

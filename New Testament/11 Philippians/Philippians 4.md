@@ -4,21 +4,19 @@ Chapter ###### 11
 The Epistle of Paul the Apostle to the Philippians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Philippians 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Philippians 3| <-- Philippians 3]] | [[Philippians]] | [[Collosians 1| Collosians 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEREFORE, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.
 ###### 2

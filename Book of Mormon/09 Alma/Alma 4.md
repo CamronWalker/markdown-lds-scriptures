@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 4
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 3| <-- Alma 3]] | [[Alma]] | [[Alma 5| Alma 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now it came to pass in the sixth year of the reign of the judges over the people of Nephi, there were no contentions nor wars in the land of Zarahemla;
 ###### 2

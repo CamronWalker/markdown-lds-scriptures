@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 9
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 8| <-- John 8]] | [[John]] | [[John 10| John 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND as Jesus passed by, he saw a man which was blind from his birth.
 ###### 2

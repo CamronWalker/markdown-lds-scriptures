@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 19| <-- Exodus 19]] | [[Exodus]] | [[Exodus 21| Exodus 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND God spake all these words, saying,
 ###### 2

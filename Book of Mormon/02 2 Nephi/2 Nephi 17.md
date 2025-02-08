@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 17
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 16| <-- 2 Nephi 16]] | [[2 Nephi]] | [[2 Nephi 18| 2 Nephi 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/17?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin, king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
 ###### 2

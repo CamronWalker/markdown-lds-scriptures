@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekial 1| <-- Ezekial 1]] | [[Ezekiel]] | [[Ezekiel 3| Ezekiel 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.
 ###### 2

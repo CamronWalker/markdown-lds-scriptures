@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 15| <-- 1 Chronicles 15]] | [[1 Chronicles]] | [[1 Chronicles 17| 1 Chronicles 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SO they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
 ###### 2

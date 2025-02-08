@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 46
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 45| <-- Genesis 45]] | [[Genesis]] | [[Genesis 47| Genesis 47 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/46?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac.
 ###### 2

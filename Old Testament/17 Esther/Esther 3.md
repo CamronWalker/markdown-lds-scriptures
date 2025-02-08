@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Esther 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Esther 2| <-- Esther 2]] | [[Esther]] | [[Esther 4| Esther 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.
 ###### 2

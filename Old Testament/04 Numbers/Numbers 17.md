@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 16| <-- Numbers 16]] | [[Numbers]] | [[Numbers 18| Numbers 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses, saying,
 ###### 2

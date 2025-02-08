@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 1| <-- Psalm 1]] | [[Psalms]] | [[Psalm 3| Psalm 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHY do the heathen rage, and the people imagine a vain thing?
 ###### 2

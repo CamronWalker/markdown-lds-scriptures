@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 25| <-- Jeremiah 25]] | [[Jeremiah]] | [[Jeremiah 27| Jeremiah 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the LORD, saying,
 ###### 2

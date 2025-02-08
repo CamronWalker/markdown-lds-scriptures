@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 8| <-- Psalm 8]] | [[Psalms]] | [[Psalm 10| Psalm 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 38
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 37| <-- Alma 37]] | [[Alma]] | [[Alma 39| Alma 39 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 My son, give ear to my words, for I say unto you, even as I said unto Helaman, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 10
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 9| <-- 3 Nephi 9]] | [[3 Nephi]] | [[3 Nephi 11| 3 Nephi 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now behold, it came to pass that all the people of the land did hear these sayings, and did witness of it. And after these sayings there was silence in the land for the space of many hours;
 ###### 2

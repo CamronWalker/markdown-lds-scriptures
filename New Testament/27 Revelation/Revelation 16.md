@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 16
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 15| <-- Revelation 15]] | [[Revelation]] | [[Revelation 17| Revelation 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
 ###### 2

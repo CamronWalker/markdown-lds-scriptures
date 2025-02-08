@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 11
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 10| <-- Matthew 10]] | [[Matthew]] | [[Matthew 12| Matthew 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.
 ###### 2

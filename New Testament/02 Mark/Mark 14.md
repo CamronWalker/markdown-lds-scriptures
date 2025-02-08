@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 14
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 13| <-- Mark 13]] | [[Mark]] | [[Mark 15| Mark 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER two days was the feast of the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put him to death.
 ###### 2

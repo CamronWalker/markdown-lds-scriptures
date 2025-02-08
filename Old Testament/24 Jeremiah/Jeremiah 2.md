@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 1| <-- Jeremiah 1]] | [[Jeremiah]] | [[Jeremiah 3| Jeremiah 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER the word of the LORD came to me, saying,
 ###### 2

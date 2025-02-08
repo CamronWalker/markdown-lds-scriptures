@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 20| <-- Isaiah 20]] | [[Isaiah]] | [[Isaiah 22| Isaiah 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE burden of the desert of the sea.  As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.
 ###### 2

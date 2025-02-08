@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 5| <-- Matthew 5]] | [[Matthew]] | [[Matthew 7| Matthew 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 TAKE heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.
 ###### 2

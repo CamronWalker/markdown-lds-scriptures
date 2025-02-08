@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Habakkuk 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Habakkuk 1| <-- Habakkuk 1]] | [[Habakkuk]] | [[Habakkuk 3| Habakkuk 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hab/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.
 ###### 2

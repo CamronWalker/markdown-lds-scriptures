@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 41
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 40| <-- Ezekiel 40]] | [[Ezekiel]] | [[Ezekiel 42| Ezekiel 42 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/41?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AFTERWARD he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, which was the breadth of the tabernacle.
 ###### 2

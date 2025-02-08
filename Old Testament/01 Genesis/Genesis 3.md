@@ -1,19 +1,16 @@
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 2| <-- Genesis 2]] | [[Genesis]] | [[Genesis 4| Genesis 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW the serpent was more subtil than any beast of the field which the LORD God had made.  And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 ###### 2

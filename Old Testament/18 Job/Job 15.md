@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 14| <-- Job 14]] | [[Job]] | [[Job 16| Job 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN answered Eliphaz the Temanite, and said,
 ###### 2

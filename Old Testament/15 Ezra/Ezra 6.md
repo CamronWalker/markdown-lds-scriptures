@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezra 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezra 5| <-- Ezra 5]] | [[Ezra]] | [[Ezra 7| Ezra 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.
 ###### 2

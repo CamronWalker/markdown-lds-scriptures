@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 17
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 16| <-- Matthew 16]] | [[Matthew]] | [[Matthew 18| Matthew 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/17?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,
 ###### 2

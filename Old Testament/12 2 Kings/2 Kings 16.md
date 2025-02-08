@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 15| <-- 2 Kings 15]] | [[2 Kings]] | [[2 Kings 17| 2 Kings 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.
 ###### 2

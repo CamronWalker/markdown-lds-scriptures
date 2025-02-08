@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 4| <-- 2 Kings 4]] | [[2 Kings]] | [[2 Kings 6| 2 Kings 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper.
 ###### 2

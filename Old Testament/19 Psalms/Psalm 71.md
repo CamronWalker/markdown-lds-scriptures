@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 71
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 70| <-- Psalm 70]] | [[Psalms]] | [[Psalm 72| Psalm 72 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/71?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN thee, O LORD, do I put my trust: let me never be put to confusion.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 47
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 46| <-- Jeremiah 46]] | [[Jeremiah]] | [[Jeremiah 48| Jeremiah 48 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/47?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.
 ###### 2

@@ -4,21 +4,19 @@ Chapter ###### 9
 The Epistle of Paul the Apostle to the Galatians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Galatians 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Galatians 1| <-- Galatians 1]] | [[Galatians]] | [[Galatians 3| Galatians 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
 ###### 2

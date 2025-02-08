@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 24| <-- Numbers 24]] | [[Numbers]] | [[Numbers 26| Numbers 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 ###### 2

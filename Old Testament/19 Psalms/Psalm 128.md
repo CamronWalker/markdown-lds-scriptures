@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 128
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 127| <-- Psalm 127]] | [[Psalms]] | [[Psalm 129| Psalm 129 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/128?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BLESSED is every one that feareth the LORD; that walketh in his ways.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Peter 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Peter 5| <-- 1 Peter 5]] | [[2 Peter]] | [[2 Peter 2| 2 Peter 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 SIMON Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 ###### 2

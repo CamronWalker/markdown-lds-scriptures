@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 4| <-- Leviticus 4]] | [[Leviticus]] | [[Leviticus 6| Leviticus 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity.
 ###### 2

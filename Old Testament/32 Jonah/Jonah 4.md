@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jonah 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jonah 3| <-- Jonah 3]] | [[Jonah]] | [[Micah 1| Micah 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BUT it displeased Jonah exceedingly, and he was very angry.
 ###### 2

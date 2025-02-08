@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 30
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 29| <-- 1 Samuel 29]] | [[1 Samuel]] | [[1 Samuel 31| 1 Samuel 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/30?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;
 ###### 2

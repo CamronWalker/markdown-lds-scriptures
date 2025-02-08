@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 10
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 9| <-- 1 Nephi 9]] | [[1 Nephi]] | [[1 Nephi 11| 1 Nephi 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I, Nephi, proceed to give an account upon these plates of my proceedings, and my reign and ministry; wherefore, to proceed with mine account, I must speak somewhat of the things of my father, and also of my brethren.
 ###### 2

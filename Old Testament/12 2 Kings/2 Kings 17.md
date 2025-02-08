@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 16| <-- 2 Kings 16]] | [[2 Kings]] | [[2 Kings 18| 2 Kings 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
 ###### 2

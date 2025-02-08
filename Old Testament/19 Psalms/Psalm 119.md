@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 119
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 118| <-- Psalm 118]] | [[Psalms]] | [[Psalm 120| Psalm 120 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/119?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BLESSED are the undefiled in the way, who walk in the law of the LORD.
 ###### 2

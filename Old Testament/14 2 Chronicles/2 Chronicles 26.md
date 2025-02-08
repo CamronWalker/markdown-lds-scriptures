@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 25| <-- 2 Chronicles 25]] | [[2 Chronicles]] | [[2 Chronicles 27| 2 Chronicles 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.
 ###### 2

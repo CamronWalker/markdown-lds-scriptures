@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 24| <-- Proverbs 24]] | [[Proverbs]] | [[Proverbs 26| Proverbs 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THESE are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
 ###### 2

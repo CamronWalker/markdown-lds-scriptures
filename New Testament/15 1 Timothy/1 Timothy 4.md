@@ -4,21 +4,19 @@ Chapter ###### 15
 The First Epistle of Paul the Apostle to Timothy
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Timothy 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Timothy 3| <-- 1 Timothy 3]] | [[1 Timothy]] | [[1 Timothy 5| 1 Timothy 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
 ###### 2

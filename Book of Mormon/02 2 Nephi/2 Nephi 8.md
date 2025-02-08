@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 8
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 7| <-- 2 Nephi 7]] | [[2 Nephi]] | [[2 Nephi 9| 2 Nephi 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Hearken unto me, ye that follow after righteousness. Look unto the rock from whence ye are hewn, and to the hole of the pit from whence ye are digged.
 ###### 2

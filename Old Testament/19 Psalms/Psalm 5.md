@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 4| <-- Psalm 4]] | [[Psalms]] | [[Psalm 6| Psalm 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GIVE ear to my words, O LORD, consider my meditation.
 ###### 2

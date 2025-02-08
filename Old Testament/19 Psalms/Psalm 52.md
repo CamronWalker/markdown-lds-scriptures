@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 52
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 51| <-- Psalm 51]] | [[Psalms]] | [[Psalm 53| Psalm 53 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/52?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHY boastest thou thyself in mischief, O mighty man?  the goodness of God endureth continually.
 ###### 2

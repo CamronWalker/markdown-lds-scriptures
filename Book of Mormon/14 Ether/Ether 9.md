@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 9
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 8| <-- Ether 8]] | [[Ether]] | [[Ether 10| Ether 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I, Moroni, proceed with my record. Therefore, behold, it came to pass that because of the secret combinations of Akish and his friends, behold, they did overthrow the kingdom of Omer.
 ###### 2

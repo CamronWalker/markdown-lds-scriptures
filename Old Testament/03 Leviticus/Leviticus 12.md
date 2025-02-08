@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 11| <-- Leviticus 11]] | [[Leviticus]] | [[Leviticus 13| Leviticus 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses, saying,
 ###### 2

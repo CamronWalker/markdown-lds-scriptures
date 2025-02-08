@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 22
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 21| <-- Luke 21]] | [[Luke]] | [[Luke 23| Luke 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/22?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW the feast of unleavened bread drew nigh, which is called the Passover.
 ###### 2

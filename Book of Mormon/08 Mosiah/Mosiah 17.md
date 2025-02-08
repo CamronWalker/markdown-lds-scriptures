@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 17
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 16| <-- Mosiah 16]] | [[Mosiah]] | [[Mosiah 18| Mosiah 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that when Abinadi had finished these sayings, that the king commanded that the priests should take him and cause that he should be put to death.
 ###### 2

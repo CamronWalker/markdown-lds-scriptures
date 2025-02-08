@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 29| <-- 1 Chronicles 29]] | [[2 Chronicles]] | [[2 Chronicles 2| 2 Chronicles 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 58
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 57| <-- Psalm 57]] | [[Psalms]] | [[Psalm 59| Psalm 59 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/58?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 DO ye indeed speak righteousness, O congregation?  do ye judge uprightly, O ye sons of men?
 ###### 2

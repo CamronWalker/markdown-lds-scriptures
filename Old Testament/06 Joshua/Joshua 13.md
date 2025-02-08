@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joshua 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joshua 12| <-- Joshua 12]] | [[Joshua]] | [[Joshua 14| Joshua 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Joshua was old and stricken in years; and the LORD said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.
 ###### 2

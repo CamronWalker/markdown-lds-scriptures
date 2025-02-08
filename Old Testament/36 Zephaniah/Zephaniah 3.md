@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zephaniah 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zephaniah 2| <-- Zephaniah 2]] | [[Zephaniah]] | [[Haggai 1| Haggai 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zeph/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WOE to her that is filthy and polluted, to the oppressing city!
 ###### 2

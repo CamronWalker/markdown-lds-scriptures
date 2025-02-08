@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 15
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 14| <-- Luke 14]] | [[Luke]] | [[Luke 16| Luke 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN drew near unto him all the publicans and sinners for to hear him.
 ###### 2

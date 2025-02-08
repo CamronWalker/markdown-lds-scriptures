@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 64
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 63| <-- Isaiah 63]] | [[Isaiah]] | [[Isaiah 65| Isaiah 65 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/64?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 OH that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,
 ###### 2

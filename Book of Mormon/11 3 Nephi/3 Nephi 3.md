@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 3
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 2| <-- 3 Nephi 2]] | [[3 Nephi]] | [[3 Nephi 4| 3 Nephi 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that in the sixteenth year from the coming of Christ, Lachoneus, the governor of the land, received an epistle from the leader and the governor of this band of robbers; and these were the words which were written, saying:
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 62
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 61| <-- Alma 61]] | [[Alma]] | [[Alma 63| Alma 63 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/62?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that when Moroni had received this epistle his heart did take courage, and was filled with exceedingly great joy because of the faithfulness of Pahoran, that he was not also a traitor to the freedom and cause of his country.
 ###### 2

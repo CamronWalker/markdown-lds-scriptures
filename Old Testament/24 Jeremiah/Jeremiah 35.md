@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 35
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 34| <-- Jeremiah 34]] | [[Jeremiah]] | [[Jeremiah 36| Jeremiah 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/35?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying,
 ###### 2

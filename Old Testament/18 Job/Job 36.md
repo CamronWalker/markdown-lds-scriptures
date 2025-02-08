@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 36
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 35| <-- Job 35]] | [[Job]] | [[Job 37| Job 37 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/36?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ELIHU also proceeded, and said,
 ###### 2

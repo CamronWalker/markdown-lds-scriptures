@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 16
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 15| <-- John 15]] | [[John]] | [[John 17| John 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THESE things have I spoken unto you, that ye should not be offended.
 ###### 2

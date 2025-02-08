@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 8
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 7| <-- 2 Corinthians 7]] | [[2 Corinthians]] | [[2 Corinthians 9| 2 Corinthians 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;
 ###### 2

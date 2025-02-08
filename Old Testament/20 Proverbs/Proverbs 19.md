@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 18| <-- Proverbs 18]] | [[Proverbs]] | [[Proverbs 20| Proverbs 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BETTER is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.
 ###### 2

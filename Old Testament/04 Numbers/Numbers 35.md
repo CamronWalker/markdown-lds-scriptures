@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 35
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 34| <-- Numbers 34]] | [[Numbers]] | [[Numbers 36| Numbers 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/35?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,
 ###### 2

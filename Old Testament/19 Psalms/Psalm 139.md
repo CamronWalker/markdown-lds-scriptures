@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 139
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 138| <-- Psalm 138]] | [[Psalms]] | [[Psalm 140| Psalm 140 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/139?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O LORD, thou hast searched me, and known me.
 ###### 2

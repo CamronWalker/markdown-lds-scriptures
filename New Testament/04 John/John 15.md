@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 15
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 14| <-- John 14]] | [[John]] | [[John 16| John 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 I AM the true vine, and my Father is the husbandman.
 ###### 2

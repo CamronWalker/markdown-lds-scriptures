@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 5| <-- 1 Chronicles 5]] | [[1 Chronicles]] | [[1 Chronicles 7| 1 Chronicles 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE sons of Levi; Gershon, Kohath, and Merari.
 ###### 2

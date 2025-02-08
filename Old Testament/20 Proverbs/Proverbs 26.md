@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 25| <-- Proverbs 25]] | [[Proverbs]] | [[Proverbs 27| Proverbs 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AS snow in summer, and as rain in harvest, so honour is not seemly for a fool.
 ###### 2

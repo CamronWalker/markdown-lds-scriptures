@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 2| <-- 2 Corinthians 2]] | [[2 Corinthians]] | [[2 Corinthians 4| 2 Corinthians 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 DO we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?
 ###### 2

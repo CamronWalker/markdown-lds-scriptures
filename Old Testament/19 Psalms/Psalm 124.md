@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 124
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 123| <-- Psalm 123]] | [[Psalms]] | [[Psalm 125| Psalm 125 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/124?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IF it had not been the LORD who was on our side, now may Israel say;
 ###### 2

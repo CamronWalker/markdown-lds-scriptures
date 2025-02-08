@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 11
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 10| <-- Ether 10]] | [[Ether]] | [[Ether 12| Ether 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And there came also in the days of Com many prophets, and prophesied of the destruction of that great people except they should repent, and turn unto the Lord, and forsake their murders and wickedness.
 ###### 2

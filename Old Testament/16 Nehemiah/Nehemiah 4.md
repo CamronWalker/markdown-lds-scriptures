@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nehemiah 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nehemiah 3| <-- Nehemiah 3]] | [[Nehemiah]] | [[Nehemiah 5| Nehemiah 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BUT it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.
 ###### 2

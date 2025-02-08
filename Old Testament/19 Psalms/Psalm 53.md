@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 53
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 52| <-- Psalm 52]] | [[Psalms]] | [[Psalm 54| Psalm 54 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/53?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE fool hath said in his heart, There is no God.  Corrupt are they, and have done abominable iniquity: there is none that doeth good.
 ###### 2

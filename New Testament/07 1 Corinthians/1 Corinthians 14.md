@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 14
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 13| <-- 1 Corinthians 13]] | [[1 Corinthians]] | [[1 Corinthians 15| 1 Corinthians 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FOLLOW after charity, and desire spiritual gifts, but rather that ye may prophesy.
 ###### 2

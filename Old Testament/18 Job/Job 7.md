@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 6| <-- Job 6]] | [[Job]] | [[Job 8| Job 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IS there not an appointed time to man upon earth?  are not his days also like the days of an hireling?
 ###### 2

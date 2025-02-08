@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 22
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 21| <-- Acts 21]] | [[Acts]] | [[Acts 23| Acts 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/22?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 MEN, brethren, and fathers, hear ye my defence which I make now unto you.
 ###### 2

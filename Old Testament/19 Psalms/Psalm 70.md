@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 70
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 69| <-- Psalm 69]] | [[Psalms]] | [[Psalm 71| Psalm 71 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/70?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MAKE haste, O God, to deliver me; make haste to help me, O LORD.
 ###### 2

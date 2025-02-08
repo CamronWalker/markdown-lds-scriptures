@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 42
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 41| <-- Psalm 41]] | [[Psalms]] | [[Psalm 43| Psalm 43 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/42?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AS the hart panteth after the water brooks, so panteth my soul after thee, O God.
 ###### 2

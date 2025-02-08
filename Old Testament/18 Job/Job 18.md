@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 17| <-- Job 17]] | [[Job]] | [[Job 19| Job 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN answered Bildad the Shuhite, and said,
 ###### 2

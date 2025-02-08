@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 26
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 25| <-- Alma 25]] | [[Alma]] | [[Alma 27| Alma 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, these are the words of Ammon to his brethren, which say thus: My brothers and my brethren, behold I say unto you, how great reason have we to rejoice; for could we have supposed when we started from the land of Zarahemla that God would have granted unto us such great blessings?
 ###### 2

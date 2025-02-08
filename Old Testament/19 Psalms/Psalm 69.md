@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 69
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 68| <-- Psalm 68]] | [[Psalms]] | [[Psalm 70| Psalm 70 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/69?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SAVE me, O God; for the waters are come in unto my soul.
 ###### 2

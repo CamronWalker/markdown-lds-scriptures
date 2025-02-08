@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zechariah 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 10| <-- Zechariah 10]] | [[Zechariah]] | [[Zechariah 12| Zechariah 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 OPEN thy doors, O Lebanon, that the fire may devour thy cedars.
 ###### 2

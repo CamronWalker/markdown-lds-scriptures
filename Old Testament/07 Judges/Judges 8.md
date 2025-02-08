@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 7| <-- Judges 7]] | [[Judges]] | [[Judges 9| Judges 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites?  And they did chide with him sharply.
 ###### 2

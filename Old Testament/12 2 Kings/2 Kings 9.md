@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 8| <-- 2 Kings 8]] | [[2 Kings]] | [[2 Kings 10| 2 Kings 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramoth-gilead:
 ###### 2

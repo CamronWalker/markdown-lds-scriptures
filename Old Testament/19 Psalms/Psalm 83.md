@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 83
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 82| <-- Psalm 82]] | [[Psalms]] | [[Psalm 84| Psalm 84 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/83?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 KEEP not thou silence, O God: hold not thy peace, and be not still, O God.
 ###### 2

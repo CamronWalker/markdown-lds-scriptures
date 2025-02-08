@@ -1,19 +1,16 @@
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 6| <-- Genesis 6]] | [[Genesis]] | [[Genesis 8| Genesis 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
 ###### 2

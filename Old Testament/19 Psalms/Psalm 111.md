@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 111
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 110| <-- Psalm 110]] | [[Psalms]] | [[Psalm 112| Psalm 112 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/111?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  I will praise the LORD with mywhole heart, in the assembly of the upright, and in the congregation.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Daniel 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Daniel 10| <-- Daniel 10]] | [[Daniel]] | [[Daniel 12| Daniel 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ALSO I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.
 ###### 2

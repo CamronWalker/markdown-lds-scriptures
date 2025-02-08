@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 15| <-- 1 Kings 15]] | [[1 Kings]] | [[1 Kings 17| 1 Kings 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN the word of the LORD came to Jehu the son of Hanani against Baasha, saying,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 123
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 122| <-- Psalm 122]] | [[Psalms]] | [[Psalm 124| Psalm 124 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/123?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 UNTO thee lift I up mine eyes, O thou that dwellest in the heavens.
 ###### 2

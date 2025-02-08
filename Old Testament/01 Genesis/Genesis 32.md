@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 32
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 31| <-- Genesis 31]] | [[Genesis]] | [[Genesis 33| Genesis 33 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/32?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jacob went on his way, and the angels of God met him.
 ###### 2

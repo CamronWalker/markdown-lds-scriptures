@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nehemiah 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezra 10| <-- Ezra 10]] | [[Nehemiah]] | [[Nehemiah 2| Nehemiah 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE words of Nehemiah the son of Hachaliah.  And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 20| <-- 2 Chronicles 20]] | [[2 Chronicles]] | [[2 Chronicles 22| 2 Chronicles 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David.  And Jehoram his son reigned in his stead.
 ###### 2

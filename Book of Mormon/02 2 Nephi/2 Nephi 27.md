@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 27
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 26| <-- 2 Nephi 26]] | [[2 Nephi]] | [[2 Nephi 28| 2 Nephi 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 But, behold, in the last days, or in the days of the Gentiles--yea, behold all the nations of the Gentiles and also the Jews, both those who shall come upon this land and those who shall be upon other lands, yea, even upon all the lands of the earth, behold, they will be drunken with iniquity and all manner of abominations--
 ###### 2

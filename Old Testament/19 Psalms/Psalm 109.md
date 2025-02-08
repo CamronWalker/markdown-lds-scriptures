@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 109
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 108| <-- Psalm 108]] | [[Psalms]] | [[Psalm 110| Psalm 110 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/109?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HOLD not thy peace, O God of my praise;
 ###### 2

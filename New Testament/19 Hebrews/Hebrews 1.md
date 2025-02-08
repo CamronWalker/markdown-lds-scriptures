@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Hebrews 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Philemon 1| <-- Philemon 1]] | [[Hebrews]] | [[Hebrews 2| Hebrews 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 GOD, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
 ###### 2

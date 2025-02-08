@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 50
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 49| <-- Isaiah 49]] | [[Isaiah]] | [[Isaiah 51| Isaiah 51 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/50?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THUS saith the LORD, Where is the bill of your mother's divorcement, whom I have put away?  or which of my creditors is it to whom I have sold you?  Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.
 ###### 2

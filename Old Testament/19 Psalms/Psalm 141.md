@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 141
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 140| <-- Psalm 140]] | [[Psalms]] | [[Psalm 142| Psalm 142 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/141?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
 ###### 2

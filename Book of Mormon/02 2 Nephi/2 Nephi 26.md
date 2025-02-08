@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 26
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 25| <-- 2 Nephi 25]] | [[2 Nephi]] | [[2 Nephi 27| 2 Nephi 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And after Christ shall have risen from the dead he shall show himself unto you, my children, and my beloved brethren; and the words which he shall speak unto you shall be the law which ye shall do.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 24
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 23| <-- 1 Chronicles 23]] | [[1 Chronicles]] | [[1 Chronicles 25| 1 Chronicles 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/24?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW these are the divisions of the sons of Aaron.  The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 ###### 2

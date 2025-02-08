@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 13| <-- Ezekiel 13]] | [[Ezekiel]] | [[Ezekiel 15| Ezekiel 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN came certain of the elders of Israel unto me, and sat before me.
 ###### 2

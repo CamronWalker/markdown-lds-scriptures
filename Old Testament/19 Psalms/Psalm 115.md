@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 115
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 114| <-- Psalm 114]] | [[Psalms]] | [[Psalm 116| Psalm 116 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/115?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOT unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake.
 ###### 2

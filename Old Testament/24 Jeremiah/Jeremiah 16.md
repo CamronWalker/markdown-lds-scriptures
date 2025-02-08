@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 15| <-- Jeremiah 15]] | [[Jeremiah]] | [[Jeremiah 17| Jeremiah 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word of the LORD came also unto me, saying,
 ###### 2

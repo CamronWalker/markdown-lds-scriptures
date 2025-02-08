@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 25
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 24| <-- Mosiah 24]] | [[Mosiah]] | [[Mosiah 26| Mosiah 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/25?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now king Mosiah caused that all the people should be gathered together.
 ###### 2

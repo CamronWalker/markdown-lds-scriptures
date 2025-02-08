@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 33
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 32| <-- Numbers 32]] | [[Numbers]] | [[Numbers 34| Numbers 34 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/33?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THESE are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
 ###### 2

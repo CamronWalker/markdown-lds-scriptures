@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Esther 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Esther 5| <-- Esther 5]] | [[Esther]] | [[Esther 7| Esther 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ON that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.
 ###### 2

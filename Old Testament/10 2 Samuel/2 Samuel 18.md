@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 17| <-- 2 Samuel 17]] | [[2 Samuel]] | [[2 Samuel 19| 2 Samuel 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND David numbered the people that were with him, and set captains of thousands and captains of hundreds over them.
 ###### 2

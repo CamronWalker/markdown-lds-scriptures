@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 13
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 12| <-- Luke 12]] | [[Luke]] | [[Luke 14| Luke 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THERE were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
 ###### 2

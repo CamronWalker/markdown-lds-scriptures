@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 5| <-- Isaiah 5]] | [[Isaiah]] | [[Isaiah 7| Isaiah 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.
 ###### 2

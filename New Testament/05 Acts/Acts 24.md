@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 24
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 23| <-- Acts 23]] | [[Acts]] | [[Acts 25| Acts 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/24?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul.
 ###### 2

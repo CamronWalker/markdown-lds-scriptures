@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 7| <-- Ecclesiastes 7]] | [[Ecclesiastes]] | [[Ecclesiastes 9| Ecclesiastes 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHO is as the wise man?  and who knoweth the interpretation of a thing?  a man's wisdom maketh his face to shine, and the boldness of his face shall be changed.
 ###### 2

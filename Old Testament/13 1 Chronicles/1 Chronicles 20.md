@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 19| <-- 1 Chronicles 19]] | [[1 Chronicles]] | [[1 Chronicles 21| 1 Chronicles 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah.  But David tarried at Jerusalem.  And Joab smote Rabbah, and destroyed it.
 ###### 2

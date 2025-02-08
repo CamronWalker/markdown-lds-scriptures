@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 7| <-- Isaiah 7]] | [[Isaiah]] | [[Isaiah 9| Isaiah 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER the LORD said unto me, Take thee a great roll, and write in it with a man's pen concerning Maher-shalal-hash-baz.
 ###### 2

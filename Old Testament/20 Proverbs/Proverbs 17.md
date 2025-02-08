@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 16| <-- Proverbs 16]] | [[Proverbs]] | [[Proverbs 18| Proverbs 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BETTER is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samual 1| <-- 2 Samual 1]] | [[2 Samuel]] | [[2 Samuel 3| 2 Samuel 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah?  And the LORD said unto him, Go up.  And David said, Whither shall I go up?  And he said, Unto Hebron.
 ###### 2

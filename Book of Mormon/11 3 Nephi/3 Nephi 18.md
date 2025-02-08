@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 18
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 17| <-- 3 Nephi 17]] | [[3 Nephi]] | [[3 Nephi 19| 3 Nephi 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/18?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that Jesus commanded his disciples that they should bring forth some bread and wine unto him.
 ###### 2

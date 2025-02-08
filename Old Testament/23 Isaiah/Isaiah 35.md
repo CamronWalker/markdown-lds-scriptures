@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 35
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 34| <-- Isaiah 34]] | [[Isaiah]] | [[Isaiah 36| Isaiah 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/35?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.
 ###### 2

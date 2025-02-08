@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 John 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 John 5| <-- 1 John 5]] | [[2 John]] | [[3 John 1| 3 John 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-jn/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
 ###### 2

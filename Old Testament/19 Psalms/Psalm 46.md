@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 46
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 45| <-- Psalm 45]] | [[Psalms]] | [[Psalm 47| Psalm 47 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/46?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GOD is our refuge and strength, a very present help in trouble.
 ###### 2

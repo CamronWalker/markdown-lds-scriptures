@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 59
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 58| <-- Psalm 58]] | [[Psalms]] | [[Psalm 60| Psalm 60 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/59?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 DELIVER me from mine enemies, O my God: defend me from them that rise up against me.
 ###### 2

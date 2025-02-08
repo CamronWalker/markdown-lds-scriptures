@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mormon 4
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mormon 3| <-- Mormon 3]] | [[Mormon]] | [[Mormon 5| Mormon 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that in the three hundred and sixty and third year the Nephites did go up with their armies to battle against the Lamanites, out of the land Desolation.
 ###### 2

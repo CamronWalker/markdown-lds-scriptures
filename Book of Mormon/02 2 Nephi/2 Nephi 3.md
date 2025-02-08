@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 3
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 2| <-- 2 Nephi 2]] | [[2 Nephi]] | [[2 Nephi 4| 2 Nephi 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I speak unto you, Joseph, my last-born. Thou wast born in the wilderness of mine afflictions; yea, in the days of my greatest sorrow did thy mother bear thee.
 ###### 2

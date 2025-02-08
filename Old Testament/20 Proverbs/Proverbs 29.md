@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 28| <-- Proverbs 28]] | [[Proverbs]] | [[Proverbs 30| Proverbs 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HE, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy.
 ###### 2

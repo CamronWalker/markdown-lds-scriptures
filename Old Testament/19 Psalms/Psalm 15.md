@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 14| <-- Psalm 14]] | [[Psalms]] | [[Psalm 16| Psalm 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LORD, who shall abide in thy tabernacle?  who shall dwell in thy holy hill?
 ###### 2

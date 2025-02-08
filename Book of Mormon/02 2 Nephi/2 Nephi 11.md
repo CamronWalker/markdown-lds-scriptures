@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 11
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 10| <-- 2 Nephi 10]] | [[2 Nephi]] | [[2 Nephi 12| 2 Nephi 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, Jacob spake many more things to my people at that time; nevertheless only these things have I caused to be written, for the things which I have written sufficeth me.
 ###### 2

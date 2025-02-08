@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 59
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 58| <-- Isaiah 58]] | [[Isaiah]] | [[Isaiah 60| Isaiah 60 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/59?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BEHOLD, the LORD's hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
 ###### 2

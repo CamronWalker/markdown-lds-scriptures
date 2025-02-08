@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joshua 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joshua 17| <-- Joshua 17]] | [[Joshua]] | [[Joshua 19| Joshua 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there.  And the land was subdued before them.
 ###### 2

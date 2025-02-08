@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zechariah 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 3| <-- Zechariah 3]] | [[Zechariah]] | [[Zechariah 5| Zechariah 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
 ###### 2

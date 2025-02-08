@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 15
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 14| <-- 2 Nephi 14]] | [[2 Nephi]] | [[2 Nephi 16| 2 Nephi 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And then will I sing to my well-beloved a song of my beloved, touching his vineyard. My well-beloved hath a vineyard in a very fruitful hill.
 ###### 2

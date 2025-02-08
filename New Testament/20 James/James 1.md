@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# James 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Hebrews 13| <-- Hebrews 13]] | [[James]] | [[James 2| James 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 JAMES, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 ###### 2

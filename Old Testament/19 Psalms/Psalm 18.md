@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 17| <-- Psalm 17]] | [[Psalms]] | [[Psalm 19| Psalm 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL love thee, O LORD, my strength.
 ###### 2

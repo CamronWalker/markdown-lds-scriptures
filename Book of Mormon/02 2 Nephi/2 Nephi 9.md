@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 9
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 8| <-- 2 Nephi 8]] | [[2 Nephi]] | [[2 Nephi 10| 2 Nephi 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, my beloved brethren, I have read these things that ye might know concerning the covenants of the Lord that he has covenanted with all the house of Israel--
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zechariah 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 7| <-- Zechariah 7]] | [[Zechariah]] | [[Zechariah 9| Zechariah 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AGAIN the word of the LORD of hosts came to me, saying,
 ###### 2

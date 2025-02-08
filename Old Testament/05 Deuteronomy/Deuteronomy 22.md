@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 21| <-- Deuteronomy 21]] | [[Deuteronomy]] | [[Deuteronomy 23| Deuteronomy 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THOU shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.
 ###### 2

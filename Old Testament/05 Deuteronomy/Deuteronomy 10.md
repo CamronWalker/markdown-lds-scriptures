@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 9| <-- Deuteronomy 9]] | [[Deuteronomy]] | [[Deuteronomy 11| Deuteronomy 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AT that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.
 ###### 2

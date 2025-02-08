@@ -4,21 +4,19 @@ Chapter ###### 9
 The Epistle of Paul the Apostle to the Galatians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Galatians 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Galatians 2| <-- Galatians 2]] | [[Galatians]] | [[Galatians 4| Galatians 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 O FOOLISH Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
 ###### 2

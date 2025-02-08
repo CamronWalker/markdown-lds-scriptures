@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 8| <-- Genesis 8]] | [[Genesis]] | [[Genesis 10| Genesis 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
 ###### 2

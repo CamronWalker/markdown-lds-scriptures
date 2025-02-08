@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 13| <-- Jeremiah 13]] | [[Jeremiah]] | [[Jeremiah 15| Jeremiah 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word of the LORD that came to Jeremiah concerning the dearth.
 ###### 2

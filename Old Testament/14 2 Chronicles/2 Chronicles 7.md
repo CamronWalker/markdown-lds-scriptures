@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 6| <-- 2 Chronicles 6]] | [[2 Chronicles]] | [[2 Chronicles 8| 2 Chronicles 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 17| <-- 1 Samuel 17]] | [[1 Samuel]] | [[1 Samuel 19| 1 Samuel 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
 ###### 2

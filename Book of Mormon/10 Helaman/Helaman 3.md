@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 3
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 2| <-- Helaman 2]] | [[Helaman]] | [[Helaman 4| Helaman 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass in the forty and third year of the reign of the judges, there was no contention among the people of Nephi save it were a little pride which was in the church, which did cause some little dissensions among the people, which affairs were settled in the ending of the forty and third year.
 ###### 2

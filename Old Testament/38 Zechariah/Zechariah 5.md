@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zechariah 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 4| <-- Zechariah 4]] | [[Zechariah]] | [[Zechariah 6| Zechariah 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN I turned, and lifted up mine eyes, and looked, and behold a flying roll.
 ###### 2

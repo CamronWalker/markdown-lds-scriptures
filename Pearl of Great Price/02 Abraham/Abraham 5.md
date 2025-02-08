@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Abraham 5
-[[Abraham 4| <-- Abraham 4]] | [[Abraham]] | [[03 Joseph Smith--Matthew| 03 Joseph Smith--Matthew 1 -->]]
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
+[[Abraham 4| <-- Abraham 4]] | [[Abraham]] | [[03 Joseph Smith—Matthew| 03 Joseph Smith--Matthew 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND thus we will finish the heavens and the earth, and all the hosts of them.
 ###### 2

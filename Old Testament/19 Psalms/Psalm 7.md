@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 6| <-- Psalm 6]] | [[Psalms]] | [[Psalm 8| Psalm 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:
 ###### 2

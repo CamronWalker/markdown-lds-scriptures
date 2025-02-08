@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 5| <-- 1 Samuel 5]] | [[1 Samuel]] | [[1 Samuel 7| 1 Samuel 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the ark of the LORD was in the country of the Philistines seven months.
 ###### 2

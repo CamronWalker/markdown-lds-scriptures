@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 72
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 71| <-- Psalm 71]] | [[Psalms]] | [[Psalm 73| Psalm 73 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/72?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GIVE the king thy judgments, O God, and thy righteousness unto the king's son.
 ###### 2

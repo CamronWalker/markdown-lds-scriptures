@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Peter 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Peter 3| <-- 1 Peter 3]] | [[1 Peter]] | [[1 Peter 5| 1 Peter 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FORASMUCH then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;
 ###### 2

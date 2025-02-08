@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 22| <-- Psalm 22]] | [[Psalms]] | [[Psalm 24| Psalm 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE LORD is my shepherd; I shall not want.
 ###### 2

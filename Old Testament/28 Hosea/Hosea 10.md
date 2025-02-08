@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 9| <-- Hosea 9]] | [[Hosea]] | [[Hosea 11| Hosea 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ISRAEL is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.
 ###### 2

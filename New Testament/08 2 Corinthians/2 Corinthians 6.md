@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 5| <-- 2 Corinthians 5]] | [[2 Corinthians]] | [[2 Corinthians 7| 2 Corinthians 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WE then, as workers together with him, beseech you also that ye receive not the grace of God in vain.
 ###### 2

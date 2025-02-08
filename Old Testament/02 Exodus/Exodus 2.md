@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 1| <-- Exodus 1]] | [[Exodus]] | [[Exodus 3| Exodus 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND there went a man of the house of Levi, and took to wife a daughter of Levi.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 7
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 6| <-- Helaman 6]] | [[Helaman]] | [[Helaman 8| Helaman 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, now it came to pass in the sixty and ninth year of the reign of the judges over the people of the Nephites, that Nephi, the son of Helaman, returned to the land of Zarahemla from the land northward.
 ###### 2

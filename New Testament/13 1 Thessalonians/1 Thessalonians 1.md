@@ -1,20 +1,18 @@
 Chapter ###### 13
 The First Epistle of Paul the Apostle to the Thessalonians
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Thessalonians 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Collosians 4| <-- Collosians 4]] | [[1 Thessalonians]] | [[1 Thessalonians 2| 1 Thessalonians 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.
 ###### 2

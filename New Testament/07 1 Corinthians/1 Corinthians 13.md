@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 13
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 12| <-- 1 Corinthians 12]] | [[1 Corinthians]] | [[1 Corinthians 14| 1 Corinthians 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THOUGH I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
 ###### 2

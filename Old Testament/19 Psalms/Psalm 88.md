@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 88
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 87| <-- Psalm 87]] | [[Psalms]] | [[Psalm 89| Psalm 89 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/88?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O LORD God of my salvation, I have cried day and night before thee:
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 31
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 30| <-- Deuteronomy 30]] | [[Deuteronomy]] | [[Deuteronomy 32| Deuteronomy 32 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/31?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Moses went and spake these words unto all Israel.
 ###### 2

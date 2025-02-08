@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 21| <-- Numbers 21]] | [[Numbers]] | [[Numbers 23| Numbers 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.
 ###### 2

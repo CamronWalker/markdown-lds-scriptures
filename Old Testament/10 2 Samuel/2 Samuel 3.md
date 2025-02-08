@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 2| <-- 2 Samuel 2]] | [[2 Samuel]] | [[2 Samuel 4| 2 Samuel 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.
 ###### 2

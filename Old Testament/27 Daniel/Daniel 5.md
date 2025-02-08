@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Daniel 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Daniel 4| <-- Daniel 4]] | [[Daniel]] | [[Daniel 6| Daniel 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BELSHAZZAR the king made a great feast to a thousand of his lords, and drank wine before the thousand.
 ###### 2

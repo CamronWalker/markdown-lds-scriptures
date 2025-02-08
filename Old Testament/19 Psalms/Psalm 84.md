@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 84
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 83| <-- Psalm 83]] | [[Psalms]] | [[Psalm 85| Psalm 85 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/84?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HOW amiable are thy tabernacles, O LORD of hosts!
 ###### 2

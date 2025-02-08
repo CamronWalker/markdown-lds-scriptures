@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 37
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 36| <-- Alma 36]] | [[Alma]] | [[Alma 38| Alma 38 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/37?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, my son Helaman, I command you that ye take the records which have been entrusted with me;
 ###### 2

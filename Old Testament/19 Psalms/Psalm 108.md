@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 108
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 107| <-- Psalm 107]] | [[Psalms]] | [[Psalm 109| Psalm 109 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/108?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O GOD, my heart is fixed; I will sing and give praise, even with my glory.
 ###### 2

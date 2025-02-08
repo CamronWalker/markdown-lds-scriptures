@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 116
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 115| <-- Psalm 115]] | [[Psalms]] | [[Psalm 117| Psalm 117 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/116?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I LOVE the LORD, because he hath heard my voice and my supplications.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 24| <-- Genesis 24]] | [[Genesis]] | [[Genesis 26| Genesis 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN again Abraham took a wife, and her name was Keturah.
 ###### 2

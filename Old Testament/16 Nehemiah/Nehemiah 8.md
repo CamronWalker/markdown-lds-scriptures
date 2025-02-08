@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nehemiah 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nehemiah 7| <-- Nehemiah 7]] | [[Nehemiah]] | [[Nehemiah 9| Nehemiah 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.
 ###### 2

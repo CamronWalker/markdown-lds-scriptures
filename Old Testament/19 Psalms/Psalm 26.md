@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 25| <-- Psalm 25]] | [[Psalms]] | [[Psalm 27| Psalm 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 JUDGE me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.
 ###### 2

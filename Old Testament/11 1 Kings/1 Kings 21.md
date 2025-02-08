@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 20| <-- 1 Kings 20]] | [[1 Kings]] | [[1 Kings 22| 1 Kings 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria.
 ###### 2

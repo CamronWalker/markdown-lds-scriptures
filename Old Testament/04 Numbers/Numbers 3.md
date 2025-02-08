@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 2| <-- Numbers 2]] | [[Numbers]] | [[Numbers 4| Numbers 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THESE also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.
 ###### 2

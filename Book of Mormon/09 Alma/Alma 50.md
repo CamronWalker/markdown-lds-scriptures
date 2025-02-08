@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 50
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 49| <-- Alma 49]] | [[Alma]] | [[Alma 51| Alma 51 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/50?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that Moroni did not stop making preparations for war, or to defend his people against the Lamanites; for he caused that his armies should commence in the commencement of the twentieth year of the reign of the judges, that they should commence in digging up heaps of earth round about all the cities, throughout all the land which was possessed by the Nephites.
 ###### 2

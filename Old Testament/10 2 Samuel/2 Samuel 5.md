@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 4| <-- 2 Samuel 4]] | [[2 Samuel]] | [[2 Samuel 6| 2 Samuel 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.
 ###### 2

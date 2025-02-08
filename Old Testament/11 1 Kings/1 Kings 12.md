@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 11| <-- 1 Kings 11]] | [[1 Kings]] | [[1 Kings 13| 1 Kings 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 ###### 2

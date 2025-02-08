@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nehemiah 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nehemiah 4| <-- Nehemiah 4]] | [[Nehemiah]] | [[Nehemiah 6| Nehemiah 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND there was a great cry of the people and of their wives against their brethren the Jews.
 ###### 2

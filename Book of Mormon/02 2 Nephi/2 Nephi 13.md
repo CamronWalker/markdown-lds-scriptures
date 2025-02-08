@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 13
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 12| <-- 2 Nephi 12]] | [[2 Nephi]] | [[2 Nephi 14| 2 Nephi 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 For behold, the Lord, the Lord of Hosts, doth take away from Jerusalem, and from Judah, the stay and the staff, the whole staff of bread, and the whole stay of water--
 ###### 2

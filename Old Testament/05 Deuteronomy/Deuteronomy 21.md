@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 20| <-- Deuteronomy 20]] | [[Deuteronomy]] | [[Deuteronomy 22| Deuteronomy 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IF one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:
 ###### 2

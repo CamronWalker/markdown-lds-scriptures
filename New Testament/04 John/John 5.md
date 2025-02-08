@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 4| <-- John 4]] | [[John]] | [[John 6| John 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER this there was a feast of the Jews; and Jesus went up to Jerusalem.
 ###### 2

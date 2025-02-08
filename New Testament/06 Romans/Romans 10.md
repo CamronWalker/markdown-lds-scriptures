@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 10
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 9| <-- Romans 9]] | [[Romans]] | [[Romans 11| Romans 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BRETHREN, my heart's desire and prayer to God for Israel is, that they might be saved.
 ###### 2

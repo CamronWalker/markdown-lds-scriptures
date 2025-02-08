@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 28| <-- Genesis 28]] | [[Genesis]] | [[Genesis 30| Genesis 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Jacob went on his journey, and came into the land of the people of the east.
 ###### 2

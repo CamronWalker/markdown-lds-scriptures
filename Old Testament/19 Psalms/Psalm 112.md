@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 112
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 111| <-- Psalm 111]] | [[Psalms]] | [[Psalm 113| Psalm 113 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/112?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  Blessed is the man that feareth the LORD, that delighteth greatly in his commandments.
 ###### 2

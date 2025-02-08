@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Peter 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Peter 1| <-- 1 Peter 1]] | [[1 Peter]] | [[1 Peter 3| 1 Peter 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WHEREFORE laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 ###### 2

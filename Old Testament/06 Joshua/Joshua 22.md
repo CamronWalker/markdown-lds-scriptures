@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joshua 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joshua 21| <-- Joshua 21]] | [[Joshua]] | [[Joshua 23| Joshua 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,
 ###### 2

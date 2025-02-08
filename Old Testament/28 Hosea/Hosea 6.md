@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 5| <-- Hosea 5]] | [[Hosea]] | [[Hosea 7| Hosea 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 COME, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
 ###### 2

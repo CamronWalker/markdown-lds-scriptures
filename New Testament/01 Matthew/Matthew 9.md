@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 9
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 8| <-- Matthew 8]] | [[Matthew]] | [[Matthew 10| Matthew 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND he entered into a ship, and passed over, and came into his own city.
 ###### 2

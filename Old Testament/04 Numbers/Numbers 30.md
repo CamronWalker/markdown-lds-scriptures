@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 30
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 29| <-- Numbers 29]] | [[Numbers]] | [[Numbers 31| Numbers 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/30?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded.
 ###### 2

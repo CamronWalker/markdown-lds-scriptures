@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 8
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 7| <-- 3 Nephi 7]] | [[3 Nephi]] | [[3 Nephi 9| 3 Nephi 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that according to our record, and we know our record to be true, for behold, it was a just man who did keep the record--for he truly did many miracles in the name of Jesus; and there was not any man who could do a miracle in the name of Jesus save he were cleansed every whit from his iniquity--
 ###### 2

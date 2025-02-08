@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 1| <-- Hosea 1]] | [[Hosea]] | [[Hosea 3| Hosea 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SAY ye unto your brethren, Ammi; and to your sisters, Ruhamah.
 ###### 2

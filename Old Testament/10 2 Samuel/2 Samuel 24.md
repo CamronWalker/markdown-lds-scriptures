@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 24
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 23| <-- 2 Samuel 23]] | [[2 Samuel]] | [[1 Kings 1| 1 Kings 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/24?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.
 ###### 2

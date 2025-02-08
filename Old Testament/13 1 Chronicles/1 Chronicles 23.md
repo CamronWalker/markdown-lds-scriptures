@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 22| <-- 1 Chronicles 22]] | [[1 Chronicles]] | [[1 Chronicles 24| 1 Chronicles 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SO when David was old and full of days, he made Solomon his son king over Israel.
 ###### 2

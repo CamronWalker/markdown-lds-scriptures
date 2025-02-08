@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 8| <-- 1 Chronicles 8]] | [[1 Chronicles]] | [[1 Chronicles 10| 1 Chronicles 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SO all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression.
 ###### 2

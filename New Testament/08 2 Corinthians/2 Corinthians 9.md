@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 9
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 8| <-- 2 Corinthians 8]] | [[2 Corinthians]] | [[2 Corinthians 10| 2 Corinthians 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FOR as touching the ministering to the saints, it is superfluous for me to write to you:
 ###### 2

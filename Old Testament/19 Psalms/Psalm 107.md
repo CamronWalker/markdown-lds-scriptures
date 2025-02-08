@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 107
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 106| <-- Psalm 106]] | [[Psalms]] | [[Psalm 108| Psalm 108 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/107?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O GIVE thanks unto the LORD, for he is good: for his mercy endureth for ever.
 ###### 2

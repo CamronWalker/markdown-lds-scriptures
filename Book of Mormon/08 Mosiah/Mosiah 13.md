@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 13
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 12| <-- Mosiah 12]] | [[Mosiah]] | [[Mosiah 14| Mosiah 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now when the king had heard these words, he said unto his priests: Away with this fellow, and slay him; for what have we to do with him, for he is mad.
 ###### 2

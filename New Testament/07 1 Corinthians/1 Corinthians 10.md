@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 10
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 9| <-- 1 Corinthians 9]] | [[1 Corinthians]] | [[1 Corinthians 11| 1 Corinthians 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 ###### 2

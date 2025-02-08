@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 18| <-- Deuteronomy 18]] | [[Deuteronomy]] | [[Deuteronomy 20| Deuteronomy 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
 ###### 2

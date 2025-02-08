@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 5
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 4| <-- 2 Nephi 4]] | [[2 Nephi]] | [[2 Nephi 6| 2 Nephi 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, it came to pass that I, Nephi, did cry much unto the Lord my God, because of the anger of my brethren.
 ###### 2

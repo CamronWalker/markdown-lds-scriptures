@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 106
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 105| <-- Psalm 105]] | [[Psalms]] | [[Psalm 107| Psalm 107 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/106?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  O give thanks unto the LORD; for he is good: for his mercy endureth for ever.
 ###### 2

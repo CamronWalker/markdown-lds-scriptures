@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 66
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 65| <-- Psalm 65]] | [[Psalms]] | [[Psalm 67| Psalm 67 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/66?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MAKE a joyful noise unto God, all ye lands:
 ###### 2

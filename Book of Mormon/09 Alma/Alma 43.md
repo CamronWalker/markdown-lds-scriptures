@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 43
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 42| <-- Alma 42]] | [[Alma]] | [[Alma 44| Alma 44 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that the sons of Alma did go forth among the people, to declare the word unto them. And Alma, also, himself, could not rest, and he also went forth.
 ###### 2

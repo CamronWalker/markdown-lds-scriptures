@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 8
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 7| <-- Romans 7]] | [[Romans]] | [[Romans 9| Romans 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THERE is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 ###### 2

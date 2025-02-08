@@ -4,21 +4,19 @@ Chapter ###### 9
 The Epistle of Paul the Apostle to the Galatians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Galatians 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Galatians 3| <-- Galatians 3]] | [[Galatians]] | [[Galatians 5| Galatians 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zechariah 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 13| <-- Zechariah 13]] | [[Zechariah]] | [[Malachi 1| Malachi 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BEHOLD, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.
 ###### 2

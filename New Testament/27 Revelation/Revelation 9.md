@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 9
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 8| <-- Revelation 8]] | [[Revelation]] | [[Revelation 10| Revelation 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.
 ###### 2

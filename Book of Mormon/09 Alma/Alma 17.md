@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 17
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 16| <-- Alma 16]] | [[Alma]] | [[Alma 18| Alma 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that as Alma was journeying from the land of Gideon southward, away to the land of Manti, behold, to his astonishment, he met with the sons of Mosiah journeying towards the land of Zarahemla.
 ###### 2

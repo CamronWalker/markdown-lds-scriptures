@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 30
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 29| <-- Psalm 29]] | [[Psalms]] | [[Psalm 31| Psalm 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/30?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 150
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 149| <-- Psalm 149]] | [[Psalms]] | [[Proverbs 1| Proverbs 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/150?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  Praise God in his sanctuary: praise him in the firmament of his power.
 ###### 2

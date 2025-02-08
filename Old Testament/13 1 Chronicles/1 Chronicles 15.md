@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 14| <-- 1 Chronicles 14]] | [[1 Chronicles]] | [[1 Chronicles 16| 1 Chronicles 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
 ###### 2

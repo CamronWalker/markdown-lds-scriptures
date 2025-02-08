@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Hebrews 13
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Hebrews 12| <-- Hebrews 12]] | [[Hebrews]] | [[James 1| James 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 LET brotherly love continue.
 ###### 2

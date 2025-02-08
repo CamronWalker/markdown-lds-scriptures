@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 20| <-- Ezekiel 20]] | [[Ezekiel]] | [[Ezekiel 22| Ezekiel 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the word of the LORD came unto me, saying,
 ###### 2

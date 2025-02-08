@@ -4,21 +4,19 @@ Chapter ###### 13
 The First Epistle of Paul the Apostle to the Thessalonians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Thessalonians 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Thessalonians 1| <-- 1 Thessalonians 1]] | [[1 Thessalonians]] | [[1 Thessalonians 3| 1 Thessalonians 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FOR yourselves, brethren, know our entrance in unto you, that it was not in vain:
 ###### 2

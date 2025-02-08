@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 11
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 10| <-- Alma 10]] | [[Alma]] | [[Alma 12| Alma 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now it was in the law of Mosiah that every man who was a judge of the law, or those who were appointed to be judges, should receive wages according to the time which they labored to judge those who were brought before them to be judged.
 ###### 2

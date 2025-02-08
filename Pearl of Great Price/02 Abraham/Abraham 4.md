@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Abraham 4
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Abraham 3| <-- Abraham 3]] | [[Abraham]] | [[Abraham 5| Abraham 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND then the Lord said: Let us go down. And they went down at the beginning, and they, that is the Gods, organized and formed the heavens and the earth.
 ###### 2

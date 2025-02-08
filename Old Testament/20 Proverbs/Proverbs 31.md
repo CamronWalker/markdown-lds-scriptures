@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 31
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 30| <-- Proverbs 30]] | [[Proverbs]] | [[Ecclesiastes 1| Ecclesiastes 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/31?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE words of king Lemuel, the prophecy that his mother taught him.
 ###### 2

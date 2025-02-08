@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nehemiah 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nehemiah 9| <-- Nehemiah 9]] | [[Nehemiah]] | [[Nehemiah 11| Nehemiah 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,
 ###### 2

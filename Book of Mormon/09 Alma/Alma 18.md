@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 18
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 17| <-- Alma 17]] | [[Alma]] | [[Alma 19| Alma 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that king Lamoni caused that his servants should stand forth and testify to all the things which they had seen concerning the matter.
 ###### 2

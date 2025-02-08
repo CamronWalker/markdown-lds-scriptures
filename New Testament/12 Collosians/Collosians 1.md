@@ -1,20 +1,18 @@
 Chapter ###### 12
 The Epistle of Paul the Apostle to the Colossians
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Collosians 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Philippians 4| <-- Philippians 4]] | [[Collosians]] | [[Collosians 2| Collosians 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 ###### 2

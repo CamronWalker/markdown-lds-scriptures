@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Titus 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Timothy 4| <-- 2 Timothy 4]] | [[Titus]] | [[Titus 2| Titus 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/titus/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 22| <-- Numbers 22]] | [[Numbers]] | [[Numbers 24| Numbers 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.
 ###### 2

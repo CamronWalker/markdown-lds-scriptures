@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 14
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 13| <-- Romans 13]] | [[Romans]] | [[Romans 15| Romans 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 HIM that is weak in the faith receive ye, but not to doubtful disputations.
 ###### 2

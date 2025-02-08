@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 110
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 109| <-- Psalm 109]] | [[Psalms]] | [[Psalm 111| Psalm 111 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/110?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 3| <-- 1 Kings 3]] | [[1 Kings]] | [[1 Kings 5| 1 Kings 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SO king Solomon was king over all Israel.
 ###### 2

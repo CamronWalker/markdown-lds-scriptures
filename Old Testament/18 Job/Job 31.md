@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 31
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 30| <-- Job 30]] | [[Job]] | [[Job 32| Job 32 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/31?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I made a covenant with mine eyes; why then should I think upon a maid?
 ###### 2

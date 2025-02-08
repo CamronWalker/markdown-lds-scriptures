@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 19
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 18| <-- Mosiah 18]] | [[Mosiah]] | [[Mosiah 20| Mosiah 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/19?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that the army of the king returned, having searched in vain for the people of the Lord.
 ###### 2

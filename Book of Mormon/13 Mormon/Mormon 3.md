@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mormon 3
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mormon 2| <-- Mormon 2]] | [[Mormon]] | [[Mormon 4| Mormon 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that the Lamanites did not come to battle again until ten years more had passed away. And behold, I had employed my people, the Nephites, in preparing their lands and their arms against the time of battle.
 ###### 2

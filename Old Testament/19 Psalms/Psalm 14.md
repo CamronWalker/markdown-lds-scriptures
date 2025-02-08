@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 13| <-- Psalm 13]] | [[Psalms]] | [[Psalm 15| Psalm 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE fool hath said in his heart, There is no God.  They are corrupt, they have done abominable works, there is none that doeth good.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 3| <-- 1 Chronicles 3]] | [[1 Chronicles]] | [[1 Chronicles 5| 1 Chronicles 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.
 ###### 2

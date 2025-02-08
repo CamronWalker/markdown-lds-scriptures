@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 50
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 49| <-- Psalm 49]] | [[Psalms]] | [[Psalm 51| Psalm 51 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/50?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
 ###### 2

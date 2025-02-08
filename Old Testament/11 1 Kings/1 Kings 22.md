@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 21| <-- 1 Kings 21]] | [[1 Kings]] | [[2 Kings 1| 2 Kings 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND they continued three years without war between Syria and Israel.
 ###### 2

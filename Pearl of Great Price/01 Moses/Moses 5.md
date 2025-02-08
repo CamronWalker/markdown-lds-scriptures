@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Moses 5
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Moses 4| <-- Moses 4]] | [[Moses]] | [[Moses 6| Moses 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass that after I, the Lord God, had driven them out, that Adam began to till the earth, and to have dominion over all the beasts of the field, and to eat his bread by the sweat of his brow, as I the Lord had commanded him. And Eve, also, his wife, did labor with him.
 ###### 2

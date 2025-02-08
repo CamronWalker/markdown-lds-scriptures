@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 14| <-- 2 Kings 14]] | [[2 Kings]] | [[2 Kings 16| 2 Kings 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign.
 ###### 2

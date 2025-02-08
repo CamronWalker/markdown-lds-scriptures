@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 7| <-- 1 Samuel 7]] | [[1 Samuel]] | [[1 Samuel 9| 1 Samuel 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when Samuel was old, that he made his sons judges over Israel.
 ###### 2

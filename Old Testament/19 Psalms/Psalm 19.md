@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 18| <-- Psalm 18]] | [[Psalms]] | [[Psalm 20| Psalm 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE heavens declare the glory of God; and the firmament sheweth his handywork.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 44
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 43| <-- Alma 43]] | [[Alma]] | [[Alma 45| Alma 45 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/44?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that they did stop and withdrew a pace from them. And Moroni said unto Zerahemnah: Behold, Zerahemnah, that we do not desire to be men of blood. Ye know that ye are in our hands, yet we do not desire to slay you.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Amos 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Amos 4| <-- Amos 4]] | [[Amos]] | [[Amos 6| Amos 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR ye this word which I take up against you, even a lamentation, O house of Israel.
 ###### 2

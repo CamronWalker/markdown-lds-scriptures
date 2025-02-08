@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/DandC
-People: 
-%%
-# D&C 7
+---
+publish: true
+tags:
+  - Scripture/DandC
+cssclasses:
+  - scriptures
+---
 [[D&C 6| <-- D&C 6]] | [[D&C]] | [[D&C 8| D&C 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND the Lord said unto me: John, my beloved, what desirest thou? For if you shall ask what you will, it shall be granted unto you.
 ###### 2

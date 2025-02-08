@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 15
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 14| <-- Mosiah 14]] | [[Mosiah]] | [[Mosiah 16| Mosiah 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now Abinadi said unto them: I would that ye should understand that God himself shall come down among the children of men, and shall redeem his people.
 ###### 2

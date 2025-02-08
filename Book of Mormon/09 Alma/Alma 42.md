@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 42
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 41| <-- Alma 41]] | [[Alma]] | [[Alma 43| Alma 43 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, my son, I perceive there is somewhat more which doth worry your mind, which ye cannot understand--which is concerning the justice of God in the punishment of the sinner; for ye do try to suppose that it is injustice that the sinner should be consigned to a state of misery.
 ###### 2

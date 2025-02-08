@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 42
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 41| <-- Genesis 41]] | [[Genesis]] | [[Genesis 43| Genesis 43 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/42?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
 ###### 2

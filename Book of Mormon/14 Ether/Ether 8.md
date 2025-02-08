@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 8
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 7| <-- Ether 7]] | [[Ether]] | [[Ether 9| Ether 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that he begat Omer, and Omer reigned in his stead. And Omer begat Jared; and Jared begat sons and daughters.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Amos 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Amos 7| <-- Amos 7]] | [[Amos]] | [[Amos 9| Amos 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THUS hath the Lord GOD shewed unto me: and behold a basket of summer fruit.
 ###### 2

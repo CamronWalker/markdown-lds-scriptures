@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Esther 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Esther 9| <-- Esther 9]] | [[Esther]] | [[Job 1| Job 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.
 ###### 2

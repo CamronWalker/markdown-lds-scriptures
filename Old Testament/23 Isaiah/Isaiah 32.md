@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 32
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 31| <-- Isaiah 31]] | [[Isaiah]] | [[Isaiah 33| Isaiah 33 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/32?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BEHOLD, a king shall reign in righteousness, and princes shall rule in judgment.
 ###### 2

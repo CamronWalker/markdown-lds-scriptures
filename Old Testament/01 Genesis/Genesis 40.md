@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 40
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 39| <-- Genesis 39]] | [[Genesis]] | [[Genesis 41| Genesis 41 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/40?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
 ###### 2

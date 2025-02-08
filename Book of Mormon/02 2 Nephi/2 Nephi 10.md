@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 10
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 9| <-- 2 Nephi 9]] | [[2 Nephi]] | [[2 Nephi 11| 2 Nephi 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I, Jacob, speak unto you again, my beloved brethren, concerning this righteous branch of which I have spoken.
 ###### 2

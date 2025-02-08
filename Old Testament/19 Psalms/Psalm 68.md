@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 68
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 67| <-- Psalm 67]] | [[Psalms]] | [[Psalm 69| Psalm 69 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/68?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LET God arise, let his enemies be scattered: let them also that hate him flee before him.
 ###### 2

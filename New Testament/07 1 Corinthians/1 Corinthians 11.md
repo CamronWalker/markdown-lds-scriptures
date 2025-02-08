@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 11
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 10| <-- 1 Corinthians 10]] | [[1 Corinthians]] | [[1 Corinthians 12| 1 Corinthians 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BE ye followers of me, even as I also am of Christ.
 ###### 2

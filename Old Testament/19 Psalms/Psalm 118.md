@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 118
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 117| <-- Psalm 117]] | [[Psalms]] | [[Psalm 119| Psalm 119 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/118?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O GIVE thanks unto the LORD; for he is good: because his mercy endureth for ever.
 ###### 2

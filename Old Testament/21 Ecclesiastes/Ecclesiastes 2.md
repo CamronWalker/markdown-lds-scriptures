@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 1| <-- Ecclesiastes 1]] | [[Ecclesiastes]] | [[Ecclesiastes 3| Ecclesiastes 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I SAID in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.
 ###### 2

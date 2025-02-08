@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Habakkuk 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nahum 3| <-- Nahum 3]] | [[Habakkuk]] | [[Habakkuk 2| Habakkuk 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hab/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE burden which Habakkuk the prophet did see.
 ###### 2

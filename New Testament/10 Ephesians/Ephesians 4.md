@@ -4,21 +4,19 @@ Chapter ###### 10
 The Epistle of Paul the Apostle to the Ephesians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Ephesians 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Ephesians 3| <-- Ephesians 3]] | [[Ephesians]] | [[Ephesians 5| Ephesians 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 I THEREFORE, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
 ###### 2

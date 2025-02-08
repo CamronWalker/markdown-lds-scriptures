@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 6| <-- Leviticus 6]] | [[Leviticus]] | [[Leviticus 8| Leviticus 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LIKEWISE this is the law of the trespass offering: it is most holy.
 ###### 2

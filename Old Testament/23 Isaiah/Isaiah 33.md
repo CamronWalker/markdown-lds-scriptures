@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 33
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 32| <-- Isaiah 32]] | [[Isaiah]] | [[Isaiah 34| Isaiah 34 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/33?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WOE to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee!  when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
 ###### 2

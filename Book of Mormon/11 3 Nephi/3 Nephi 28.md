@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 28
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 27| <-- 3 Nephi 27]] | [[3 Nephi]] | [[3 Nephi 29| 3 Nephi 29 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/28?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass when Jesus had said these words, he spake unto his disciples, one by one, saying unto them: What is it that ye desire of me, after that I am gone to the Father?
 ###### 2

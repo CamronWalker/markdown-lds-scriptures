@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 10
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 9| <-- Alma 9]] | [[Alma]] | [[Alma 11| Alma 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now these are the words which Amulek preached unto the people who were in the land of Ammonihah, saying:
 ###### 2

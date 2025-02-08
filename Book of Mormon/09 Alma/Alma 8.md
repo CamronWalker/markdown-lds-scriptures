@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 8
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 7| <-- Alma 7]] | [[Alma]] | [[Alma 9| Alma 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that Alma returned from the land of Gideon, after having taught the people of Gideon many things which cannot be written, having established the order of the church, according as he had before done in the land of Zarahemla, yea, he returned to his own house at Zarahemla to rest himself from the labors which he had performed.
 ###### 2

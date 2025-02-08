@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 30
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 29| <-- 2 Nephi 29]] | [[2 Nephi]] | [[2 Nephi 31| 2 Nephi 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/30?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now behold, my beloved brethren, I would speak unto you; for I, Nephi, would not suffer that ye should suppose that ye are more righteous than the Gentiles shall be. For behold, except ye shall keep the commandments of God ye shall all likewise perish; and because of the words which have been spoken ye need not suppose that the Gentiles are utterly destroyed.
 ###### 2

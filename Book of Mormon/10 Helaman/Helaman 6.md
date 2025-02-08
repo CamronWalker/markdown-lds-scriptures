@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 6
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 5| <-- Helaman 5]] | [[Helaman]] | [[Helaman 7| Helaman 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that when the sixty and second year of the reign of the judges had ended, all these things had happened and the Lamanites had become, the more part of them, a righteous people, insomuch that their righteousness did exceed that of the Nephites, because of their firmness and their steadiness in the faith.
 ###### 2

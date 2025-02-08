@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 31
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 30| <-- Alma 30]] | [[Alma]] | [[Alma 32| Alma 32 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/31?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now it came to pass that after the end of Korihor, Alma having received tidings that the Zoramites were perverting the ways of the Lord, and that Zoram, who was their leader, was leading the hearts of the people to bow down to dumb idols, his heart again began to sicken because of the iniquity of the people.
 ###### 2

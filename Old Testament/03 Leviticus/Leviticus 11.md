@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 10| <-- Leviticus 10]] | [[Leviticus]] | [[Leviticus 12| Leviticus 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses and to Aaron, saying unto them,
 ###### 2

@@ -4,21 +4,19 @@ Chapter ###### 16
 The Second Epistle of Paul the Apostle to Timothy
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Timothy 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Timothy 1| <-- 2 Timothy 1]] | [[2 Timothy]] | [[2 Timothy 3| 2 Timothy 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THOU therefore, my son, be strong in the grace that is in Christ Jesus.
 ###### 2

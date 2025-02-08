@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 136
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 135| <-- Psalm 135]] | [[Psalms]] | [[Psalm 137| Psalm 137 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/136?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O GIVE thanks unto the LORD; for he is good: for his mercy endureth for ever.
 ###### 2

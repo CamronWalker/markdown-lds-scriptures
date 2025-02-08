@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Hebrews 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Hebrews 1| <-- Hebrews 1]] | [[Hebrews]] | [[Hebrews 3| Hebrews 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEREFORE we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.
 ###### 2

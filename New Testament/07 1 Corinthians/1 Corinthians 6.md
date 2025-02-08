@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 5| <-- 1 Corinthians 5]] | [[1 Corinthians]] | [[1 Corinthians 7| 1 Corinthians 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 DARE any of you, having a matter against another, go to law before the unjust, and not before the saints?
 ###### 2

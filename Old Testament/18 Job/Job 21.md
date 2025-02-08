@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 20| <-- Job 20]] | [[Job]] | [[Job 22| Job 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BUT Job answered and said,
 ###### 2

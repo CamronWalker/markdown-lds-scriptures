@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 7
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 6| <-- Alma 6]] | [[Alma]] | [[Alma 8| Alma 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold my beloved brethren, seeing that I have been permitted to come unto you, therefore I attempt to address you in my language; yea, by my own mouth, seeing that it is the first time that I have spoken unto you by the words of my mouth, I having been wholly confined to the judgment-seat, having had much business that I could not come unto you.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 22| <-- Jeremiah 22]] | [[Jeremiah]] | [[Jeremiah 24| Jeremiah 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WOE be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD.
 ###### 2

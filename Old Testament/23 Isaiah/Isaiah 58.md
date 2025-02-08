@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 58
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 57| <-- Isaiah 57]] | [[Isaiah]] | [[Isaiah 59| Isaiah 59 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 CRY aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
 ###### 2

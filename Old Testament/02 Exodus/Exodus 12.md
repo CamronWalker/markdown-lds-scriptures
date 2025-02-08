@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 11| <-- Exodus 11]] | [[Exodus]] | [[Exodus 13| Exodus 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses and Aaron in the land of Egypt, saying,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 52
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 51| <-- Alma 51]] | [[Alma]] | [[Alma 53| Alma 53 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/52?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, it came to pass in the twenty and sixth year of the reign of the judges over the people of Nephi, behold, when the Lamanites awoke on the first morning of the first month, behold, they found Amalickiah was dead in his own tent; and they also saw that Teancum was ready to give them battle on that day.
 ###### 2

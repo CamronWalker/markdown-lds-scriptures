@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 4
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 3| <-- 2 Nephi 3]] | [[2 Nephi]] | [[2 Nephi 5| 2 Nephi 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, I, Nephi, speak concerning the prophecies of which my father hath spoken, concerning Joseph, who was carried into Egypt.
 ###### 2

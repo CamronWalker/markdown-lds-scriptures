@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 17
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 16| <-- 3 Nephi 16]] | [[3 Nephi]] | [[3 Nephi 18| 3 Nephi 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, now it came to pass that when Jesus had spoken these words he looked round about again on the multitude, and he said unto them: Behold, my time is at hand.
 ###### 2

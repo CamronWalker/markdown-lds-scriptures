@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 32
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 31| <-- Job 31]] | [[Job]] | [[Job 33| Job 33 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/32?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SO these three men ceased to answer Job, because he was righteous in his own eyes.
 ###### 2

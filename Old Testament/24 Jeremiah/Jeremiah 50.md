@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 50
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 49| <-- Jeremiah 49]] | [[Jeremiah]] | [[Jeremiah 51| Jeremiah 51 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/50?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word that the LORD spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 11| <-- 1 Samuel 11]] | [[1 Samuel]] | [[1 Samuel 13| 1 Samuel 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you.
 ###### 2

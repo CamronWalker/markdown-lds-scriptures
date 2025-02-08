@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 140
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 139| <-- Psalm 139]] | [[Psalms]] | [[Psalm 141| Psalm 141 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/140?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 DELIVER me, O LORD, from the evil man: preserve me from the violent man;
 ###### 2

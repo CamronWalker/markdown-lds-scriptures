@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Habakkuk 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Habakkuk 2| <-- Habakkuk 2]] | [[Habakkuk]] | [[Zephaniah 1| Zephaniah 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hab/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 A PRAYER of Habakkuk the prophet upon Shigionoth.
 ###### 2

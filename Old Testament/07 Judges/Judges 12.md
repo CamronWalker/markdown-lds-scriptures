@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 11| <-- Judges 11]] | [[Judges]] | [[Judges 13| Judges 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee?  we will burn thine house upon thee with fire.
 ###### 2

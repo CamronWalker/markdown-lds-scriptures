@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 16
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 15| <-- 1 Nephi 15]] | [[1 Nephi]] | [[1 Nephi 17| 1 Nephi 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that after I, Nephi, had made an end of speaking to my brethren, behold they said unto me: Thou hast declared unto us hard things, more than we are able to bear.
 ###### 2

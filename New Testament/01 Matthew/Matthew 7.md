@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 7
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 6| <-- Matthew 6]] | [[Matthew]] | [[Matthew 8| Matthew 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 JUDGE not, that ye be not judged.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 4| <-- Isaiah 4]] | [[Isaiah]] | [[Isaiah 6| Isaiah 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 Now will I sing to my wellbeloved a song of my beloved touching his vineyard.  My wellbeloved hath a vineyard in a very fruitful hill:
 ###### 2

@@ -1,19 +1,16 @@
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 1| <-- Genesis 1]] | [[Genesis]] | [[Genesis 3| Genesis 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THUS the heavens and the earth were finished, and all the host of them.
 ###### 2

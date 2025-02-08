@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 39
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 38| <-- Ezekiel 38]] | [[Ezekiel]] | [[Ezekiel 40| Ezekiel 40 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/39?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEREFORE, thou son of man, prophesy against Gog, and say, Thus saith the Lord GOD; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:
 ###### 2

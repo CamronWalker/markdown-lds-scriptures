@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 2| <-- Matthew 2]] | [[Matthew]] | [[Matthew 4| Matthew 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 IN those days came John the Baptist, preaching in the wilderness of Judaea,
 ###### 2

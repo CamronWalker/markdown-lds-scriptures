@@ -4,21 +4,19 @@ Chapter ###### 9
 The Epistle of Paul the Apostle to the Galatians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Galatians 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Galatians 4| <-- Galatians 4]] | [[Galatians]] | [[Galatians 6| Galatians 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 STAND fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
 ###### 2

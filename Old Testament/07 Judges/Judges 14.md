@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 13| <-- Judges 13]] | [[Judges]] | [[Judges 15| Judges 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.
 ###### 2

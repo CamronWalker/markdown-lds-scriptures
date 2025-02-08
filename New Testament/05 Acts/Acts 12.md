@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 12
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 11| <-- Acts 11]] | [[Acts]] | [[Acts 13| Acts 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW about that time Herod the king stretched forth his hands to vex certain of the church.
 ###### 2

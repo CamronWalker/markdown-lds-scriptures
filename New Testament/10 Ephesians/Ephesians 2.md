@@ -4,21 +4,19 @@ Chapter ###### 10
 The Epistle of Paul the Apostle to the Ephesians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Ephesians 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Ephesians 1| <-- Ephesians 1]] | [[Ephesians]] | [[Ephesians 3| Ephesians 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND you hath he quickened, who were dead in trespasses and sins;
 ###### 2

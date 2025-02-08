@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 3| <-- Romans 3]] | [[Romans]] | [[Romans 5| Romans 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WHAT shall we say then that Abraham our father, as pertaining to the flesh, hath found?
 ###### 2

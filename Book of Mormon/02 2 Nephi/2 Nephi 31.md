@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 31
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 30| <-- 2 Nephi 30]] | [[2 Nephi]] | [[2 Nephi 32| 2 Nephi 32 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I, Nephi, make an end of my prophesying unto you, my beloved brethren. And I cannot write but a few things, which I know must surely come to pass; neither can I write but a few of the words of my brother Jacob.
 ###### 2

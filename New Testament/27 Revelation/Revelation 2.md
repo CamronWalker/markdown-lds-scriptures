@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 1| <-- Revelation 1]] | [[Revelation]] | [[Revelation 3| Revelation 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 UNTO the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
 ###### 2

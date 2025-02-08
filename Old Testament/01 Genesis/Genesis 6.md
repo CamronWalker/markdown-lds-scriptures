@@ -1,19 +1,16 @@
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 5| <-- Genesis 5]] | [[Genesis]] | [[Genesis 7| Genesis 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 ###### 2

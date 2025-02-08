@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 16
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 15| <-- Romans 15]] | [[Romans]] | [[1 Corinthians 1| 1 Corinthians 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 I COMMEND unto you Phebe our sister, which is a servant of the church which is at Cenchrea:
 ###### 2

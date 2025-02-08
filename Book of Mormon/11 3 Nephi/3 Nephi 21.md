@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 21
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 20| <-- 3 Nephi 20]] | [[3 Nephi]] | [[3 Nephi 22| 3 Nephi 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/21?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And verily I say unto you, I give unto you a sign, that ye may know the time when these things shall be about to take place--that I shall gather in, from their long dispersion, my people, O house of Israel, and shall establish again among them my Zion;
 ###### 2

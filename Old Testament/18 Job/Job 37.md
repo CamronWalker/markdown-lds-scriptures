@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 37
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 36| <-- Job 36]] | [[Job]] | [[Job 38| Job 38 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/37?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AT this also my heart trembleth, and is moved out of his place.
 ###### 2

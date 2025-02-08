@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 2
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 1| <-- Mosiah 1]] | [[Mosiah]] | [[Mosiah 3| Mosiah 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that after Mosiah had done as his father had commanded him, and had made a proclamation throughout all the land, that the people gathered themselves together throughout all the land, that they might go up to the temple to hear the words which king Benjamin should speak unto them.
 ###### 2

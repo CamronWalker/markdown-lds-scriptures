@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 9| <-- 2 Chronicles 9]] | [[2 Chronicles]] | [[2 Chronicles 11| 2 Chronicles 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.
 ###### 2

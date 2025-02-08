@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Titus 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Titus 2| <-- Titus 2]] | [[Titus]] | [[Philemon 1| Philemon 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/titus/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PUT them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,
 ###### 2

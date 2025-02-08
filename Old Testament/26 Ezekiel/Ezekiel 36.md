@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 36
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 35| <-- Ezekiel 35]] | [[Ezekiel]] | [[Ezekiel 37| Ezekiel 37 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/36?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ALSO, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD:
 ###### 2

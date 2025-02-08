@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 3| <-- Proverbs 3]] | [[Proverbs]] | [[Proverbs 5| Proverbs 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR, ye children, the instruction of a father, and attend to know understanding.
 ###### 2

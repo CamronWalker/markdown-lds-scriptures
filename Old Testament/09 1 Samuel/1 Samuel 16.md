@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 15| <-- 1 Samuel 15]] | [[1 Samuel]] | [[1 Samuel 17| 1 Samuel 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel?  fill thine horn with oil, and go, I will send thee to Jesse the Beth-lehemite: for I have provided me a king among his sons.
 ###### 2

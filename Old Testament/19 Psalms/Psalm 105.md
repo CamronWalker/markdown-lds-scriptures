@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 105
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 104| <-- Psalm 104]] | [[Psalms]] | [[Psalm 106| Psalm 106 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/105?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O GIVE thanks unto the LORD; call upon his name: make known his deeds among the people.
 ###### 2

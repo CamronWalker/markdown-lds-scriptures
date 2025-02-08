@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 16
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 15| <-- 3 Nephi 15]] | [[3 Nephi]] | [[3 Nephi 17| 3 Nephi 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And verily, verily, I say unto you that I have other sheep, which are not of this land, neither of the land of Jerusalem, neither in any parts of that land round about whither I have been to minister.
 ###### 2

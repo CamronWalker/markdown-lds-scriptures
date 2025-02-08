@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 9
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 8| <-- 3 Nephi 8]] | [[3 Nephi]] | [[3 Nephi 10| 3 Nephi 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that there was a voice heard among all the inhabitants of the earth, upon all the face of this land, crying:
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 19| <-- 2 Kings 19]] | [[2 Kings]] | [[2 Kings 21| 2 Kings 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN those days was Hezekiah sick unto death.  And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.
 ###### 2

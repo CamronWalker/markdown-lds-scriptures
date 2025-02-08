@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 John 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 John 4| <-- 1 John 4]] | [[1 John]] | [[2 John 1| 2 John 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-jn/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WHOSOEVER believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.
 ###### 2

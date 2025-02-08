@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 34
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 33| <-- 2 Chronicles 33]] | [[2 Chronicles]] | [[2 Chronicles 35| 2 Chronicles 35 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/34?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 JOSIAH began to reign, and he reigned in Jerusalem one and thirty years.
 ###### 2

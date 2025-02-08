@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 138
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 137| <-- Psalm 137]] | [[Psalms]] | [[Psalm 139| Psalm 139 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/138?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL praise thee with my whole heart: before the gods will I sing praise unto thee.
 ###### 2

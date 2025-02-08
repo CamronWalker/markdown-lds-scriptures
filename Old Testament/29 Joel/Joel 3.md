@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joel 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joel 2| <-- Joel 2]] | [[Joel]] | [[Amos 1| Amos 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/joel/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 FOR, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
 ###### 2

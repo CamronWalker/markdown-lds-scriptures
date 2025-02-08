@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 25| <-- Isaiah 25]] | [[Isaiah]] | [[Isaiah 27| Isaiah 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks.
 ###### 2

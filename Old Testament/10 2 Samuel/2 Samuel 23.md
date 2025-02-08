@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 22| <-- 2 Samuel 22]] | [[2 Samuel]] | [[2 Samuel 24| 2 Samuel 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW these be the last words of David.  David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 ###### 2

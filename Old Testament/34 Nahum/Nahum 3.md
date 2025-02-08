@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nahum 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nahum 2| <-- Nahum 2]] | [[Nahum]] | [[Habakkuk 1| Habakkuk 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/nahum/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WOE to the bloody city!  it is all full of lies and robbery; the prey departeth not;
 ###### 2

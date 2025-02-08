@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 10
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 9| <-- Ether 9]] | [[Ether]] | [[Ether 11| Ether 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that Shez, who was a descendant of Heth--for Heth had perished by the famine, and all his household save it were Shez--wherefore, Shez began to build up again a broken people.
 ###### 2

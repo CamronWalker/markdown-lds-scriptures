@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 20
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 19| <-- Alma 19]] | [[Alma]] | [[Alma 21| Alma 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that when they had established a church in that land, that king Lamoni desired that Ammon should go with him to the land of Nephi, that he might show him unto his father.
 ###### 2

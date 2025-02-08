@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 2| <-- Jeremiah 2]] | [[Jeremiah]] | [[Jeremiah 4| Jeremiah 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEY say, If a man put away his wife, and she go from him, and become another man's, shall he return unto her again?  shall not that land be greatly polluted?  but thou hast played the harlot with many lovers; yet return again to me, saith the LORD.
 ###### 2

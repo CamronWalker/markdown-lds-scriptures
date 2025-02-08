@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zechariah 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 2| <-- Zechariah 2]] | [[Zechariah]] | [[Zechariah 4| Zechariah 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.
 ###### 2

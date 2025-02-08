@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 15
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 14| <-- 1 Corinthians 14]] | [[1 Corinthians]] | [[1 Corinthians 16| 1 Corinthians 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
 ###### 2

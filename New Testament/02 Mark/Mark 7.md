@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 7
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 6| <-- Mark 6]] | [[Mark]] | [[Mark 8| Mark 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.
 ###### 2

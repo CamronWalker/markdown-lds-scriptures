@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Abraham 2
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Abraham 1| <-- Abraham 1]] | [[Abraham]] | [[Abraham 3| Abraham 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 12| <-- Hosea 12]] | [[Hosea]] | [[Hosea 14| Hosea 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.
 ###### 2

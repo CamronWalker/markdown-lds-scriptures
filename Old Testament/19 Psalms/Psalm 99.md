@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 99
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 98| <-- Psalm 98]] | [[Psalms]] | [[Psalm 100| Psalm 100 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/99?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.
 ###### 2

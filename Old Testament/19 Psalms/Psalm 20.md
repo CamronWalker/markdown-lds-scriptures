@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 19| <-- Psalm 19]] | [[Psalms]] | [[Psalm 21| Psalm 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;
 ###### 2

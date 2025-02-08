@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 23
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 22| <-- 3 Nephi 22]] | [[3 Nephi]] | [[3 Nephi 24| 3 Nephi 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/23?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, behold, I say unto you, that ye ought to search these things. Yea, a commandment I give unto you that ye search these things diligently; for great are the words of Isaiah.
 ###### 2

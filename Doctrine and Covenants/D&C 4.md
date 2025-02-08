@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/DandC
-People: 
-%%
-# D&C 4
+---
+publish: true
+tags:
+  - Scripture/DandC
+cssclasses:
+  - scriptures
+---
 [[D&C 3| <-- D&C 3]] | [[D&C]] | [[D&C 5| D&C 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW behold, a marvelous work is about to come forth among the children of men.
 ###### 2

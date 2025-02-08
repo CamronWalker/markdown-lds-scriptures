@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 12| <-- Judges 12]] | [[Judges]] | [[Judges 14| Judges 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.
 ###### 2

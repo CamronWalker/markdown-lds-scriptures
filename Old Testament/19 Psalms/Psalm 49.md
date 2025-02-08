@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 49
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 48| <-- Psalm 48]] | [[Psalms]] | [[Psalm 50| Psalm 50 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/49?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR this, all ye people; give ear, all ye inhabitants of the world:
 ###### 2

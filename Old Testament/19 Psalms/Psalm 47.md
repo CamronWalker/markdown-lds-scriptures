@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 47
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 46| <-- Psalm 46]] | [[Psalms]] | [[Psalm 48| Psalm 48 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/47?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O CLAP your hands, all ye people; shout unto God with the voice of triumph.
 ###### 2

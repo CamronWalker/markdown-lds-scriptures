@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 25| <-- 2 Kings 25]] | [[1 Chronicles]] | [[1 Chronicles 2| 1 Chronicles 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ADAM, Sheth, Enosh,
 ###### 2

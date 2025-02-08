@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 19
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 18| <-- 2 Nephi 18]] | [[2 Nephi]] | [[2 Nephi 20| 2 Nephi 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/19?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Nevertheless, the dimness shall not be such as was in her vexation, when at first he lightly afflicted the land of Zebulun, and the land of Naphtali, and afterwards did more grievously afflict by the way of the Red Sea beyond Jordan in Galilee of the nations.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 9| <-- 1 Kings 9]] | [[1 Kings]] | [[1 Kings 11| 1 Kings 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.
 ###### 2

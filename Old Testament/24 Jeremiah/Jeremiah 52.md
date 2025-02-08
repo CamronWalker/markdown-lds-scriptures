@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 52
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 51| <-- Jeremiah 51]] | [[Jeremiah]] | [[Lamentations 1| Lamentations 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/52?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ZEDEKIAH was one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem.  And his mother's name was Hamutal the daughter of Jeremiah of Libnah.
 ###### 2

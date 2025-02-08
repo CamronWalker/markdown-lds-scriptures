@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 28| <-- Ezekiel 28]] | [[Ezekiel]] | [[Ezekiel 30| Ezekiel 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the tenth year, in the tenth month, in the twelfth day of the month, the word of the LORD came unto me, saying,
 ###### 2

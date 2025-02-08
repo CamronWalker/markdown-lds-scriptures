@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 38
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 37| <-- Job 37]] | [[Job]] | [[Job 39| Job 39 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/38?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN the LORD answered Job out of the whirlwind, and said,
 ###### 2

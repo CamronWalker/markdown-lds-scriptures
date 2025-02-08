@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 3
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 2| <-- Alma 2]] | [[Alma]] | [[Alma 4| Alma 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that the Nephites who were not slain by the weapons of war, after having buried those who had been slain--now the number of the slain were not numbered, because of the greatness of their number--after they had finished burying their dead they all returned to their lands, and to their houses, and their wives, and their children.
 ###### 2

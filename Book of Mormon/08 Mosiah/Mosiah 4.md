@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 4
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 3| <-- Mosiah 3]] | [[Mosiah]] | [[Mosiah 5| Mosiah 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, it came to pass that when king Benjamin had made an end of speaking the words which had been delivered unto him by the angel of the Lord, that he cast his eyes round about on the multitude, and behold they had fallen to the earth, for the fear of the Lord had come upon them.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 15
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 14| <-- 1 Nephi 14]] | [[1 Nephi]] | [[1 Nephi 16| 1 Nephi 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that after I, Nephi, had been carried away in the spirit, and seen all these things, I returned to the tent of my father.
 ###### 2

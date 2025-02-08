@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 7| <-- Job 7]] | [[Job]] | [[Job 9| Job 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN answered Bildad the Shuhite, and said,
 ###### 2

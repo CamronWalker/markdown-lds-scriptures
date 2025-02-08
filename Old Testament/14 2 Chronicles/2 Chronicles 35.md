@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 35
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 34| <-- 2 Chronicles 34]] | [[2 Chronicles]] | [[2 Chronicles 36| 2 Chronicles 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/35?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month.
 ###### 2

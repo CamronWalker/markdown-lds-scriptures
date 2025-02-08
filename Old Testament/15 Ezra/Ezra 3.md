@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezra 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezra 2| <-- Ezra 2]] | [[Ezra]] | [[Ezra 4| Ezra 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND when the seventh month was come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem.
 ###### 2

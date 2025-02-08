@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 2| <-- Job 2]] | [[Job]] | [[Job 4| Job 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER this opened Job his mouth, and cursed his day.
 ###### 2

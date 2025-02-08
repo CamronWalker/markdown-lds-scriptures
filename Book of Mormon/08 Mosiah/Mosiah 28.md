@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 28
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 27| <-- Mosiah 27]] | [[Mosiah]] | [[Mosiah 29| Mosiah 29 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/28?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now it came to pass that after the sons of Mosiah had done all these things, they took a small number with them and returned to their father, the king, and desired of him that he would grant unto them that they might, with these whom they had selected, go up to the land of Nephi that they might preach the things which they had heard, and that they might impart the word of God to their brethren, the Lamanites--
 ###### 2

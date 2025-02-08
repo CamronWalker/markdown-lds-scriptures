@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 55
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 54| <-- Psalm 54]] | [[Psalms]] | [[Psalm 56| Psalm 56 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/55?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GIVE ear to my prayer, O God; and hide not thyself from my supplication.
 ###### 2

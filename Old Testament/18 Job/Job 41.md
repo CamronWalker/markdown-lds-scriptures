@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 41
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 40| <-- Job 40]] | [[Job]] | [[Job 42| Job 42 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/41?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 CANST thou draw out leviathan with an hook?  or his tongue with a cord which thou lettest down?
 ###### 2

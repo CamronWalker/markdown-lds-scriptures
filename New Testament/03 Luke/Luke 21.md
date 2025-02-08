@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 21
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 20| <-- Luke 20]] | [[Luke]] | [[Luke 22| Luke 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/21?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND he looked up, and saw the rich men casting their gifts into the treasury.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 54
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 53| <-- Alma 53]] | [[Alma]] | [[Alma 55| Alma 55 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/54?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass in the commencement of the twenty and ninth year of the judges, that Ammoron sent unto Moroni desiring that he would exchange prisoners.
 ###### 2

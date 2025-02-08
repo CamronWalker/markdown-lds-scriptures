@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 49
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 48| <-- Jeremiah 48]] | [[Jeremiah]] | [[Jeremiah 50| Jeremiah 50 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/49?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 CONCERNING the Ammonites, thus saith the LORD; Hath Israel no sons?  hath he no heir?  why then doth their king inherit Gad, and his people dwell in his cities?
 ###### 2

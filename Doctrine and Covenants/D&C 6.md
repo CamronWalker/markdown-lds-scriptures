@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/DandC
-People: 
-%%
-# D&C 6
+---
+publish: true
+tags:
+  - Scripture/DandC
+cssclasses:
+  - scriptures
+---
 [[D&C 5| <-- D&C 5]] | [[D&C]] | [[D&C 7| D&C 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 A GREAT and marvelous work is about to come forth unto the children of men.
 ###### 2

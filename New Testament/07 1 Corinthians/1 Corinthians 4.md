@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 3| <-- 1 Corinthians 3]] | [[1 Corinthians]] | [[1 Corinthians 5| 1 Corinthians 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 LET a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 14| <-- 2 Chronicles 14]] | [[2 Chronicles]] | [[2 Chronicles 16| 2 Chronicles 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the Spirit of God came upon Azariah the son of Oded:
 ###### 2

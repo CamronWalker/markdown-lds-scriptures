@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 1| <-- John 1]] | [[John]] | [[John 3| John 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 ###### 2

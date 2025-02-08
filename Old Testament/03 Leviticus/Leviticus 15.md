@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 14| <-- Leviticus 14]] | [[Leviticus]] | [[Leviticus 16| Leviticus 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses and to Aaron, saying,
 ###### 2

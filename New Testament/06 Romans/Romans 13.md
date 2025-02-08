@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 13
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 12| <-- Romans 12]] | [[Romans]] | [[Romans 14| Romans 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 LET every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 ###### 2

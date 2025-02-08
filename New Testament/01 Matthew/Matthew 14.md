@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 14
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 13| <-- Matthew 13]] | [[Matthew]] | [[Matthew 15| Matthew 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AT that time Herod the tetrarch heard of the fame of Jesus,
 ###### 2

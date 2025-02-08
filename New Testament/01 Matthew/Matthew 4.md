@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 3| <-- Matthew 3]] | [[Matthew]] | [[Matthew 5| Matthew 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN was Jesus led up of the Spirit into the wilderness to be tempted of the devil.
 ###### 2

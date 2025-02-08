@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 28
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 27| <-- Proverbs 27]] | [[Proverbs]] | [[Proverbs 29| Proverbs 29 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/28?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE wicked flee when no man pursueth: but the righteous are bold as a lion.
 ###### 2

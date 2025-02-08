@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 36
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 35| <-- 2 Chronicles 35]] | [[2 Chronicles]] | [[Ezra 1| Ezra 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/36?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN the people of the land took Jehoahaz the son of Josiah, and made him king in his father's stead in Jerusalem.
 ###### 2

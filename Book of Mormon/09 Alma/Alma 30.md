@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 30
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 29| <-- Alma 29]] | [[Alma]] | [[Alma 31| Alma 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, now it came to pass that after the people of Ammon were established in the land of Jershon, yea, and also after the Lamanites were driven out of the land, and their dead were buried by the people of the land--
 ###### 2

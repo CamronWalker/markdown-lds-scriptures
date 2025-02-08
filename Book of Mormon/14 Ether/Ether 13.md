@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 13
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 12| <-- Ether 12]] | [[Ether]] | [[Ether 14| Ether 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I, Moroni, proceed to finish my record concerning the destruction of the people of whom I have been writing.
 ###### 2

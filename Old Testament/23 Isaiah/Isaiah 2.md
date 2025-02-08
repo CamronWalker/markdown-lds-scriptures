@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 1| <-- Isaiah 1]] | [[Isaiah]] | [[Isaiah 3| Isaiah 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
 ###### 2

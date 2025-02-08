@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 56
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 55| <-- Alma 55]] | [[Alma]] | [[Alma 57| Alma 57 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass in the commencement of the thirtieth year of the reign of the judges, on the second day in the first month, Moroni received an epistle from Helaman, stating the affairs of the people in that quarter of the land.
 ###### 2

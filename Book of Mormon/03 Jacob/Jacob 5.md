@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Jacob 5
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Jacob 4| <-- Jacob 4]] | [[Jacob]] | [[Jacob 6| Jacob 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, my brethren, do ye not remember to have read the words of the prophet Zenos, which he spake unto the house of Israel, saying:
 ###### 2

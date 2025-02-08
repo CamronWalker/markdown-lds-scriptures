@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 3| <-- 1 Samuel 3]] | [[1 Samuel]] | [[1 Samuel 5| 1 Samuel 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the word of Samuel came to all Israel.  Now Israel went out against the Philistines to battle, and pitched beside Eben-ezer: and the Philistines pitched in Aphek.
 ###### 2

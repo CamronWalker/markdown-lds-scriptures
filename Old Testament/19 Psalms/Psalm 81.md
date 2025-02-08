@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 81
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 80| <-- Psalm 80]] | [[Psalms]] | [[Psalm 82| Psalm 82 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/81?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SING aloud unto God our strength: make a joyful noise unto the God of Jacob.
 ###### 2

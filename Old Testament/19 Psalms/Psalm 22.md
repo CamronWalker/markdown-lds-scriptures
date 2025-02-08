@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 21| <-- Psalm 21]] | [[Psalms]] | [[Psalm 23| Psalm 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY God, my God, why hast thou forsaken me?  why art thou so far from helping me, and from the words of my roaring?
 ###### 2

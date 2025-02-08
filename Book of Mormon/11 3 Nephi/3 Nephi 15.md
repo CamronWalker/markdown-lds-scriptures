@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 15
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 14| <-- 3 Nephi 14]] | [[3 Nephi]] | [[3 Nephi 16| 3 Nephi 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that when Jesus had ended these sayings he cast his eyes round about on the multitude, and said unto them: Behold, ye have heard the things which I taught before I ascended to my Father; therefore, whoso remembereth these sayings of mine and doeth them, him will I raise up at the last day.
 ###### 2

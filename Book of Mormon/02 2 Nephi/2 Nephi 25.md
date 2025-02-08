@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 25
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 24| <-- 2 Nephi 24]] | [[2 Nephi]] | [[2 Nephi 26| 2 Nephi 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now I, Nephi, do speak somewhat concerning the words which I have written, which have been spoken by the mouth of Isaiah. For behold, Isaiah spake many things which were hard for many of my people to understand; for they know not concerning the manner of prophesying among the Jews.
 ###### 2

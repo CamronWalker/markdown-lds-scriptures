@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 2| <-- Ezekiel 2]] | [[Ezekiel]] | [[Ezekiel 4| Ezekiel 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 39
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 38| <-- Isaiah 38]] | [[Isaiah]] | [[Isaiah 40| Isaiah 40 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/39?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AT that time Merodach-baladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered.
 ###### 2

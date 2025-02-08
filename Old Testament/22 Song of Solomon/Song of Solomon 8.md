@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Song of Solomon 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Song of Solomon 7| <-- Song of Solomon 7]] | [[Song of Solomon]] | [[Isaiah 1| Isaiah 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O THAT thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised.
 ###### 2

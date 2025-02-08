@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Song of Solomon 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Song of Solomon 3| <-- Song of Solomon 3]] | [[Song of Solomon]] | [[Song of Solomon 5| Song of Solomon 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BEHOLD, thou art fair, my love; behold, thou art fair; thou hast doves' eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.
 ###### 2

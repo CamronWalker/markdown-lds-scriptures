@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nahum 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nahum 1| <-- Nahum 1]] | [[Nahum]] | [[Nahum 3| Nahum 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/nahum/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HE that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Jacob 7
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Jacob 6| <-- Jacob 6]] | [[Jacob]] | [[Enos 1| Enos 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass after some years had passed away, there came a man among the people of Nephi, whose name was Sherem.
 ###### 2

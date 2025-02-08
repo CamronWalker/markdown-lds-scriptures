@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 14
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 13| <-- Luke 13]] | [[Luke]] | [[Luke 15| Luke 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.
 ###### 2

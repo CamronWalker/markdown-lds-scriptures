@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ruth 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ruth 3| <-- Ruth 3]] | [[Ruth]] | [[1 Samuel 1| 1 Samuel 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one!  turn aside, sit down here.  And he turned aside, and sat down.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 13| <-- 1 Kings 13]] | [[1 Kings]] | [[1 Kings 15| 1 Kings 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AT that time Abijah the son of Jeroboam fell sick.
 ###### 2

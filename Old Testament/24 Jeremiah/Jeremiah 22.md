@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 21| <-- Jeremiah 21]] | [[Jeremiah]] | [[Jeremiah 23| Jeremiah 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THUS saith the LORD; Go down to the house of the king of Judah, and speak there this word,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/DandC
-People: 
-%%
-# D&C 9
+---
+publish: true
+tags:
+  - Scripture/DandC
+cssclasses:
+  - scriptures
+---
 [[D&C 8| <-- D&C 8]] | [[D&C]] | [[D&C 10| D&C 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BEHOLD, I say unto you, my son, that because you did not translate according to that which you desired of me, and did commence again to write for my servant, Joseph Smith, Jun., even so I would that ye should continue until you have finished this record, which I have entrusted unto him.
 ###### 2

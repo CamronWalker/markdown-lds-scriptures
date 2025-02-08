@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 41
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 40| <-- Psalm 40]] | [[Psalms]] | [[Psalm 42| Psalm 42 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/41?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BLESSED is he that considereth the poor: the LORD will deliver him in time of trouble.
 ###### 2

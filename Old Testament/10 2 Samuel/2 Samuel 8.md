@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 7| <-- 2 Samuel 7]] | [[2 Samuel]] | [[2 Samuel 9| 2 Samuel 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND after this it came to pass, that David smote the Philistines, and subdued them: and David took Metheg-ammah out of the hand of the Philistines.
 ###### 2

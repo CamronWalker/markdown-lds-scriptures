@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 48
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 47| <-- Alma 47]] | [[Alma]] | [[Alma 49| Alma 49 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/48?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that, as soon as Amalickiah had obtained the kingdom he began to inspire the hearts of the Lamanites against the people of Nephi; yea, he did appoint men to speak unto the Lamanites from their towers, against the Nephites.
 ###### 2

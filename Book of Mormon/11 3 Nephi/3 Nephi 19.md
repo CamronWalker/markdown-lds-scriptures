@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 19
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 18| <-- 3 Nephi 18]] | [[3 Nephi]] | [[3 Nephi 20| 3 Nephi 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that when Jesus had ascended into heaven, the multitude did disperse, and every man did take his wife and his children and did return to his own home.
 ###### 2

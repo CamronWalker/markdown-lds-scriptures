@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 25
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 24| <-- Acts 24]] | [[Acts]] | [[Acts 26| Acts 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/25?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.
 ###### 2

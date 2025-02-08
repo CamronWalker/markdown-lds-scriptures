@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 28| <-- Job 28]] | [[Job]] | [[Job 30| Job 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER Job continued his parable, and said,
 ###### 2

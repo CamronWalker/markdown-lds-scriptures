@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 126
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 125| <-- Psalm 125]] | [[Psalms]] | [[Psalm 127| Psalm 127 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/126?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN the LORD turned again the captivity of Zion, we were like them that dream.
 ###### 2

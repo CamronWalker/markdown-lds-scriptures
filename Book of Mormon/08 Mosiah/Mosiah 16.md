@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 16
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 15| <-- Mosiah 15]] | [[Mosiah]] | [[Mosiah 17| Mosiah 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, it came to pass that after Abinadi had spoken these words he stretched forth his hand and said: The time shall come when all shall see the salvation of the Lord; when every nation, kindred, tongue, and people shall see eye to eye and shall confess before God that his judgments are just.
 ###### 2

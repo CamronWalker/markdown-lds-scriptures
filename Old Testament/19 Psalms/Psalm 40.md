@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 40
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 39| <-- Psalm 39]] | [[Psalms]] | [[Psalm 41| Psalm 41 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/40?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WAITED patiently for the LORD; and he inclined unto me, and heard my cry.
 ###### 2

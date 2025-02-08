@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 17| <-- 2 Chronicles 17]] | [[2 Chronicles]] | [[2 Chronicles 19| 2 Chronicles 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.
 ###### 2

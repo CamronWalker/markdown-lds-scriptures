@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 37
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 36| <-- Psalm 36]] | [[Psalms]] | [[Psalm 38| Psalm 38 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/37?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 FRET not thyself because of evildoers, neither be thou envious against the workers of iniquity.
 ###### 2

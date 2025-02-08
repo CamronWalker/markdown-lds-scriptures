@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Lamentations 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Lamentations 3| <-- Lamentations 3]] | [[Lamentations]] | [[Lamentations 5| Lamentations 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HOW is the gold become dim!  how is the most fine gold changed!  the stones of the sanctuary are poured out in the top of every street.
 ###### 2

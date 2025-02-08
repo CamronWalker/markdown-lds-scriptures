@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 28
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 27| <-- 2 Nephi 27]] | [[2 Nephi]] | [[2 Nephi 29| 2 Nephi 29 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, behold, my brethren, I have spoken unto you, according as the Spirit hath constrained me; wherefore, I know that they must surely come to pass.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Song of Solomon 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Song of Solomon 1| <-- Song of Solomon 1]] | [[Song of Solomon]] | [[Song of Solomon 3| Song of Solomon 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I AM the rose of Sharon, and the lily of the valleys.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Daniel 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Daniel 3| <-- Daniel 3]] | [[Daniel]] | [[Daniel 5| Daniel 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NEBUCHADNEZZAR the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
 ###### 2

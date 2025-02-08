@@ -1,20 +1,18 @@
 Chapter ###### 14
 The Second Epistle of Paul the Apostle to the Thessalonians
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Thessalonians 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Thessalonians 5| <-- 1 Thessalonians 5]] | [[2 Thessalonians]] | [[2 Thessalonians 2| 2 Thessalonians 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 ###### 2

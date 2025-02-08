@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 9
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 8| <-- Romans 8]] | [[Romans]] | [[Romans 10| Romans 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 I SAY the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,
 ###### 2

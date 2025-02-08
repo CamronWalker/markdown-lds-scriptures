@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 41
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 40| <-- Genesis 40]] | [[Genesis]] | [[Genesis 42| Genesis 42 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/41?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 ###### 2

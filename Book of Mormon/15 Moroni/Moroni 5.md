@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Moroni 5
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Moroni 4| <-- Moroni 4]] | [[Moroni]] | [[Moroni 6| Moroni 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 The manner of administering the wine--Behold, they took the cup, and said:
 ###### 2

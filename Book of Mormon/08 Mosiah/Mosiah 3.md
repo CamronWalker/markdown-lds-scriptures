@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 3
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 2| <-- Mosiah 2]] | [[Mosiah]] | [[Mosiah 4| Mosiah 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And again my brethren, I would call your attention, for I have somewhat more to speak unto you; for behold, I have things to tell you concerning that which is to come.
 ###### 2

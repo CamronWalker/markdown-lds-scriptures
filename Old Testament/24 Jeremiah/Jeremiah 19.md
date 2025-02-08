@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 18| <-- Jeremiah 18]] | [[Jeremiah]] | [[Jeremiah 20| Jeremiah 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THUS saith the LORD, Go and get a potter's earthen bottle, and take of the ancients of the people, and of the ancients of the priests;
 ###### 2

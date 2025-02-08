@@ -1,19 +1,16 @@
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 3| <-- Genesis 3]] | [[Genesis]] | [[Genesis 5| Genesis 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.
 ###### 2

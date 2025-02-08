@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 27
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 26| <-- Mosiah 26]] | [[Mosiah]] | [[Mosiah 28| Mosiah 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that the persecutions which were inflicted on the church by the unbelievers became so great that the church began to murmur, and complain to their leaders concerning the matter; and they did complain to Alma. And Alma laid the case before their king, Mosiah. And Mosiah consulted with his priests.
 ###### 2

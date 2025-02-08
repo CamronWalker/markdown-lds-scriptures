@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 20
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 19| <-- Acts 19]] | [[Acts]] | [[Acts 21| Acts 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/20?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia.
 ###### 2

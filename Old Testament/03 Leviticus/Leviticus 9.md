@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 8| <-- Leviticus 8]] | [[Leviticus]] | [[Leviticus 10| Leviticus 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;
 ###### 2

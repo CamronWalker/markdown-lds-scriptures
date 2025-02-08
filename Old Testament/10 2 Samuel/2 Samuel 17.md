@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 16| <-- 2 Samuel 16]] | [[2 Samuel]] | [[2 Samuel 18| 2 Samuel 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:
 ###### 2

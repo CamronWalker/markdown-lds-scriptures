@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Moroni 2
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Moroni 1| <-- Moroni 1]] | [[Moroni]] | [[Moroni 3| Moroni 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them--
 ###### 2

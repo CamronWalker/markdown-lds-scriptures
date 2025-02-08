@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 2| <-- Psalm 2]] | [[Psalms]] | [[Psalm 4| Psalm 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LORD, how are they increased that trouble me!  many are they that rise up against me.
 ###### 2

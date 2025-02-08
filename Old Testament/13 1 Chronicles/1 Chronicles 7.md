@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 6| <-- 1 Chronicles 6]] | [[1 Chronicles]] | [[1 Chronicles 8| 1 Chronicles 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 5| <-- Proverbs 5]] | [[Proverbs]] | [[Proverbs 7| Proverbs 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,
 ###### 2

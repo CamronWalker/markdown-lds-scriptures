@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 1
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 63| <-- Alma 63]] | [[Helaman]] | [[Helaman 2| Helaman 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now behold, it came to pass in the commencement of the fortieth year of the reign of the judges over the people of Nephi, there began to be a serious difficulty among the people of the Nephites.
 ###### 2

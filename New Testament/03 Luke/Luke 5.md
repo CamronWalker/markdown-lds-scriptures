@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 4| <-- Luke 4]] | [[Luke]] | [[Luke 6| Luke 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,
 ###### 2

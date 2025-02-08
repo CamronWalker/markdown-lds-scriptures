@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 9| <-- Isaiah 9]] | [[Isaiah]] | [[Isaiah 11| Isaiah 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WOE unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;
 ###### 2

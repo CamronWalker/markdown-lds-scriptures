@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 17
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 16| <-- 1 Nephi 16]] | [[1 Nephi]] | [[1 Nephi 18| 1 Nephi 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that we did again take our journey in the wilderness; and we did travel nearly eastward from that time forth. And we did travel and wade through much affliction in the wilderness; and our women did bear children in the wilderness.
 ###### 2

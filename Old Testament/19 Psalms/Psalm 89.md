@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 89
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 88| <-- Psalm 88]] | [[Psalms]] | [[Psalm 90| Psalm 90 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/89?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.
 ###### 2

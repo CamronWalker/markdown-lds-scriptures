@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 23
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 22| <-- 2 Nephi 22]] | [[2 Nephi]] | [[2 Nephi 24| 2 Nephi 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/23?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 The burden of Babylon, which Isaiah the son of Amoz did see.
 ###### 2

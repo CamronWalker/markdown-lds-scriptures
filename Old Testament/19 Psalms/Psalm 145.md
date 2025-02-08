@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 145
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 144| <-- Psalm 144]] | [[Psalms]] | [[Psalm 146| Psalm 146 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/145?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL extol thee, my God, O king; and I will bless thy name for ever and ever.
 ###### 2

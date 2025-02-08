@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Moses 3
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Moses 2| <-- Moses 2]] | [[Moses]] | [[Moses 4| Moses 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/moses/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THUS the heaven and the earth were finished, and all the host of them.
 ###### 2

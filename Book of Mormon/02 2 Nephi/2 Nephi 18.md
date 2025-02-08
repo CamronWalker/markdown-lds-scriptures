@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 18
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 17| <-- 2 Nephi 17]] | [[2 Nephi]] | [[2 Nephi 19| 2 Nephi 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/18?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Moreover, the word of the Lord said unto me: Take thee a great roll, and write in it with a man's pen, concerning Maher-shalal-hash-baz.
 ###### 2

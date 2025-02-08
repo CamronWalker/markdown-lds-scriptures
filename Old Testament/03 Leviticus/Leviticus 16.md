@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Leviticus 15| <-- Leviticus 15]] | [[Leviticus]] | [[Leviticus 17| Leviticus 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;
 ###### 2

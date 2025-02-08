@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 8| <-- 2 Samuel 8]] | [[2 Samuel]] | [[2 Samuel 10| 2 Samuel 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?
 ###### 2

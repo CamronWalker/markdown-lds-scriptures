@@ -4,21 +4,19 @@ Chapter ###### 10
 The Epistle of Paul the Apostle to the Ephesians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Ephesians 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Ephesians 4| <-- Ephesians 4]] | [[Ephesians]] | [[Ephesians 6| Ephesians 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BE ye therefore followers of God, as dear children;
 ###### 2

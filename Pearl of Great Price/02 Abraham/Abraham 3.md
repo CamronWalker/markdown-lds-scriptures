@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Abraham 3
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Abraham 2| <-- Abraham 2]] | [[Abraham]] | [[Abraham 4| Abraham 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND I, Abraham, had the Urim and Thummim, which the Lord my God had given unto me, in Ur of the Chaldees;
 ###### 2

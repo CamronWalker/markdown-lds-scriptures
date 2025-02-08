@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 23
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 22| <-- Matthew 22]] | [[Matthew]] | [[Matthew 24| Matthew 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/23?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN spake Jesus to the multitude, and to his disciples,
 ###### 2

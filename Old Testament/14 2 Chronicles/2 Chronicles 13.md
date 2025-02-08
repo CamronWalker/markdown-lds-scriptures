@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 12| <-- 2 Chronicles 12]] | [[2 Chronicles]] | [[2 Chronicles 14| 2 Chronicles 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW in the eighteenth year of king Jeroboam began Abijah to reign over Judah.
 ###### 2

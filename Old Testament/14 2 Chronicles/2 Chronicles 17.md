@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 16| <-- 2 Chronicles 16]] | [[2 Chronicles]] | [[2 Chronicles 18| 2 Chronicles 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.
 ###### 2

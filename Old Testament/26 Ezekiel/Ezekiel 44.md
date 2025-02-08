@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 44
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 43| <-- Ezekiel 43]] | [[Ezekiel]] | [[Ezekiel 45| Ezekiel 45 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/44?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it was shut.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 14| <-- 1 Samuel 14]] | [[1 Samuel]] | [[1 Samuel 16| 1 Samuel 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SAMUEL also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD.
 ###### 2

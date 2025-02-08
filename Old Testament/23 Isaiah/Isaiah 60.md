@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 60
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 59| <-- Isaiah 59]] | [[Isaiah]] | [[Isaiah 61| Isaiah 61 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/60?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ARISE, shine; for thy light is come, and the glory of the LORD is risen upon thee.
 ###### 2

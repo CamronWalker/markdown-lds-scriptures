@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 10| <-- Isaiah 10]] | [[Isaiah]] | [[Isaiah 12| Isaiah 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
 ###### 2

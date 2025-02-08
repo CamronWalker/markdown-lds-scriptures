@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 78
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 77| <-- Psalm 77]] | [[Psalms]] | [[Psalm 79| Psalm 79 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/78?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GIVE ear, O my people, to my law: incline your ears to the words of my mouth.
 ###### 2

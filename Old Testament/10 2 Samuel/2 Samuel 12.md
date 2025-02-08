@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 11| <-- 2 Samuel 11]] | [[2 Samuel]] | [[2 Samuel 13| 2 Samuel 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD sent Nathan unto David.  And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.
 ###### 2

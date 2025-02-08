@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 24
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 23| <-- 2 Nephi 23]] | [[2 Nephi]] | [[2 Nephi 25| 2 Nephi 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/24?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land; and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
 ###### 2

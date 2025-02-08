@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 5| <-- John 5]] | [[John]] | [[John 7| John 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
 ###### 2

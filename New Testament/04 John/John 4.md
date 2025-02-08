@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 3| <-- John 3]] | [[John]] | [[John 5| John 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
 ###### 2

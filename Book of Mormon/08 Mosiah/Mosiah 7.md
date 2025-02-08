@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 7
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 6| <-- Mosiah 6]] | [[Mosiah]] | [[Mosiah 8| Mosiah 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, it came to pass that after king Mosiah had had continual peace for the space of three years, he was desirous to know concerning the people who went up to dwell in the land of Lehi-Nephi, or in the city of Lehi-Nephi; for his people had heard nothing from them from the time they left the land of Zarahemla; therefore, they wearied him with their teasings.
 ###### 2

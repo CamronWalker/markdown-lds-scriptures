@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 24
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 23| <-- Proverbs 23]] | [[Proverbs]] | [[Proverbs 25| Proverbs 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/24?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BE not thou envious against evil men, neither desire to be with them.
 ###### 2

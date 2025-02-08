@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 5| <-- 2 Samuel 5]] | [[2 Samuel]] | [[2 Samuel 7| 2 Samuel 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AGAIN, David gathered together all the chosen men of Israel, thirty thousand.
 ###### 2

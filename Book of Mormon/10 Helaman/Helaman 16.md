@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 16
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 15| <-- Helaman 15]] | [[Helaman]] | [[3 Nephi 1| 3 Nephi 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, it came to pass that there were many who heard the words of Samuel, the Lamanite, which he spake upon the walls of the city. And as many as believed on his word went forth and sought for Nephi; and when they had come forth and found him they confessed unto him their sins and denied not, desiring that they might be baptized unto the Lord.
 ###### 2

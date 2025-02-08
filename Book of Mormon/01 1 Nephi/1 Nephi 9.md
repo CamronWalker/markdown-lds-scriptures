@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 9
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 8| <-- 1 Nephi 8]] | [[1 Nephi]] | [[1 Nephi 10| 1 Nephi 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And all these things did my father see, and hear, and speak, as he dwelt in a tent, in the valley of Lemuel, and also a great many more things, which cannot be written upon these plates.
 ###### 2

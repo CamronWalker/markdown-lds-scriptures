@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 129
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 128| <-- Psalm 128]] | [[Psalms]] | [[Psalm 130| Psalm 130 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/129?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MANY a time have they afflicted me from my youth, may Israel now say:
 ###### 2

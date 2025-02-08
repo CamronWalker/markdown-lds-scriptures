@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 9| <-- 2 Kings 9]] | [[2 Kings]] | [[2 Kings 11| 2 Kings 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Ahab had seventy sons in Samaria.  And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab's children, saying,
 ###### 2

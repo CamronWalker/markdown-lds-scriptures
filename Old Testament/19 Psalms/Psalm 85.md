@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 85
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 84| <-- Psalm 84]] | [[Psalms]] | [[Psalm 86| Psalm 86 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/85?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
 ###### 2

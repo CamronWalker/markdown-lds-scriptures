@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Haggai 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Haggai 1| <-- Haggai 1]] | [[Haggai]] | [[Zechariah 1| Zechariah 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hag/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying,
 ###### 2

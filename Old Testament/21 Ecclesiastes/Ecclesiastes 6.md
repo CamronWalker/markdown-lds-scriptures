@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 5| <-- Ecclesiastes 5]] | [[Ecclesiastes]] | [[Ecclesiastes 7| Ecclesiastes 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THERE is an evil which I have seen under the sun, and it is common among men:
 ###### 2

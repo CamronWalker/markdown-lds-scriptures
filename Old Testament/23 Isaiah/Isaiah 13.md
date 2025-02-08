@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 12| <-- Isaiah 12]] | [[Isaiah]] | [[Isaiah 14| Isaiah 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE burden of Babylon, which Isaiah the son of Amoz did see.
 ###### 2

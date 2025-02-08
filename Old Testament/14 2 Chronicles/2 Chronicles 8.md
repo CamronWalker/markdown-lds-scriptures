@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 7| <-- 2 Chronicles 7]] | [[2 Chronicles]] | [[2 Chronicles 9| 2 Chronicles 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house,
 ###### 2

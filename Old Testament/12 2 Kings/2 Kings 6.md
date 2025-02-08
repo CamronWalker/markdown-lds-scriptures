@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 5| <-- 2 Kings 5]] | [[2 Kings]] | [[2 Kings 7| 2 Kings 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 74
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 73| <-- Psalm 73]] | [[Psalms]] | [[Psalm 75| Psalm 75 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/74?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O GOD, why hast thou cast us off for ever?  why doth thine anger smoke against the sheep of thy pasture?
 ###### 2

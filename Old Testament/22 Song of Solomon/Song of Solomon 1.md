@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Song of Solomon 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 12| <-- Ecclesiastes 12]] | [[Song of Solomon]] | [[Song of Solomon 2| Song of Solomon 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE song of songs, which is Solomon's.
 ###### 2

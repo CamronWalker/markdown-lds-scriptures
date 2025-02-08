@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 24
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 23| <-- Ezekiel 23]] | [[Ezekiel]] | [[Ezekiel 25| Ezekiel 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/24?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AGAIN in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying,
 ###### 2

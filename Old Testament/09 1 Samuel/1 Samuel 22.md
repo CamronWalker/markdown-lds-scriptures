@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 21| <-- 1 Samuel 21]] | [[1 Samuel]] | [[1 Samuel 23| 1 Samuel 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 DAVID therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him.
 ###### 2

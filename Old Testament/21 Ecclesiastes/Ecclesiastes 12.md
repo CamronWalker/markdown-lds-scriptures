@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 11| <-- Ecclesiastes 11]] | [[Ecclesiastes]] | [[Song of Solomon 1| Song of Solomon 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 REMEMBER now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
 ###### 2

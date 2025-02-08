@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 12
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 11| <-- 2 Corinthians 11]] | [[2 Corinthians]] | [[2 Corinthians 13| 2 Corinthians 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 IT is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
 ###### 2

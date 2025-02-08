@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Peter 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Peter 2| <-- 2 Peter 2]] | [[2 Peter]] | [[1 John 1| 1 John 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THIS second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:
 ###### 2

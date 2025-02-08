@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Moroni 4
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Moroni 3| <-- Moroni 3]] | [[Moroni]] | [[Moroni 5| Moroni 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 The manner of their elders and priests administering the flesh and blood of Christ unto the church; and they administered it according to the commandments of Christ; wherefore we know the manner to be true; and the elder or priest did minister it--
 ###### 2

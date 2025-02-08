@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 11| <-- Job 11]] | [[Job]] | [[Job 13| Job 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Job answered and said,
 ###### 2

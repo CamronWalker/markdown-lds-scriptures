@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 24| <-- 1 Samuel 24]] | [[1 Samuel]] | [[1 Samuel 26| 1 Samuel 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah.  And David arose, and went down to the wilderness of Paran.
 ###### 2

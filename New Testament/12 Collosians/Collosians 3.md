@@ -4,21 +4,19 @@ Chapter ###### 12
 The Epistle of Paul the Apostle to the Colossians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Collosians 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Collosians 2| <-- Collosians 2]] | [[Collosians]] | [[Collosians 4| Collosians 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 IF ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
 ###### 2

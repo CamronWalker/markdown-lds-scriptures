@@ -4,21 +4,19 @@ Chapter ###### 12
 The Epistle of Paul the Apostle to the Colossians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Collosians 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Collosians 3| <-- Collosians 3]] | [[Collosians]] | [[1 Thessalonians 1| 1 Thessalonians 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 MASTERS, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.
 ###### 2

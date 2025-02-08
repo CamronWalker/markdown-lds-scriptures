@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 27
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 26| <-- Ezekiel 26]] | [[Ezekiel]] | [[Ezekiel 28| Ezekiel 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/27?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word of the LORD came again unto me, saying,
 ###### 2

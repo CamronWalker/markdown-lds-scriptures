@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 5
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 4| <-- Helaman 4]] | [[Helaman]] | [[Helaman 6| Helaman 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that in this same year, behold, Nephi delivered up the judgment-seat to a man whose name was Cezoram.
 ###### 2

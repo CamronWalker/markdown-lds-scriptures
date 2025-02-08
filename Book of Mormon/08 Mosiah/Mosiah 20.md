@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 20
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 19| <-- Mosiah 19]] | [[Mosiah]] | [[Mosiah 21| Mosiah 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now there was a place in Shemlon where the daughters of the Lamanites did gather themselves together to sing, and to dance, and to make themselves merry.
 ###### 2

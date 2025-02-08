@@ -1,20 +1,18 @@
 Chapter ###### 10
 The Epistle of Paul the Apostle to the Ephesians
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Ephesians 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Galatians 6| <-- Galatians 6]] | [[Ephesians]] | [[Ephesians 2| Ephesians 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mormon 9
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mormon 8| <-- Mormon 8]] | [[Mormon]] | [[Ether 1| Ether 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, I speak also concerning those who do not believe in Christ.
 ###### 2

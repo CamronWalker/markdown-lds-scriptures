@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Peter 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[James 5| <-- James 5]] | [[1 Peter]] | [[1 Peter 2| 1 Peter 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PETER, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 ###### 2

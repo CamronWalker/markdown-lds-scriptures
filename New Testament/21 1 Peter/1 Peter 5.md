@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Peter 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Peter 4| <-- 1 Peter 4]] | [[1 Peter]] | [[2 Peter 1| 2 Peter 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
 ###### 2

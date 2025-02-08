@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 135
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 134| <-- Psalm 134]] | [[Psalms]] | [[Psalm 136| Psalm 136 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/135?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  Praise ye the name of the LORD; praise him, O ye servants of the LORD.
 ###### 2

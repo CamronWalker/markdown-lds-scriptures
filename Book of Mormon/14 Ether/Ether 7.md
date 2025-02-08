@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 7
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 6| <-- Ether 6]] | [[Ether]] | [[Ether 8| Ether 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that Orihah did execute judgment upon the land in righteousness all his days, whose days were exceedingly many.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 10| <-- Job 10]] | [[Job]] | [[Job 12| Job 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN answered Zophar the Naamathite, and said,
 ###### 2

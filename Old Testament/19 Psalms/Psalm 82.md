@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 82
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 81| <-- Psalm 81]] | [[Psalms]] | [[Psalm 83| Psalm 83 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/82?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GOD standeth in the congregation of the mighty; he judgeth among the gods.
 ###### 2

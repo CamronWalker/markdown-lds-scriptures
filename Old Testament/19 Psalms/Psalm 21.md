@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 20| <-- Psalm 20]] | [[Psalms]] | [[Psalm 22| Psalm 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!
 ###### 2

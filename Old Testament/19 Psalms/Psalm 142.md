@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 142
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 141| <-- Psalm 141]] | [[Psalms]] | [[Psalm 143| Psalm 143 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/142?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I CRIED unto the LORD with my voice; with my voice unto the LORD did I make my supplication.
 ###### 2

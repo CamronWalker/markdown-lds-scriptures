@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Lamentations 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 52| <-- Jeremiah 52]] | [[Lamentations]] | [[Lamentations 2| Lamentations 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HOW doth the city sit solitary, that was full of people!  how is she become as a widow!  she that was great among the nations, and princess among the provinces, how is she become tributary!
 ###### 2

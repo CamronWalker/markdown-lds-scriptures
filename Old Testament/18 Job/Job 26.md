@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 25| <-- Job 25]] | [[Job]] | [[Job 27| Job 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BUT Job answered and said,
 ###### 2

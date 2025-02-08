@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zephaniah 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zephaniah 1| <-- Zephaniah 1]] | [[Zephaniah]] | [[Zephaniah 3| Zephaniah 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zeph/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GATHER yourselves together, yea, gather together, O nation not desired;
 ###### 2

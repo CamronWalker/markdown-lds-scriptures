@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 19
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 18| <-- John 18]] | [[John]] | [[John 20| John 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Pilate therefore took Jesus, and scourged him.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 1| <-- Mark 1]] | [[Mark]] | [[Mark 3| Mark 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND again he entered into Capernaum after some days; and it was noised that he was in the house.
 ###### 2

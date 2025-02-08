@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 5
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 4| <-- Mosiah 4]] | [[Mosiah]] | [[Mosiah 6| Mosiah 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, it came to pass that when king Benjamin had thus spoken to his people, he sent among them, desiring to know of his people if they believed the words which he had spoken unto them.
 ###### 2

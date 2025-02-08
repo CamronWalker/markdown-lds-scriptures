@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 8
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 7| <-- Mosiah 7]] | [[Mosiah]] | [[Mosiah 9| Mosiah 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that after king Limhi had made an end of speaking to his people, for he spake many things unto them and only a few of them have I written in this book, he told his people all the things concerning their brethren who were in the land of Zarahemla.
 ###### 2

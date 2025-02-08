@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 7| <-- 1 Chronicles 7]] | [[1 Chronicles]] | [[1 Chronicles 9| 1 Chronicles 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 1| <-- 1 Kings 1]] | [[1 Kings]] | [[1 Kings 3| 1 Kings 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW the days of David drew nigh that he should die; and he charged Solomon his son, saying,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 12
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 11| <-- Ether 11]] | [[Ether]] | [[Ether 13| Ether 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that the days of Ether were in the days of Coriantumr; and Coriantumr was king over all the land.
 ###### 2

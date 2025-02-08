@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 48
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 47| <-- Ezekiel 47]] | [[Ezekiel]] | [[Daniel 1| Daniel 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/48?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW these are the names of the tribes.  From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar-enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 13| <-- Job 13]] | [[Job]] | [[Job 15| Job 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MAN that is born of a woman is of few days, and full of trouble.
 ###### 2

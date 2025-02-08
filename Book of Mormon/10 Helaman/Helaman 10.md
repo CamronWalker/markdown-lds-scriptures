@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 10
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 9| <-- Helaman 9]] | [[Helaman]] | [[Helaman 11| Helaman 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that there arose a division among the people, insomuch that they divided hither and thither and went their ways, leaving Nephi alone, as he was standing in the midst of them.
 ###### 2

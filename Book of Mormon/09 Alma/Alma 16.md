@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 16
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 15| <-- Alma 15]] | [[Alma]] | [[Alma 17| Alma 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass in the eleventh year of the reign of the judges over the people of Nephi, on the fifth day of the second month, there having been much peace in the land of Zarahemla, there having been no wars nor contentions for a certain number of years, even until the fifth day of the second month in the eleventh year, there was a cry of war heard throughout the land.
 ###### 2

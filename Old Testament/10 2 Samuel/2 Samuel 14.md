@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 13| <-- 2 Samuel 13]] | [[2 Samuel]] | [[2 Samuel 15| 2 Samuel 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Joab the son of Zeruiah perceived that the king's heart was toward Absalom.
 ###### 2

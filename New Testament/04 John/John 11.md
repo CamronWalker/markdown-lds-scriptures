@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 11
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 10| <-- John 10]] | [[John]] | [[John 12| John 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.
 ###### 2

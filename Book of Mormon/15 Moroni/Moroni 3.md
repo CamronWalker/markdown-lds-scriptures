@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Moroni 3
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Moroni 2| <-- Moroni 2]] | [[Moroni]] | [[Moroni 4| Moroni 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 The manner which the disciples, who were called the elders of the church, ordained priests and teachers--
 ###### 2

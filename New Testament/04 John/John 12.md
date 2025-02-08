@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 12
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 11| <-- John 11]] | [[John]] | [[John 13| John 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead.
 ###### 2

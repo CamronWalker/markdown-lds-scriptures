@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 21
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 20| <-- Revelation 20]] | [[Revelation]] | [[Revelation 22| Revelation 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
 ###### 2

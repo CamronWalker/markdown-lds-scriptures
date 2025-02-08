@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 16| <-- Mark 16]] | [[Luke]] | [[Luke 2| Luke 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FORASMUCH as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 8
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 7| <-- Mark 7]] | [[Mark]] | [[Mark 9| Mark 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 IN those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,
 ###### 2

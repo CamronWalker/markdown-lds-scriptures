@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 43
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 42| <-- Ezekiel 42]] | [[Ezekiel]] | [[Ezekiel 44| Ezekiel 44 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/43?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AFTERWARD he brought me to the gate, even the gate that looketh toward the east:
 ###### 2

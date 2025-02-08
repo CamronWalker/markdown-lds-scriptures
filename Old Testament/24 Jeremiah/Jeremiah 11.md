@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 10| <-- Jeremiah 10]] | [[Jeremiah]] | [[Jeremiah 12| Jeremiah 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word that came to Jeremiah from the LORD, saying,
 ###### 2

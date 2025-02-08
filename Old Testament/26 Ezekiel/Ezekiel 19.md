@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 18| <-- Ezekiel 18]] | [[Ezekiel]] | [[Ezekiel 20| Ezekiel 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER take thou up a lamentation for the princes of Israel,
 ###### 2

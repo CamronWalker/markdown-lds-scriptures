@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 19
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 18| <-- Luke 18]] | [[Luke]] | [[Luke 20| Luke 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/19?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jesus entered and passed through Jericho.
 ###### 2

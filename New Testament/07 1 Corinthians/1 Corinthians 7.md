@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 7
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 6| <-- 1 Corinthians 6]] | [[1 Corinthians]] | [[1 Corinthians 8| 1 Corinthians 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.
 ###### 2

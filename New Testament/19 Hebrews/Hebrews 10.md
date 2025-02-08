@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Hebrews 10
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Hebrews 9| <-- Hebrews 9]] | [[Hebrews]] | [[Hebrews 11| Hebrews 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FOR the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
 ###### 2

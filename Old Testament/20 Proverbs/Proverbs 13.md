@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 12| <-- Proverbs 12]] | [[Proverbs]] | [[Proverbs 14| Proverbs 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 A WISE son heareth his father's instruction: but a scorner heareth not rebuke.
 ###### 2

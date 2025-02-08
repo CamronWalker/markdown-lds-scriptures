@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 20| <-- 2 Samuel 20]] | [[2 Samuel]] | [[2 Samuel 22| 2 Samuel 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN there was a famine in the days of David three years, year after year; and David enquired of the LORD.  And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.
 ###### 2

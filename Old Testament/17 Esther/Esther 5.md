@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Esther 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Esther 4| <-- Esther 4]] | [[Esther]] | [[Esther 6| Esther 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king's house, over against the king's house: and the king sat upon his royal throne in the royal house, over against the gate of the house.
 ###### 2

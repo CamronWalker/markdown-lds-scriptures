@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 1| <-- 2 Chronicles 1]] | [[2 Chronicles]] | [[2 Chronicles 3| 2 Chronicles 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Solomon determined to build an house for the name of the LORD, and an house for his kingdom.
 ###### 2

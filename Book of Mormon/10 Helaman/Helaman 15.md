@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 15
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 14| <-- Helaman 14]] | [[Helaman]] | [[Helaman 16| Helaman 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, my beloved brethren, behold, I declare unto you that except ye shall repent your houses shall be left unto you desolate.
 ###### 2

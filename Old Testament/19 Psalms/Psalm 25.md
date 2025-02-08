@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 24| <-- Psalm 24]] | [[Psalms]] | [[Psalm 26| Psalm 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 UNTO thee, O LORD, do I lift up my soul.
 ###### 2

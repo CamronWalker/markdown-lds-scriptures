@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 23
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 22| <-- Luke 22]] | [[Luke]] | [[Luke 24| Luke 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND the whole multitude of them arose, and led him unto Pilate.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 39
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 38| <-- Job 38]] | [[Job]] | [[Job 40| Job 40 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/39?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 KNOWEST thou the time when the wild goats of the rock bring forth?  or canst thou mark when the hinds do calve?
 ###### 2

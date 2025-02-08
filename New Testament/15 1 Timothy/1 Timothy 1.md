@@ -1,20 +1,18 @@
 Chapter ###### 15
 The First Epistle of Paul the Apostle to Timothy
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Timothy 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Thessalonians 3| <-- 2 Thessalonians 3]] | [[1 Timothy]] | [[1 Timothy 2| 1 Timothy 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
 ###### 2

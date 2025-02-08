@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 18| <-- 2 Samuel 18]] | [[2 Samuel]] | [[2 Samuel 20| 2 Samuel 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it was told Joab, Behold, the king weepeth and mourneth for Absalom.
 ###### 2

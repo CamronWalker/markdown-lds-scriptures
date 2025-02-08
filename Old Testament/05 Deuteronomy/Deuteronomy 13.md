@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 12| <-- Deuteronomy 12]] | [[Deuteronomy]] | [[Deuteronomy 14| Deuteronomy 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IF there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder,
 ###### 2

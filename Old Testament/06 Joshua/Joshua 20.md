@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joshua 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joshua 19| <-- Joshua 19]] | [[Joshua]] | [[Joshua 21| Joshua 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE LORD also spake unto Joshua, saying,
 ###### 2

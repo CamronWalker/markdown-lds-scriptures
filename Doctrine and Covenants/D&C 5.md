@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/DandC
-People: 
-%%
-# D&C 5
+---
+publish: true
+tags:
+  - Scripture/DandC
+cssclasses:
+  - scriptures
+---
 [[D&C 4| <-- D&C 4]] | [[D&C]] | [[D&C 6| D&C 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BEHOLD, I say unto you, that as my servant Martin Harris has desired a witness at my hand, that you, my servant Joseph Smith, Jun., have got the plates of which you have testified and borne record that you have received of me;
 ###### 2

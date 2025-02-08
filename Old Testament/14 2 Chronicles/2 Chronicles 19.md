@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 18| <-- 2 Chronicles 18]] | [[2 Chronicles]] | [[2 Chronicles 20| 2 Chronicles 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.
 ###### 2

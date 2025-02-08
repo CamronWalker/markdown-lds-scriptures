@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 16| <-- Judges 16]] | [[Judges]] | [[Judges 18| Judges 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND there was a man of mount Ephraim, whose name was Micah.
 ###### 2

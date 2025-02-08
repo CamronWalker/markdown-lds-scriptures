@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 10
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 9| <-- Luke 9]] | [[Luke]] | [[Luke 11| Luke 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.
 ###### 2

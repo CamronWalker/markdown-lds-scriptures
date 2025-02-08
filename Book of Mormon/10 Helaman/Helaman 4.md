@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 4
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 3| <-- Helaman 3]] | [[Helaman]] | [[Helaman 5| Helaman 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass in the fifty and fourth year there were many dissensions in the church, and there was also a contention among the people, insomuch that there was much bloodshed.
 ###### 2

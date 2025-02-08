@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 17| <-- Isaiah 17]] | [[Isaiah]] | [[Isaiah 19| Isaiah 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WOE to the land shadowing with wings, which is beyond the rivers of Ethiopia:
 ###### 2

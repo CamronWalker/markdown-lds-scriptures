@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 34
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 33| <-- Job 33]] | [[Job]] | [[Job 35| Job 35 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/34?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 FURTHERMORE Elihu answered and said,
 ###### 2

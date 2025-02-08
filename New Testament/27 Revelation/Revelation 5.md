@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 4| <-- Revelation 4]] | [[Revelation]] | [[Revelation 6| Revelation 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
 ###### 2

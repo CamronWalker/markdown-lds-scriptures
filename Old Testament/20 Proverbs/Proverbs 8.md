@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 7| <-- Proverbs 7]] | [[Proverbs]] | [[Proverbs 9| Proverbs 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 DOTH not wisdom cry?  and understanding put forth her voice?
 ###### 2

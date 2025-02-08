@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nehemiah 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nehemiah 1| <-- Nehemiah 1]] | [[Nehemiah]] | [[Nehemiah 3| Nehemiah 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king.  Now I had not been beforetime sad in his presence.
 ###### 2

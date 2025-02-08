@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 14
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 13| <-- 3 Nephi 13]] | [[3 Nephi]] | [[3 Nephi 15| 3 Nephi 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that when Jesus had spoken these words he turned again to the multitude, and did open his mouth unto them again, saying: Verily, verily, I say unto you, Judge not, that ye be not judged.
 ###### 2

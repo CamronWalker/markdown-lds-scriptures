@@ -4,21 +4,19 @@ Chapter ###### 15
 The First Epistle of Paul the Apostle to Timothy
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Timothy 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Timothy 4| <-- 1 Timothy 4]] | [[1 Timothy]] | [[1 Timothy 6| 1 Timothy 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 REBUKE not an elder, but intreat him as a father; and the younger men as brethren;
 ###### 2

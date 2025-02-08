@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 14
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 13| <-- Mosiah 13]] | [[Mosiah]] | [[Mosiah 15| Mosiah 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Yea, even doth not Isaiah say: Who hath believed our report, and to whom is the arm of the Lord revealed?
 ###### 2

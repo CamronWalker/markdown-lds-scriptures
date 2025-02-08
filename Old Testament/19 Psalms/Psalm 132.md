@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 132
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 131| <-- Psalm 131]] | [[Psalms]] | [[Psalm 133| Psalm 133 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/132?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LORD, remember David, and all his afflictions:
 ###### 2

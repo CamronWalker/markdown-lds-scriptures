@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
  | [[Matthew]] | [[Matthew 2| Matthew 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE book of the generation of Jesus Christ, the son of David, the son of Abraham.
 ###### 2

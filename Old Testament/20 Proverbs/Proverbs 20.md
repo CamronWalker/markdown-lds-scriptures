@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 19| <-- Proverbs 19]] | [[Proverbs]] | [[Proverbs 21| Proverbs 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WINE is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.
 ###### 2

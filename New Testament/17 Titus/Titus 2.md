@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Titus 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Titus 1| <-- Titus 1]] | [[Titus]] | [[Titus 3| Titus 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/titus/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BUT speak thou the things which become sound doctrine:
 ###### 2

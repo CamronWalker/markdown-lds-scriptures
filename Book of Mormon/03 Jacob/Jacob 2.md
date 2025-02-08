@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Jacob 2
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Jacob 1| <-- Jacob 1]] | [[Jacob]] | [[Jacob 3| Jacob 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 The words which Jacob, the brother of Nephi, spake unto the people of Nephi, after the death of Nephi:
 ###### 2

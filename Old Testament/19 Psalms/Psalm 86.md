@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 86
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 85| <-- Psalm 85]] | [[Psalms]] | [[Psalm 87| Psalm 87 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/86?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BOW down thine ear, O LORD, hear me: for I am poor and needy.
 ###### 2

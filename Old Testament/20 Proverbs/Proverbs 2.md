@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 1| <-- Proverbs 1]] | [[Proverbs]] | [[Proverbs 3| Proverbs 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY son, if thou wilt receive my words, and hide my commandments with thee;
 ###### 2

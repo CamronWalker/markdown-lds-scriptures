@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 15
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 14| <-- Ether 14]] | [[Ether]] | [[Moroni 1| Moroni 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass when Coriantumr had recovered of his wounds, he began to remember the words which Ether had spoken unto him.
 ###### 2

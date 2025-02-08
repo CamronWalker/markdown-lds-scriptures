@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 9| <-- Psalm 9]] | [[Psalms]] | [[Psalm 11| Psalm 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHY standest thou afar off, O LORD?  why hidest thou thyself in times of trouble?
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 3| <-- 2 Chronicles 3]] | [[2 Chronicles]] | [[2 Chronicles 5| 2 Chronicles 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof.
 ###### 2

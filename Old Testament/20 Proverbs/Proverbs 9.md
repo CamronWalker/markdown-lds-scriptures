@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 8| <-- Proverbs 8]] | [[Proverbs]] | [[Proverbs 10| Proverbs 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WISDOM hath builded her house, she hath hewn out her seven pillars:
 ###### 2

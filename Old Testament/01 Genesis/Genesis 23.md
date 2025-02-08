@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 22| <-- Genesis 22]] | [[Genesis]] | [[Genesis 24| Genesis 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah.
 ###### 2

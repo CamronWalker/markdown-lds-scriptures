@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Hebrews 8
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Hebrews 7| <-- Hebrews 7]] | [[Hebrews]] | [[Hebrews 9| Hebrews 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
 ###### 2

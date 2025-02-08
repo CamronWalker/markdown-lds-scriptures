@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 10| <-- Psalm 10]] | [[Psalms]] | [[Psalm 12| Psalm 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the LORD put I my trust: How say ye to my soul, Flee as a bird to your mountain?
 ###### 2

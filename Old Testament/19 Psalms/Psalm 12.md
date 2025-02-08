@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 11| <-- Psalm 11]] | [[Psalms]] | [[Psalm 13| Psalm 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HELP, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 32
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 31| <-- 2 Chronicles 31]] | [[2 Chronicles]] | [[2 Chronicles 33| 2 Chronicles 33 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/32?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 8
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 7| <-- John 7]] | [[John]] | [[John 9| John 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 JESUS went unto the mount of Olives.
 ###### 2

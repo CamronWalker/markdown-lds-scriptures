@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 36
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 35| <-- Genesis 35]] | [[Genesis]] | [[Genesis 37| Genesis 37 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/36?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW these are the generations of Esau, who is Edom.
 ###### 2

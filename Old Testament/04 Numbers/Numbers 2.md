@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 1| <-- Numbers 1]] | [[Numbers]] | [[Numbers 3| Numbers 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses and unto Aaron, saying,
 ###### 2

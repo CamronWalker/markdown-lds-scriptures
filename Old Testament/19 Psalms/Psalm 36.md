@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 36
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 35| <-- Psalm 35]] | [[Psalms]] | [[Psalm 37| Psalm 37 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/36?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE transgression of the wicked saith within my heart, that there is no fear of God before his eyes.
 ###### 2

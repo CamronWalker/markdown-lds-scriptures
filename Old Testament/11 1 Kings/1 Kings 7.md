@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 6| <-- 1 Kings 6]] | [[1 Kings]] | [[1 Kings 8| 1 Kings 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BUT Solomon was building his own house thirteen years, and he finished all his house.
 ###### 2

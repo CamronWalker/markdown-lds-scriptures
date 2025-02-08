@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 14| <-- Proverbs 14]] | [[Proverbs]] | [[Proverbs 16| Proverbs 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 A SOFT answer turneth away wrath: but grievous words stir up anger.
 ###### 2

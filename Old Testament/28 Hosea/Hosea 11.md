@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 10| <-- Hosea 10]] | [[Hosea]] | [[Hosea 12| Hosea 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN Israel was a child, then I loved him, and called my son out of Egypt.
 ###### 2

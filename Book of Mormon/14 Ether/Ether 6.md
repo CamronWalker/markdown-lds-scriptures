@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Ether 6
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Ether 5| <-- Ether 5]] | [[Ether]] | [[Ether 7| Ether 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I, Moroni, proceed to give the record of Jared and his brother.
 ###### 2

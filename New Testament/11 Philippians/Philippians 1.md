@@ -1,20 +1,18 @@
 Chapter ###### 11
 The Epistle of Paul the Apostle to the Philippians
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Philippians 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Ephesians 6| <-- Ephesians 6]] | [[Philippians]] | [[Philippians 2| Philippians 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 ###### 2

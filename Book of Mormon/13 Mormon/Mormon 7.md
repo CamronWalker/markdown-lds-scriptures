@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mormon 7
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mormon 6| <-- Mormon 6]] | [[Mormon]] | [[Mormon 8| Mormon 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, behold, I would speak somewhat unto the remnant of this people who are spared, if it so be that God may give unto them my words, that they may know of the things of their fathers; yea, I speak unto you, ye remnant of the house of Israel; and these are the words which I speak:
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 14
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 13| <-- 2 Nephi 13]] | [[2 Nephi]] | [[2 Nephi 15| 2 Nephi 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And in that day, seven women shall take hold of one man, saying: We will eat our own bread, and wear our own apparel; only let us be called by thy name to take away our reproach.
 ###### 2

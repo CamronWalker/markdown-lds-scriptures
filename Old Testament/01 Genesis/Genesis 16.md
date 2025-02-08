@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 15| <-- Genesis 15]] | [[Genesis]] | [[Genesis 17| Genesis 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.
 ###### 2

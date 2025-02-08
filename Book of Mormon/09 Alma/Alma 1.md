@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 1
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 29| <-- Mosiah 29]] | [[Alma]] | [[Alma 2| Alma 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now it came to pass that in the first year of the reign of the judges over the people of Nephi, from this time forward, king Mosiah having gone the way of all the earth, having warred a good warfare, walking uprightly before God, leaving none to reign in his stead; nevertheless he had established laws, and they were acknowledged by the people; therefore they were obliged to abide by the laws which he had made.
 ###### 2

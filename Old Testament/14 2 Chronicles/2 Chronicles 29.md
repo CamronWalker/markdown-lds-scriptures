@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 28| <-- 2 Chronicles 28]] | [[2 Chronicles]] | [[2 Chronicles 30| 2 Chronicles 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEZEKIAH began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem.  And his mother's name was Abijah, the daughter of Zechariah.
 ###### 2

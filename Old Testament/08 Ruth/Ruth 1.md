@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ruth 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 21| <-- Judges 21]] | [[Ruth]] | [[Ruth 2| Ruth 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW it came to pass in the days when the judges ruled, that there was a famine in the land.  And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons.
 ###### 2

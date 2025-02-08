@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 18| <-- Numbers 18]] | [[Numbers]] | [[Numbers 20| Numbers 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD spake unto Moses and unto Aaron, saying,
 ###### 2

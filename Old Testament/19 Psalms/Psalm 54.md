@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 54
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 53| <-- Psalm 53]] | [[Psalms]] | [[Psalm 55| Psalm 55 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/54?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SAVE me, O God, by thy name, and judge me by thy strength.
 ###### 2

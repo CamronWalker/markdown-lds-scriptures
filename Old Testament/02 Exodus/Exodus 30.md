@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 30
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 29| <-- Exodus 29]] | [[Exodus]] | [[Exodus 31| Exodus 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/30?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.
 ###### 2

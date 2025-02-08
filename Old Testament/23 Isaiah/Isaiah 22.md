@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 21| <-- Isaiah 21]] | [[Isaiah]] | [[Isaiah 23| Isaiah 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE burden of the valley of vision.  What aileth thee now, that thou art wholly gone up to the housetops?
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 9| <-- Jeremiah 9]] | [[Jeremiah]] | [[Jeremiah 11| Jeremiah 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR ye the word which the LORD speaketh unto you, O house of Israel:
 ###### 2

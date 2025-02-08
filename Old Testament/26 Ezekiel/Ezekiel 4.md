@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 3| <-- Ezekiel 3]] | [[Ezekiel]] | [[Ezekiel 5| Ezekiel 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THOU also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:
 ###### 2

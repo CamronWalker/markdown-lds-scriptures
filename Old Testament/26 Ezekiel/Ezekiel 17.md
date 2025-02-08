@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 16| <-- Ezekiel 16]] | [[Ezekiel]] | [[Ezekiel 18| Ezekiel 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the word of the LORD came unto me, saying,
 ###### 2

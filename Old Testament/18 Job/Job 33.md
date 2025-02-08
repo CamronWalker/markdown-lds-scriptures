@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 33
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 32| <-- Job 32]] | [[Job]] | [[Job 34| Job 34 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/33?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHEREFORE, Job, I pray thee, hear my speeches, and hearken to all my words.
 ###### 2

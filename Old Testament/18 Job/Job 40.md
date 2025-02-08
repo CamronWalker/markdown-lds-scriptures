@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 40
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 39| <-- Job 39]] | [[Job]] | [[Job 41| Job 41 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/40?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER the LORD answered Job, and said,
 ###### 2

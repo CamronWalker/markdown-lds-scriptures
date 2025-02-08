@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 38
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 37| <-- Isaiah 37]] | [[Isaiah]] | [[Isaiah 39| Isaiah 39 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/38?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN those days was Hezekiah sick unto death.  And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.
 ###### 2

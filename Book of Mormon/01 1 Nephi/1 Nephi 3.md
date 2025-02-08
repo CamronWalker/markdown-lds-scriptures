@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 3
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 2| <-- 1 Nephi 2]] | [[1 Nephi]] | [[1 Nephi 4| 1 Nephi 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that I, Nephi, returned from speaking with the Lord, to the tent of my father.
 ###### 2

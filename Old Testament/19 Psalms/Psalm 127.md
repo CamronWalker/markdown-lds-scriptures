@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 127
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 126| <-- Psalm 126]] | [[Psalms]] | [[Psalm 128| Psalm 128 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/127?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 EXCEPT the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.
 ###### 2

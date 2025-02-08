@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 21| <-- Proverbs 21]] | [[Proverbs]] | [[Proverbs 23| Proverbs 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold.
 ###### 2

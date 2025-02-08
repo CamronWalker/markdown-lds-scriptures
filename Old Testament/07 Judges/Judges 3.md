@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 2| <-- Judges 2]] | [[Judges]] | [[Judges 4| Judges 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW these are the nations which the LORD left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan;
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 9| <-- Genesis 9]] | [[Genesis]] | [[Genesis 11| Genesis 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
 ###### 2

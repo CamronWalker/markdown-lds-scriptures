@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 1| <-- 2 Corinthians 1]] | [[2 Corinthians]] | [[2 Corinthians 3| 2 Corinthians 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BUT I determined this with myself, that I would not come again to you in heaviness.
 ###### 2

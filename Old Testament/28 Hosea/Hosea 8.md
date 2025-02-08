@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 7| <-- Hosea 7]] | [[Hosea]] | [[Hosea 9| Hosea 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SET the trumpet to thy mouth.  He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.
 ###### 2

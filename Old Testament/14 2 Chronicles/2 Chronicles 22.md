@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 21| <-- 2 Chronicles 21]] | [[2 Chronicles]] | [[2 Chronicles 23| 2 Chronicles 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest.  So Ahaziah the son of Jehoram king of Judah reigned.
 ###### 2

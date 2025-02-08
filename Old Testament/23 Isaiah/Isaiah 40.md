@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 40
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 39| <-- Isaiah 39]] | [[Isaiah]] | [[Isaiah 41| Isaiah 41 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 COMFORT ye, comfort ye my people, saith your God.
 ###### 2

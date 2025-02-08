@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Moses 8
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Moses 7| <-- Moses 7]] | [[Moses]] | [[Abraham 1| Abraham 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/moses/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND all the days of Enoch were four hundred and thirty years.
 ###### 2

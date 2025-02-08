@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 13| <-- 2 Chronicles 13]] | [[2 Chronicles]] | [[2 Chronicles 15| 2 Chronicles 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SO Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead.  In his days the land was quiet ten years.
 ###### 2

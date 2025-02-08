@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 1| <-- Acts 1]] | [[Acts]] | [[Acts 3| Acts 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND when the day of Pentecost was fully come, they were all with one accord in one place.
 ###### 2

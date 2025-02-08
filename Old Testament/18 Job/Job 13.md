@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 12| <-- Job 12]] | [[Job]] | [[Job 14| Job 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LO, mine eye hath seen all this, mine ear hath heard and understood it.
 ###### 2

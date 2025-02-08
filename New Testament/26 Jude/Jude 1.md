@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Jude 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[3 John 1| <-- 3 John 1]] | [[Jude]] | [[Revelation 1| Revelation 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/jude/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 JUDE, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
 ###### 2

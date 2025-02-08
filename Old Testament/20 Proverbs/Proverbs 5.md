@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 4| <-- Proverbs 4]] | [[Proverbs]] | [[Proverbs 6| Proverbs 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY son, attend unto my wisdom, and bow thine ear to my understanding:
 ###### 2

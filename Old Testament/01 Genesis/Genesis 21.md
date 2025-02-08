@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 20| <-- Genesis 20]] | [[Genesis]] | [[Genesis 22| Genesis 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken.
 ###### 2

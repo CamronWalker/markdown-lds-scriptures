@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 34
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 33| <-- Deuteronomy 33]] | [[Deuteronomy]] | [[Joshua 1| Joshua 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/34?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho.  And the LORD shewed him all the land of Gilead, unto Dan,
 ###### 2

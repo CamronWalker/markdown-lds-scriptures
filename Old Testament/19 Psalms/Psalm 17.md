@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 16| <-- Psalm 16]] | [[Psalms]] | [[Psalm 18| Psalm 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.
 ###### 2

@@ -1,19 +1,16 @@
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[New File Na| <-- New File Na]] | [[Genesis]] | [[Genesis 2| Genesis 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the beginning God created the heaven and the earth.
 ###### 2

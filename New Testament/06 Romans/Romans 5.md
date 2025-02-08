@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 4| <-- Romans 4]] | [[Romans]] | [[Romans 6| Romans 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEREFORE being justified by faith, we have peace with God through our Lord Jesus Christ:
 ###### 2

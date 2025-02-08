@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 13| <-- 2 Kings 13]] | [[2 Kings]] | [[2 Kings 15| 2 Kings 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.
 ###### 2

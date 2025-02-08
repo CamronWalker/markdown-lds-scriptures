@@ -4,21 +4,19 @@ Chapter ###### 13
 The First Epistle of Paul the Apostle to the Thessalonians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Thessalonians 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Thessalonians 3| <-- 1 Thessalonians 3]] | [[1 Thessalonians]] | [[1 Thessalonians 5| 1 Thessalonians 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FURTHERMORE then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.
 ###### 2

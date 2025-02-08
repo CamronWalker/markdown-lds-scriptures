@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 114
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 113| <-- Psalm 113]] | [[Psalms]] | [[Psalm 115| Psalm 115 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/114?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN Israel went out of Egypt, the house of Jacob from a people of strange language;
 ###### 2

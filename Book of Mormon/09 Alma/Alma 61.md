@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 61
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 60| <-- Alma 60]] | [[Alma]] | [[Alma 62| Alma 62 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/61?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, now it came to pass that soon after Moroni had sent his epistle unto the chief governor, he received an epistle from Pahoran, the chief governor. And these are the words which he received:
 ###### 2

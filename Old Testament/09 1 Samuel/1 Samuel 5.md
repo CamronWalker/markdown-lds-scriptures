@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 4| <-- 1 Samuel 4]] | [[1 Samuel]] | [[1 Samuel 6| 1 Samuel 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the Philistines took the ark of God, and brought it from Eben-ezer unto Ashdod.
 ###### 2

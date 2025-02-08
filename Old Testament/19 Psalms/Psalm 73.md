@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 73
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 72| <-- Psalm 72]] | [[Psalms]] | [[Psalm 74| Psalm 74 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/73?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 TRULY God is good to Israel, even to such as are of a clean heart.
 ###### 2

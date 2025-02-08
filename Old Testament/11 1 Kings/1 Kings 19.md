@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 18| <-- 1 Kings 18]] | [[1 Kings]] | [[1 Kings 20| 1 Kings 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.
 ###### 2

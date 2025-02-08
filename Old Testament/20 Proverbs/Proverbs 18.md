@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 17| <-- Proverbs 17]] | [[Proverbs]] | [[Proverbs 19| Proverbs 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THROUGH desire a man, having separated himself, seeketh and intermeddleth with all wisdom.
 ###### 2

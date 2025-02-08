@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joshua 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joshua 3| <-- Joshua 3]] | [[Joshua]] | [[Joshua 5| Joshua 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying,
 ###### 2

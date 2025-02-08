@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 8| <-- Job 8]] | [[Job]] | [[Job 10| Job 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Job answered and said,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 26
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 25| <-- Matthew 25]] | [[Matthew]] | [[Matthew 27| Matthew 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/26?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when Jesus had finished all these sayings, he said unto his disciples,
 ###### 2

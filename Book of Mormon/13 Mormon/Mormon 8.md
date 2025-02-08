@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mormon 8
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mormon 7| <-- Mormon 7]] | [[Mormon]] | [[Mormon 9| Mormon 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold I, Moroni, do finish the record of my father, Mormon. Behold, I have but few things to write, which things I have been commanded by my father.
 ###### 2

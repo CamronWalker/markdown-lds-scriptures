@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 11
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 10| <-- 1 Nephi 10]] | [[1 Nephi]] | [[1 Nephi 12| 1 Nephi 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 For it came to pass after I had desired to know the things that my father had seen, and believing that the Lord was able to make them known unto me, as I sat pondering in mine heart I was caught away in the Spirit of the Lord, yea, into an exceedingly high mountain, which I never had before seen, and upon which I never had before set my foot.
 ###### 2

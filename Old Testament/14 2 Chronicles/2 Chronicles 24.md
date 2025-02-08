@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 24
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 23| <-- 2 Chronicles 23]] | [[2 Chronicles]] | [[2 Chronicles 25| 2 Chronicles 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/24?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 JOASH was seven years old when he began to reign, and he reigned forty years in Jerusalem.  His mother's name also was Zibiah of Beer-sheba.
 ###### 2

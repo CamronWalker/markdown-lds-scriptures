@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 31| <-- Proverbs 31]] | [[Ecclesiastes]] | [[Ecclesiastes 2| Ecclesiastes 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE words of the Preacher, the son of David, king in Jerusalem.
 ###### 2

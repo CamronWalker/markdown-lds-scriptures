@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 3| <-- Job 3]] | [[Job]] | [[Job 5| Job 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Eliphaz the Temanite answered and said,
 ###### 2

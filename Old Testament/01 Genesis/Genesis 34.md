@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 34
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 33| <-- Genesis 33]] | [[Genesis]] | [[Genesis 35| Genesis 35 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/34?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
 ###### 2

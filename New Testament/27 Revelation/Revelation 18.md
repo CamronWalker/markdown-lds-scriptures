@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 18
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 17| <-- Revelation 17]] | [[Revelation]] | [[Revelation 19| Revelation 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/18?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 9| <-- Job 9]] | [[Job]] | [[Job 11| Job 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
 ###### 2

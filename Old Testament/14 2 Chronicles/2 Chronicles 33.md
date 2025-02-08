@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 33
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 32| <-- 2 Chronicles 32]] | [[2 Chronicles]] | [[2 Chronicles 34| 2 Chronicles 34 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/33?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MANASSEH began to reign, and he reigned fifty and five years in Jerusalem:
 ###### 2

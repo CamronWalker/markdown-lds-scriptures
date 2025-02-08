@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Leviticus 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 40| <-- Exodus 40]] | [[Leviticus]] | [[Leviticus 2| Leviticus 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,
 ###### 2

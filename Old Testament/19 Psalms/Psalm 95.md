@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 95
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 94| <-- Psalm 94]] | [[Psalms]] | [[Psalm 96| Psalm 96 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/95?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O COME, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.
 ###### 2

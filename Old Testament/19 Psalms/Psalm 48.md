@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 48
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 47| <-- Psalm 47]] | [[Psalms]] | [[Psalm 49| Psalm 49 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/48?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GREAT is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness.
 ###### 2

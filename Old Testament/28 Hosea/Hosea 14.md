@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Hosea 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Hosea 13| <-- Hosea 13]] | [[Hosea]] | [[Joel 1| Joel 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O ISRAEL, return unto the LORD thy God; for thou hast fallen by thine iniquity.
 ###### 2

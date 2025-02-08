@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 65
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 64| <-- Psalm 64]] | [[Psalms]] | [[Psalm 66| Psalm 66 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/65?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
 ###### 2

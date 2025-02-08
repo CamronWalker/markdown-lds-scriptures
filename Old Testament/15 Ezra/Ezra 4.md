@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezra 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezra 3| <-- Ezra 3]] | [[Ezra]] | [[Ezra 5| Ezra 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;
 ###### 2

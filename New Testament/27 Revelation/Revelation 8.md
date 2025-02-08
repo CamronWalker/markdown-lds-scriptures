@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 8
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 7| <-- Revelation 7]] | [[Revelation]] | [[Revelation 9| Revelation 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
 ###### 2

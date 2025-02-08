@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 144
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 143| <-- Psalm 143]] | [[Psalms]] | [[Psalm 145| Psalm 145 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/144?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BLESSED be the LORD my strength, which teacheth my hands to war, and my fingers to fight:
 ###### 2

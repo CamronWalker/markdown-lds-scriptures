@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 11
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 10| <-- Mosiah 10]] | [[Mosiah]] | [[Mosiah 12| Mosiah 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that Zeniff conferred the kingdom upon Noah, one of his sons; therefore Noah began to reign in his stead; and he did not walk in the ways of his father.
 ###### 2

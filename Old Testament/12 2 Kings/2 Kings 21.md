@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 20| <-- 2 Kings 20]] | [[2 Kings]] | [[2 Kings 22| 2 Kings 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MANASSEH was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem.  And his mother's name was Hephzi-bah.
 ###### 2

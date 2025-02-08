@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 20| <-- 1 Chronicles 20]] | [[1 Chronicles]] | [[1 Chronicles 22| 1 Chronicles 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Satan stood up against Israel, and provoked David to number Israel.
 ###### 2

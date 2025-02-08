@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 15| <-- Deuteronomy 15]] | [[Deuteronomy]] | [[Deuteronomy 17| Deuteronomy 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 OBSERVE the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.
 ###### 2

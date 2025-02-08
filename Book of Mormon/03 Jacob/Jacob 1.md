@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Jacob 1
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 33| <-- 2 Nephi 33]] | [[Jacob]] | [[Jacob 2| Jacob 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 For behold, it came to pass that fifty and five years had passed away from the time that Lehi left Jerusalem; wherefore, Nephi gave me, Jacob, a commandment concerning the small plates, upon which these things are engraven.
 ###### 2

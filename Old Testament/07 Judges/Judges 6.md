@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 5| <-- Judges 5]] | [[Judges]] | [[Judges 7| Judges 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 33
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 32| <-- Deuteronomy 32]] | [[Deuteronomy]] | [[Deuteronomy 34| Deuteronomy 34 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/33?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.
 ###### 2

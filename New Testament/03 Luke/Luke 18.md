@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 18
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 17| <-- Luke 17]] | [[Luke]] | [[Luke 19| Luke 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/18?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND he spake a parable unto them to this end, that men ought always to pray, and not to faint;
 ###### 2

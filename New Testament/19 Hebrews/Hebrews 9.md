@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Hebrews 9
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Hebrews 8| <-- Hebrews 8]] | [[Hebrews]] | [[Hebrews 10| Hebrews 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN verily the first covenant had also ordinances of divine service, and a worldly sanctuary.
 ###### 2

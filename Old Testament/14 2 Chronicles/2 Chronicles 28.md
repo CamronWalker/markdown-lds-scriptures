@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 28
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 27| <-- 2 Chronicles 27]] | [[2 Chronicles]] | [[2 Chronicles 29| 2 Chronicles 29 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/28?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AHAZ was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:
 ###### 2

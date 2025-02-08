@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/DandC
-People: 
-%%
-# D&C 3
+---
+publish: true
+tags:
+  - Scripture/DandC
+cssclasses:
+  - scriptures
+---
 [[D&C 2| <-- D&C 2]] | [[D&C]] | [[D&C 4| D&C 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE works, and the designs, and the purposes of God cannot be frustrated, neither can they come to naught.
 ###### 2

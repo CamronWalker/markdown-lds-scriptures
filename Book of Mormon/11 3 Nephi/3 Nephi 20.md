@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 20
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 19| <-- 3 Nephi 19]] | [[3 Nephi]] | [[3 Nephi 21| 3 Nephi 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/20?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that he commanded the multitude that they should cease to pray, and also his disciples. And he commanded them that they should not cease to pray in their hearts.
 ###### 2

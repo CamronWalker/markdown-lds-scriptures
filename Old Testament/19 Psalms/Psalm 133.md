@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 133
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 132| <-- Psalm 132]] | [[Psalms]] | [[Psalm 134| Psalm 134 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/133?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BEHOLD, how good and how pleasant it is for brethren to dwell together in unity!
 ###### 2

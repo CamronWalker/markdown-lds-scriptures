@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 51
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 50| <-- Alma 50]] | [[Alma]] | [[Alma 52| Alma 52 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/51?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass in the commencement of the twenty and fifth year of the reign of the judges over the people of Nephi, they having established peace between the people of Lehi and the people of Morianton concerning their lands, and having commenced the twenty and fifth year in peace;
 ###### 2

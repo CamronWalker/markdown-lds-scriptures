@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 14| <-- Jeremiah 14]] | [[Jeremiah]] | [[Jeremiah 16| Jeremiah 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN said the LORD unto me, Though Moses and Samuel stood before me, yet my mind could not be toward this people: cast them out of my sight, and let them go forth.
 ###### 2

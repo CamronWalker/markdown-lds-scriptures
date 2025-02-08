@@ -4,21 +4,19 @@ Chapter ###### 12
 The Epistle of Paul the Apostle to the Colossians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Collosians 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Collosians 1| <-- Collosians 1]] | [[Collosians]] | [[Collosians 3| Collosians 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FOR I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;
 ###### 2

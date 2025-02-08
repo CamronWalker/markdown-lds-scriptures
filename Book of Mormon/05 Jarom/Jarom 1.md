@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Jarom 1
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Enos 1| <-- Enos 1]] | [[Jarom]] | [[Omni 1| Omni 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jarom/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now behold, I, Jarom, write a few words according to the commandment of my father, Enos, that our genealogy may be kept.
 ###### 2

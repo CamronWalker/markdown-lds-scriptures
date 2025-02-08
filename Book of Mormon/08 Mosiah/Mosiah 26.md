@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 26
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 25| <-- Mosiah 25]] | [[Mosiah]] | [[Mosiah 27| Mosiah 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/26?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now it came to pass that there were many of the rising generation that could not understand the words of king Benjamin, being little children at the time he spake unto his people; and they did not believe the tradition of their fathers.
 ###### 2

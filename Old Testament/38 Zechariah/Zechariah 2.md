@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zechariah 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 1| <-- Zechariah 1]] | [[Zechariah]] | [[Zechariah 3| Zechariah 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I LIFTED up mine eyes again, and looked, and behold a man with a measuring line in his hand.
 ###### 2

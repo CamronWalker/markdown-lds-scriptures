@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 12| <-- Jeremiah 12]] | [[Jeremiah]] | [[Jeremiah 14| Jeremiah 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THUS saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water.
 ###### 2

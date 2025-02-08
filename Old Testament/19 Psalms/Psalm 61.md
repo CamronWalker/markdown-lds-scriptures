@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 61
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 60| <-- Psalm 60]] | [[Psalms]] | [[Psalm 62| Psalm 62 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/61?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR my cry, O God; attend unto my prayer.
 ###### 2

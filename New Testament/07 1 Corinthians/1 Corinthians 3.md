@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 2| <-- 1 Corinthians 2]] | [[1 Corinthians]] | [[1 Corinthians 4| 1 Corinthians 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
 ###### 2

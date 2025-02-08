@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 13
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 12| <-- 1 Nephi 12]] | [[1 Nephi]] | [[1 Nephi 14| 1 Nephi 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that the angel spake unto me, saying: Look! And I looked and beheld many nations and kingdoms.
 ###### 2

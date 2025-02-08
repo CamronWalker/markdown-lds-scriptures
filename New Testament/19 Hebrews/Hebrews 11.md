@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Hebrews 11
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Hebrews 10| <-- Hebrews 10]] | [[Hebrews]] | [[Hebrews 12| Hebrews 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW faith is the substance of things hoped for, the evidence of things not seen.
 ###### 2

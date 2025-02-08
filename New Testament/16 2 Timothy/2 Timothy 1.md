@@ -1,20 +1,18 @@
 Chapter ###### 16
 The Second Epistle of Paul the Apostle to Timothy
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Timothy 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Timothy 6| <-- 1 Timothy 6]] | [[2 Timothy]] | [[2 Timothy 2| 2 Timothy 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 ###### 2

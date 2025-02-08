@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 1| <-- Luke 1]] | [[Luke]] | [[Luke 3| Luke 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.
 ###### 2

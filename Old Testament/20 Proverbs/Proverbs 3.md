@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 2| <-- Proverbs 2]] | [[Proverbs]] | [[Proverbs 4| Proverbs 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY son, forget not my law; but let thine heart keep my commandments:
 ###### 2

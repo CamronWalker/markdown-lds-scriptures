@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 87
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 86| <-- Psalm 86]] | [[Psalms]] | [[Psalm 88| Psalm 88 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/87?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HIS foundation is in the holy mountains.
 ###### 2

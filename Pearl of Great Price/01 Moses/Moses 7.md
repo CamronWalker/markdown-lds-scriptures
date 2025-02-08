@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Moses 7
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Moses 6| <-- Moses 6]] | [[Moses]] | [[Moses 8| Moses 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass that Enoch continued his speech, saying: Behold, our father Adam taught these things, and many have believed and become the sons of God, and many have believed not, and have perished in their sins, and are looking forth with fear, in torment, for the fiery indignation of the wrath of God to be poured out upon them.
 ###### 2

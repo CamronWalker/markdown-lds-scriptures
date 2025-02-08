@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 24
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 23| <-- Genesis 23]] | [[Genesis]] | [[Genesis 25| Genesis 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things.
 ###### 2

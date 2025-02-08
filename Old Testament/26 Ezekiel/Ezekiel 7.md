@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 6| <-- Ezekiel 6]] | [[Ezekiel]] | [[Ezekiel 8| Ezekiel 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER the word of the LORD came unto me, saying,
 ###### 2

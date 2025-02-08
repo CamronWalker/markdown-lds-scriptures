@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 3| <-- 2 Corinthians 3]] | [[2 Corinthians]] | [[2 Corinthians 5| 2 Corinthians 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEREFORE seeing we have this ministry, as we have received mercy, we faint not;
 ###### 2

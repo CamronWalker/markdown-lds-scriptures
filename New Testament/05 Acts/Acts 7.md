@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 7
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 6| <-- Acts 6]] | [[Acts]] | [[Acts 8| Acts 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN said the high priest, Are these things so?
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 28
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 27| <-- 1 Samuel 27]] | [[1 Samuel]] | [[1 Samuel 29| 1 Samuel 29 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/28?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel.  And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.
 ###### 2

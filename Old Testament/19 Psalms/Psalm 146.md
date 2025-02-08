@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 146
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 145| <-- Psalm 145]] | [[Psalms]] | [[Psalm 147| Psalm 147 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/146?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  Praise the LORD, O my soul.
 ###### 2

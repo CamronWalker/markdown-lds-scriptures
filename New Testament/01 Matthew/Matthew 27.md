@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 27
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 26| <-- Matthew 26]] | [[Matthew]] | [[Matthew 28| Matthew 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/27?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:
 ###### 2

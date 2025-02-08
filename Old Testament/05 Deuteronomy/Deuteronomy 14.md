@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 13| <-- Deuteronomy 13]] | [[Deuteronomy]] | [[Deuteronomy 15| Deuteronomy 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 YE are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.
 ###### 2

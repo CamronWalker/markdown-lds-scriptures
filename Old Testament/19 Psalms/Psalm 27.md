@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 27
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 26| <-- Psalm 26]] | [[Psalms]] | [[Psalm 28| Psalm 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/27?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?
 ###### 2

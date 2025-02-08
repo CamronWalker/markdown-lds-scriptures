@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 76
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 75| <-- Psalm 75]] | [[Psalms]] | [[Psalm 77| Psalm 77 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/76?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN Judah is God known: his name is great in Israel.
 ###### 2

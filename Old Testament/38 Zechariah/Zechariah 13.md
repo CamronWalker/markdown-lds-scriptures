@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Zechariah 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 12| <-- Zechariah 12]] | [[Zechariah]] | [[Zechariah 14| Zechariah 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
 ###### 2

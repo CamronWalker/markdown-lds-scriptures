@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 19| <-- 2 Chronicles 19]] | [[2 Chronicles]] | [[2 Chronicles 21| 2 Chronicles 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IT came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle.
 ###### 2

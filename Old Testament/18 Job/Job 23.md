@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 22| <-- Job 22]] | [[Job]] | [[Job 24| Job 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Job answered and said,
 ###### 2

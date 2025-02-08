@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 17
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 16| <-- Acts 16]] | [[Acts]] | [[Acts 18| Acts 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/17?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:
 ###### 2

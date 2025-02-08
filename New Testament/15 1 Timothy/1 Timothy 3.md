@@ -4,21 +4,19 @@ Chapter ###### 15
 The First Epistle of Paul the Apostle to Timothy
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Timothy 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Timothy 2| <-- 1 Timothy 2]] | [[1 Timothy]] | [[1 Timothy 4| 1 Timothy 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THIS is a true saying, If a man desire the office of a bishop, he desireth a good work.
 ###### 2

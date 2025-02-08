@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Malachi 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Malachi 1| <-- Malachi 1]] | [[Malachi]] | [[Malachi 3| Malachi 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND now, O ye priests, this commandment is for you.
 ###### 2

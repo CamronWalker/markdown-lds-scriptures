@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 18
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 17| <-- Matthew 17]] | [[Matthew]] | [[Matthew 19| Matthew 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/18?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AT the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
 ###### 2

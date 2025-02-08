@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Enos 1
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Jacob 7| <-- Jacob 7]] | [[Enos]] | [[Jarom 1| Jarom 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/enos/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, it came to pass that I, Enos, knowing my father that he was a just man--for he taught me in his language, and also in the nurture and admonition of the Lord--and blessed be the name of my God for it--
 ###### 2

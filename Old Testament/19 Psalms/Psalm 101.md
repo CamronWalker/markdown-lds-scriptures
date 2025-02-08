@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 101
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 100| <-- Psalm 100]] | [[Psalms]] | [[Psalm 102| Psalm 102 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/101?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL sing of mercy and judgment: unto thee, O LORD, will I sing.
 ###### 2

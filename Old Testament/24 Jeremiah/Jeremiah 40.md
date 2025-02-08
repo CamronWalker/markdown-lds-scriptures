@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 40
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 39| <-- Jeremiah 39]] | [[Jeremiah]] | [[Jeremiah 41| Jeremiah 41 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/40?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word that came to Jeremiah from the LORD, after that Nebuzar-adan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon.
 ###### 2

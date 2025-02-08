@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Moses 1
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 | [[Moses]] | [[Moses 2| Moses 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE words of God, which he spake unto Moses at a time when Moses was caught up into an exceedingly high mountain,
 ###### 2

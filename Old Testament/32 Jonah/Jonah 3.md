@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jonah 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jonah 2| <-- Jonah 2]] | [[Jonah]] | [[Jonah 4| Jonah 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the word of the LORD came unto Jonah the second time, saying,
 ###### 2

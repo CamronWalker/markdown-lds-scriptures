@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 5| <-- Mark 5]] | [[Mark]] | [[Mark 7| Mark 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND he went out from thence, and came into his own country; and his disciples follow him.
 ###### 2

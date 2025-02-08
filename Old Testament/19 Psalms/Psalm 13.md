@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 12| <-- Psalm 12]] | [[Psalms]] | [[Psalm 14| Psalm 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HOW long wilt thou forget me, O LORD?  for ever?  how long wilt thou hide thy face from me?
 ###### 2

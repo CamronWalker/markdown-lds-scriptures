@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 11| <-- Proverbs 11]] | [[Proverbs]] | [[Proverbs 13| Proverbs 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHOSO loveth instruction loveth knowledge: but he that hateth reproof is brutish.
 ###### 2

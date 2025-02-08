@@ -4,21 +4,19 @@ Chapter ###### 11
 The Epistle of Paul the Apostle to the Philippians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Philippians 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Philippians 1| <-- Philippians 1]] | [[Philippians]] | [[Philippians 3| Philippians 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 IF there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joshua 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joshua 5| <-- Joshua 5]] | [[Joshua]] | [[Joshua 7| Joshua 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
 ###### 2

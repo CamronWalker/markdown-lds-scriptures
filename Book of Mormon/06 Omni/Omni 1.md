@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Omni 1
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Jarom 1| <-- Jarom 1]] | [[Omni]] | [[Words of Mormon 1| Words of Mormon 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, it came to pass that I, Omni, being commanded by my father, Jarom, that I should write somewhat upon these plates, to preserve our genealogy--
 ###### 2

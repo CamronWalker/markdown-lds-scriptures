@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 24| <-- 2 Chronicles 24]] | [[2 Chronicles]] | [[2 Chronicles 26| 2 Chronicles 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AMAZIAH was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem.  And his mother's name was Jehoaddan of Jerusalem.
 ###### 2

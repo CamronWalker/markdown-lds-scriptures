@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 7
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 6| <-- Luke 6]] | [[Luke]] | [[Luke 8| Luke 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW when he had ended all his sayings in the audience of the people, he entered into Capernaum.
 ###### 2

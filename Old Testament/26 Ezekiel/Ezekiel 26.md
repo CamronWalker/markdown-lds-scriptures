@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 25| <-- Ezekiel 25]] | [[Ezekiel]] | [[Ezekiel 27| Ezekiel 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying,
 ###### 2

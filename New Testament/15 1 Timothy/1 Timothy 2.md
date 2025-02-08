@@ -4,21 +4,19 @@ Chapter ###### 15
 The First Epistle of Paul the Apostle to Timothy
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Timothy 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Timothy 1| <-- 1 Timothy 1]] | [[1 Timothy]] | [[1 Timothy 3| 1 Timothy 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 I EXHORT therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
 ###### 2

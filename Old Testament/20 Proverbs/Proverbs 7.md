@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 6| <-- Proverbs 6]] | [[Proverbs]] | [[Proverbs 8| Proverbs 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY son, keep my words, and lay up my commandments with thee.
 ###### 2

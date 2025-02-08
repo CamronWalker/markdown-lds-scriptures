@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Joshua 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Joshua 1| <-- Joshua 1]] | [[Joshua]] | [[Joshua 3| Joshua 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho.  And they went, and came into an harlot's house, named Rahab, and lodged there.
 ###### 2

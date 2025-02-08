@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 98
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 97| <-- Psalm 97]] | [[Psalms]] | [[Psalm 99| Psalm 99 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/98?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O SING unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.
 ###### 2

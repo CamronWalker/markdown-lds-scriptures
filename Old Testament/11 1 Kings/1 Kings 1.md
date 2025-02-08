@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 24| <-- 2 Samuel 24]] | [[1 Kings]] | [[1 Kings 2| 1 Kings 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW king David was old and stricken in years; and they covered him with clothes, but he gat no heat.
 ###### 2

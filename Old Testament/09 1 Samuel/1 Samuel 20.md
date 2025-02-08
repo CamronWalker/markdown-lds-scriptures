@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 19| <-- 1 Samuel 19]] | [[1 Samuel]] | [[1 Samuel 21| 1 Samuel 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND David fled from Naioth in Ramah, and came and said before Jonathan, What have I done?  what is mine iniquity?  and what is my sin before thy father, that he seeketh my life?
 ###### 2

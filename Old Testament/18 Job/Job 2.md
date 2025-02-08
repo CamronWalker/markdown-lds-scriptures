@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 1| <-- Job 1]] | [[Job]] | [[Job 3| Job 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AGAIN there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.
 ###### 2

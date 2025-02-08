@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 15| <-- Isaiah 15]] | [[Isaiah]] | [[Isaiah 17| Isaiah 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SEND ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.
 ###### 2

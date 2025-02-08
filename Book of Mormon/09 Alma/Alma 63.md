@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 63
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 62| <-- Alma 62]] | [[Alma]] | [[Helaman 1| Helaman 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/63?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass in the commencement of the thirty and sixth year of the reign of the judges over the people of Nephi, that Shiblon took possession of those sacred things which had been delivered unto Helaman by Alma.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 4| <-- Judges 4]] | [[Judges]] | [[Judges 6| Judges 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN sang Deborah and Barak the son of Abinoam on that day, saying,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 15
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 14| <-- Matthew 14]] | [[Matthew]] | [[Matthew 16| Matthew 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/15?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN came to Jesus scribes and Pharisees, which were of Jerusalem, saying,
 ###### 2

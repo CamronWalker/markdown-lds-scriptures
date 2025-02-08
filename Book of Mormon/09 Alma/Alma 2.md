@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 2
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 1| <-- Alma 1]] | [[Alma]] | [[Alma 3| Alma 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass in the commencement of the fifth year of their reign there began to be a contention among the people; for a certain man, being called Amlici, he being a very cunning man, yea, a wise man as to the wisdom of the world, he being after the order of the man that slew Gideon by the sword, who was executed according to the law--
 ###### 2

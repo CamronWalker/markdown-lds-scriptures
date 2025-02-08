@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 22
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 21| <-- Job 21]] | [[Job]] | [[Job 23| Job 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/22?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Eliphaz the Temanite answered and said,
 ###### 2

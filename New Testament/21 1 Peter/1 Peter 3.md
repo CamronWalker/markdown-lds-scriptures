@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Peter 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Peter 2| <-- 1 Peter 2]] | [[1 Peter]] | [[1 Peter 4| 1 Peter 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 LIKEWISE, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
 ###### 2

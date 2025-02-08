@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 7| <-- Psalm 7]] | [[Psalms]] | [[Psalm 9| Psalm 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O LORD our Lord, how excellent is thy name in all the earth!  who hast set thy glory above the heavens.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Peter 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Peter 1| <-- 2 Peter 1]] | [[2 Peter]] | [[2 Peter 3| 2 Peter 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BUT there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 ###### 2

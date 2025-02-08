@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 79
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 78| <-- Psalm 78]] | [[Psalms]] | [[Psalm 80| Psalm 80 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/79?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O GOD, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 92
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 91| <-- Psalm 91]] | [[Psalms]] | [[Psalm 93| Psalm 93 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/92?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IT is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High:
 ###### 2

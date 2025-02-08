@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 20
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 19| <-- 2 Nephi 19]] | [[2 Nephi]] | [[2 Nephi 21| 2 Nephi 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/20?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Wo unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;
 ###### 2

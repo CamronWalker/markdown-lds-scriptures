@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 16| <-- Isaiah 16]] | [[Isaiah]] | [[Isaiah 18| Isaiah 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE burden of Damascus.  Behold, Damascus is taken away from being a city, and it shall be a ruinous heap.
 ###### 2

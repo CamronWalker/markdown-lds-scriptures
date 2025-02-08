@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 13
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 12| <-- 2 Corinthians 12]] | [[2 Corinthians]] | [[Galatians 1| Galatians 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THIS is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.
 ###### 2

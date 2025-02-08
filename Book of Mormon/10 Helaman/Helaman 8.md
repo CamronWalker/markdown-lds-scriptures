@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 8
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 7| <-- Helaman 7]] | [[Helaman]] | [[Helaman 9| Helaman 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that when Nephi had said these words, behold, there were men who were judges, who also belonged to the secret band of Gadianton, and they were angry, and they cried out against him, saying unto the people: Why do ye not seize upon this man and bring him forth, that he may be condemned according to the crime which he has done?
 ###### 2

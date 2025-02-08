@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 30
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 29| <-- Job 29]] | [[Job]] | [[Job 31| Job 31 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/30?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BUT now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
 ###### 2

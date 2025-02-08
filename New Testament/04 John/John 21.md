@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 21
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 20| <-- John 20]] | [[John]] | [[Acts 1| Acts 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/21?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AFTER these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.
 ###### 2

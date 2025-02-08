@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 33
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 32| <-- Psalm 32]] | [[Psalms]] | [[Psalm 34| Psalm 34 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/33?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 REJOICE in the LORD, O ye righteous: for praise is comely for the upright.
 ###### 2

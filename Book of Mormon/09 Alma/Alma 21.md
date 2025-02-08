@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 21
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 20| <-- Alma 20]] | [[Alma]] | [[Alma 22| Alma 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/21?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now when Ammon and his brethren separated themselves in the borders of the land of the Lamanites, behold Aaron took his journey towards the land which was called by the Lamanites, Jerusalem, calling it after the land of their fathers' nativity; and it was away joining the borders of Mormon.
 ###### 2

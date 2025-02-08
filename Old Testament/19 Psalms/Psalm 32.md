@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 32
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 31| <-- Psalm 31]] | [[Psalms]] | [[Psalm 33| Psalm 33 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/32?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BLESSED is he whose transgression is forgiven, whose sin is covered.
 ###### 2

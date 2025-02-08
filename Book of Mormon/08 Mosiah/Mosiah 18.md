@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mosiah 18
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mosiah 17| <-- Mosiah 17]] | [[Mosiah]] | [[Mosiah 19| Mosiah 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, it came to pass that Alma, who had fled from the servants of king Noah, repented of his sins and iniquities, and went about privately among the people, and began to teach the words of Abinadi--
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 14| <-- Ezekiel 14]] | [[Ezekiel]] | [[Ezekiel 16| Ezekiel 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the word of the LORD came unto me, saying,
 ###### 2

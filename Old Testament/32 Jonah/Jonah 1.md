@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jonah 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Obadiah 1| <-- Obadiah 1]] | [[Jonah]] | [[Jonah 2| Jonah 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW the word of the LORD came unto Jonah the son of Amittai, saying,
 ###### 2

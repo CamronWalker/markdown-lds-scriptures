@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 4| <-- Matthew 4]] | [[Matthew]] | [[Matthew 6| Matthew 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
 ###### 2

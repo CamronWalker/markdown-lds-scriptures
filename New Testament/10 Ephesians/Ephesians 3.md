@@ -4,21 +4,19 @@ Chapter ###### 10
 The Epistle of Paul the Apostle to the Ephesians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Ephesians 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Ephesians 2| <-- Ephesians 2]] | [[Ephesians]] | [[Ephesians 4| Ephesians 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FOR this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
 ###### 2

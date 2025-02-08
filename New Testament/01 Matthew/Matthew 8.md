@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 8
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 7| <-- Matthew 7]] | [[Matthew]] | [[Matthew 9| Matthew 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/8?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WHEN he was come down from the mountain, great multitudes followed him.
 ###### 2

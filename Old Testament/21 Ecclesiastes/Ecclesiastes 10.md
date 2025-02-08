@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 9| <-- Ecclesiastes 9]] | [[Ecclesiastes]] | [[Ecclesiastes 11| Ecclesiastes 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 DEAD flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.
 ###### 2

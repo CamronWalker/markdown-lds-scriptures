@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 96
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 95| <-- Psalm 95]] | [[Psalms]] | [[Psalm 97| Psalm 97 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/96?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O SING unto the LORD a new song: sing unto the LORD, all the earth.
 ###### 2

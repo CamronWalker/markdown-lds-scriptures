@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 2| <-- Romans 2]] | [[Romans]] | [[Romans 4| Romans 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WHAT advantage then hath the Jew? or what profit is there of circumcision?
 ###### 2

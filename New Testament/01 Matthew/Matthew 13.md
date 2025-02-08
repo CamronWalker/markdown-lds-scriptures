@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 13
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 12| <-- Matthew 12]] | [[Matthew]] | [[Matthew 14| Matthew 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE same day went Jesus out of the house, and sat by the sea side.
 ###### 2

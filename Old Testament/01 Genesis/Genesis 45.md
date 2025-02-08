@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 45
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 44| <-- Genesis 44]] | [[Genesis]] | [[Genesis 46| Genesis 46 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/45?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me.  And there stood no man with him, while Joseph made himself known unto his brethren.
 ###### 2

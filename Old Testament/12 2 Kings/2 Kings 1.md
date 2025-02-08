@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 22| <-- 1 Kings 22]] | [[2 Kings]] | [[2 Kings 2| 2 Kings 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN Moab rebelled against Israel after the death of Ahab.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Numbers 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Numbers 13| <-- Numbers 13]] | [[Numbers]] | [[Numbers 15| Numbers 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND all the congregation lifted up their voice, and cried; and the people wept that night.
 ###### 2

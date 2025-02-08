@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 14
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 13| <-- 1 Chronicles 13]] | [[1 Chronicles]] | [[1 Chronicles 15| 1 Chronicles 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/14?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.
 ###### 2

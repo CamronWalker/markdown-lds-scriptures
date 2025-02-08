@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 40
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 39| <-- Alma 39]] | [[Alma]] | [[Alma 41| Alma 41 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now my son, here is somewhat more I would say unto thee; for I perceive that thy mind is worried concerning the resurrection of the dead.
 ###### 2

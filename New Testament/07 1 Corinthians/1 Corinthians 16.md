@@ -4,21 +4,19 @@ Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 16
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Corinthians 15| <-- 1 Corinthians 15]] | [[1 Corinthians]] | [[2 Corinthians 1| 2 Corinthians 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/16?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 NOW concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.
 ###### 2

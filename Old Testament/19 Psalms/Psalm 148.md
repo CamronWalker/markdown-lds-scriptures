@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 148
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 147| <-- Psalm 147]] | [[Psalms]] | [[Psalm 149| Psalm 149 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/148?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  Praise ye the LORD from the heavens: praise him in the heights.
 ###### 2

@@ -1,20 +1,18 @@
 Chapter ###### 9
 The Epistle of Paul the Apostle to the Galatians
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Galatians 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 13| <-- 2 Corinthians 13]] | [[Galatians]] | [[Galatians 2| Galatians 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 ###### 2

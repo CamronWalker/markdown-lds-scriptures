@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 10| <-- 1 Chronicles 10]] | [[1 Chronicles]] | [[1 Chronicles 12| 1 Chronicles 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 56
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 55| <-- Psalm 55]] | [[Psalms]] | [[Psalm 57| Psalm 57 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/56?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BE merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 75
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 74| <-- Psalm 74]] | [[Psalms]] | [[Psalm 76| Psalm 76 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/75?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 UNTO thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.
 ###### 2

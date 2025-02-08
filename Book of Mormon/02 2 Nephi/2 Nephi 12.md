@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 12
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 11| <-- 2 Nephi 11]] | [[2 Nephi]] | [[2 Nephi 13| 2 Nephi 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 The word that Isaiah, the son of Amoz, saw concerning Judah and Jerusalem:
 ###### 2

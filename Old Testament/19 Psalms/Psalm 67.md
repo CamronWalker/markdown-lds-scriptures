@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 67
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 66| <-- Psalm 66]] | [[Psalms]] | [[Psalm 68| Psalm 68 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/67?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GOD be merciful unto us, and bless us; and cause his face to shine upon us; Selah.
 ###### 2

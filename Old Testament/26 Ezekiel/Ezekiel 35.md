@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 35
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 34| <-- Ezekiel 34]] | [[Ezekiel]] | [[Ezekiel 36| Ezekiel 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/35?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MOREOVER the word of the LORD came unto me, saying,
 ###### 2

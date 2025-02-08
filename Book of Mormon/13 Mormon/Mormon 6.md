@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mormon 6
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Mormon 5| <-- Mormon 5]] | [[Mormon]] | [[Mormon 7| Mormon 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I finish my record concerning the destruction of my people, the Nephites. And it came to pass that we did march forth before the Lamanites.
 ###### 2

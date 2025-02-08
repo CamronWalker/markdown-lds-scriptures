@@ -4,21 +4,19 @@ Chapter ###### 11
 The Epistle of Paul the Apostle to the Philippians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Philippians 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Philippians 2| <-- Philippians 2]] | [[Philippians]] | [[Philippians 4| Philippians 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FINALLY, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.
 ###### 2

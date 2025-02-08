@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 137
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 136| <-- Psalm 136]] | [[Psalms]] | [[Psalm 138| Psalm 138 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/137?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BY the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
 ###### 2

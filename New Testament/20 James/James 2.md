@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# James 2
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[James 1| <-- James 1]] | [[James]] | [[James 3| James 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/2?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 MY brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.
 ###### 2

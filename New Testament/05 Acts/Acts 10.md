@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 10
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 9| <-- Acts 9]] | [[Acts]] | [[Acts 11| Acts 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THERE was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,
 ###### 2

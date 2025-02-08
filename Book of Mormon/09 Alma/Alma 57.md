@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 57
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 56| <-- Alma 56]] | [[Alma]] | [[Alma 58| Alma 58 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/57?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that I received an epistle from Ammoron, the king, stating that if I would deliver up those prisoners of war whom we had taken that he would deliver up the city of Antiparah unto us.
 ###### 2

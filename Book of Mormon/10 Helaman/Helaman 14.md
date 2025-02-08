@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 14
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 13| <-- Helaman 13]] | [[Helaman]] | [[Helaman 15| Helaman 15 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/14?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that Samuel, the Lamanite, did prophesy a great many more things which cannot be written.
 ###### 2

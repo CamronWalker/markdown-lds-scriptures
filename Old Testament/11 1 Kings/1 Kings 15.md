@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 14| <-- 1 Kings 14]] | [[1 Kings]] | [[1 Kings 16| 1 Kings 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.
 ###### 2

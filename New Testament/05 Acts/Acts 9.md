@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 9
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 8| <-- Acts 8]] | [[Acts]] | [[Acts 10| Acts 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,
 ###### 2

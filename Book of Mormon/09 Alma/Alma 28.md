@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 28
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 27| <-- Alma 27]] | [[Alma]] | [[Alma 29| Alma 29 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/28?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now it came to pass that after the people of Ammon were established in the land of Jershon, and a church also established in the land of Jershon, and the armies of the Nephites were set round about the land of Jershon, yea, in all the borders round about the land of Zarahemla; behold the armies of the Lamanites had followed their brethren into the wilderness.
 ###### 2

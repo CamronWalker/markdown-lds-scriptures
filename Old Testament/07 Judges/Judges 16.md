@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 15| <-- Judges 15]] | [[Judges]] | [[Judges 17| Judges 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN went Samson to Gaza, and saw there an harlot, and went in unto her.
 ###### 2

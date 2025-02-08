@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 13
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 12| <-- Mark 12]] | [[Mark]] | [[Mark 14| Mark 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!
 ###### 2

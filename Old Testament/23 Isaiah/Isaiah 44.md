@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 44
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 43| <-- Isaiah 43]] | [[Isaiah]] | [[Isaiah 45| Isaiah 45 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/44?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 YET now hear, O Jacob my servant; and Israel, whom I have chosen:
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 17
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 16| <-- Job 16]] | [[Job]] | [[Job 18| Job 18 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/17?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MY breath is corrupt, my days are extinct, the graves are ready for me.
 ###### 2

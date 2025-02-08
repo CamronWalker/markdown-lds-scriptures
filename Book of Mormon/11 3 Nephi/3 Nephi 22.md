@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 22
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 21| <-- 3 Nephi 21]] | [[3 Nephi]] | [[3 Nephi 23| 3 Nephi 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/22?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And then shall that which is written come to pass: Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child; for more are the children of the desolate than the children of the married wife, saith the Lord.
 ###### 2

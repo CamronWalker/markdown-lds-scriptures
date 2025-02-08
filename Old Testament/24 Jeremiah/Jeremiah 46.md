@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 46
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 45| <-- Jeremiah 45]] | [[Jeremiah]] | [[Jeremiah 47| Jeremiah 47 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/46?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word of the LORD which came to Jeremiah the prophet against the Gentiles;
 ###### 2

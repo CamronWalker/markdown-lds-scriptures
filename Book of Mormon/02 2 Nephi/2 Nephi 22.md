@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 22
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 21| <-- 2 Nephi 21]] | [[2 Nephi]] | [[2 Nephi 23| 2 Nephi 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/22?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedest me.
 ###### 2

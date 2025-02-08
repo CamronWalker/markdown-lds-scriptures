@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 38
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 37| <-- Ezekiel 37]] | [[Ezekiel]] | [[Ezekiel 39| Ezekiel 39 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/38?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the word of the LORD came unto me, saying,
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 3 Nephi 7
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[3 Nephi 6| <-- 3 Nephi 6]] | [[3 Nephi]] | [[3 Nephi 8| 3 Nephi 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now behold, I will show unto you that they did not establish a king over the land; but in this same year, yea, the thirtieth year, they did destroy upon the judgment-seat, yea, did murder the chief judge of the land.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 104
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 103| <-- Psalm 103]] | [[Psalms]] | [[Psalm 105| Psalm 105 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/104?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BLESS the LORD, O my soul.  O LORD my God, thou art very great; thou art clothed with honour and majesty.
 ###### 2

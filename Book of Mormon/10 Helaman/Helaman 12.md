@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 12
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 11| <-- Helaman 11]] | [[Helaman]] | [[Helaman 13| Helaman 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/12?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And thus we can behold how false, and also the unsteadiness of the hearts of the children of men; yea, we can see that the Lord in his great infinite goodness doth bless and prosper those who put their trust in him.
 ###### 2

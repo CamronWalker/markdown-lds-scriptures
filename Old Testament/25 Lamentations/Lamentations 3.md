@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Lamentations 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Lamentations 2| <-- Lamentations 2]] | [[Lamentations]] | [[Lamentations 4| Lamentations 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I AM the man that hath seen affliction by the rod of his wrath.
 ###### 2

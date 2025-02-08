@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 10| <-- Deuteronomy 10]] | [[Deuteronomy]] | [[Deuteronomy 12| Deuteronomy 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEREFORE thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.
 ###### 2

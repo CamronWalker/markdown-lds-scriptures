@@ -4,21 +4,19 @@ Chapter ###### 9
 The Epistle of Paul the Apostle to the Galatians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Galatians 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Galatians 5| <-- Galatians 5]] | [[Galatians]] | [[Ephesians 1| Ephesians 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BRETHREN, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 21
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 20| <-- 2 Nephi 20]] | [[2 Nephi]] | [[2 Nephi 22| 2 Nephi 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/21?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And there shall come forth a rod out of the stem of Jesse, and a branch shall grow out of his roots.
 ###### 2

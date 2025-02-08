@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 10| <-- 2 Samuel 10]] | [[2 Samuel]] | [[2 Samuel 12| 2 Samuel 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah.  But David tarried still at Jerusalem.
 ###### 2

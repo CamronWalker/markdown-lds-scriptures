@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Esther 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Esther 6| <-- Esther 6]] | [[Esther]] | [[Esther 8| Esther 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 SO the king and Haman came to banquet with Esther the queen.
 ###### 2

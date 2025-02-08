@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Chronicles 27
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Chronicles 26| <-- 2 Chronicles 26]] | [[2 Chronicles]] | [[2 Chronicles 28| 2 Chronicles 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/27?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 JOTHAM was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem.  His mother's name also was Jerushah, the daughter of Zadok.
 ###### 2

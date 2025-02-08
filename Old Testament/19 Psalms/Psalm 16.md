@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 16
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 15| <-- Psalm 15]] | [[Psalms]] | [[Psalm 17| Psalm 17 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/16?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRESERVE me, O God: for in thee do I put my trust.
 ###### 2

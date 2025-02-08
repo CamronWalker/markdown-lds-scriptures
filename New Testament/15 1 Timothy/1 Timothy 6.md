@@ -4,21 +4,19 @@ Chapter ###### 15
 The First Epistle of Paul the Apostle to Timothy
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Timothy 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[1 Timothy 5| <-- 1 Timothy 5]] | [[1 Timothy]] | [[2 Timothy 1| 2 Timothy 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-tim/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 LET as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.
 ###### 2

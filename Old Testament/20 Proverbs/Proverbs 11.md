@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 10| <-- Proverbs 10]] | [[Proverbs]] | [[Proverbs 12| Proverbs 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 A FALSE balance is abomination to the LORD: but a just weight is his delight.
 ###### 2

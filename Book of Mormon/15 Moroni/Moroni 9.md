@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Moroni 9
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Moroni 8| <-- Moroni 8]] | [[Moroni]] | [[Moroni 10| Moroni 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 My beloved son, I write unto you again that ye may know that I am yet alive; but I write somewhat of that which is grievous.
 ###### 2

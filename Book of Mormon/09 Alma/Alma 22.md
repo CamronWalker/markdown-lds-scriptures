@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 22
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 21| <-- Alma 21]] | [[Alma]] | [[Alma 23| Alma 23 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/22?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Now, as Ammon was thus teaching the people of Lamoni continually, we will return to the account of Aaron and his brethren; for after he departed from the land of Middoni he was led by the Spirit to the land of Nephi, even to the house of the king which was over all the land save it were the land of Ishmael; and he was the father of Lamoni.
 ###### 2

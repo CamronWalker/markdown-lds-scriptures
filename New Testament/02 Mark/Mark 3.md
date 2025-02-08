@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 2| <-- Mark 2]] | [[Mark]] | [[Mark 4| Mark 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND he entered again into the synagogue; and there was a man there which had a withered hand.
 ###### 2

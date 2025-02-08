@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 10
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 9| <-- Proverbs 9]] | [[Proverbs]] | [[Proverbs 11| Proverbs 11 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/10?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE proverbs of Solomon.  A wise son maketh a glad father: but a foolish son is the heaviness of his mother.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 3 John 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 John 1| <-- 2 John 1]] | [[3 John]] | [[Jude 1| Jude 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/3-jn/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE elder unto the wellbeloved Gaius, whom I love in the truth.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 31
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 30| <-- Ezekiel 30]] | [[Ezekiel]] | [[Ezekiel 32| Ezekiel 32 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/31?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass in the eleventh year, in the third month, in the first day of the month, that the word of the LORD came unto me, saying,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Nehemiah 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Nehemiah 6| <-- Nehemiah 6]] | [[Nehemiah]] | [[Nehemiah 8| Nehemiah 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 25
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 24| <-- Job 24]] | [[Job]] | [[Job 26| Job 26 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/25?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN answered Bildad the Shuhite, and said,
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 27
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 26| <-- Proverbs 26]] | [[Proverbs]] | [[Proverbs 28| Proverbs 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/27?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BOAST not thyself of to morrow; for thou knowest not what a day may bring forth.
 ###### 2

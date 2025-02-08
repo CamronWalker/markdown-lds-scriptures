@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 100
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 99| <-- Psalm 99]] | [[Psalms]] | [[Psalm 101| Psalm 101 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/100?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 MAKE a joyful noise unto the LORD, all ye lands.
 ###### 2

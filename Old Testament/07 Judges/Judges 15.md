@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 14| <-- Judges 14]] | [[Judges]] | [[Judges 16| Judges 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BUT it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber.  But her father would not suffer him to go in.
 ###### 2

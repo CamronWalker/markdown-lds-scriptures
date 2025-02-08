@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 3| <-- Acts 3]] | [[Acts]] | [[Acts 5| Acts 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,
 ###### 2

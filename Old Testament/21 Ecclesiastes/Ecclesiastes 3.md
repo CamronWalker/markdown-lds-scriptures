@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 3
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 2| <-- Ecclesiastes 2]] | [[Ecclesiastes]] | [[Ecclesiastes 4| Ecclesiastes 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/3?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 TO every thing there is a season, and a time to every purpose under the heaven:
 ###### 2

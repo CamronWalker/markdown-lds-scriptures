@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 149
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 148| <-- Psalm 148]] | [[Psalms]] | [[Psalm 150| Psalm 150 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/149?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD.  Sing unto the LORD a new song, and his praise in the congregation of saints.
 ###### 2

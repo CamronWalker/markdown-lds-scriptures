@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 64
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 63| <-- Psalm 63]] | [[Psalms]] | [[Psalm 65| Psalm 65 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/64?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR my voice, O God, in my prayer: preserve my life from fear of the enemy.
 ###### 2

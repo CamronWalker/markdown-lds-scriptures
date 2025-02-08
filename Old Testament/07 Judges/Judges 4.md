@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Judges 4
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Judges 3| <-- Judges 3]] | [[Judges]] | [[Judges 5| Judges 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/4?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the children of Israel again did evil in the sight of the LORD, when Ehud was dead.
 ###### 2

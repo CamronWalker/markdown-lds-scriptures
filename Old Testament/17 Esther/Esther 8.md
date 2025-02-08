@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Esther 8
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Esther 7| <-- Esther 7]] | [[Esther]] | [[Esther 9| Esther 9 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/8?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 ON that day did the king Ahasuerus give the house of Haman the Jews' enemy unto Esther the queen.  And Mordecai came before the king; for Esther had told what he was unto her.
 ###### 2

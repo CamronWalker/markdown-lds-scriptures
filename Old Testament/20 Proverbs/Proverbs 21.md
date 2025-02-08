@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Proverbs 20| <-- Proverbs 20]] | [[Proverbs]] | [[Proverbs 22| Proverbs 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.
 ###### 2

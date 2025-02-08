@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 10| <-- 2 Kings 10]] | [[2 Kings]] | [[2 Kings 12| 2 Kings 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.
 ###### 2

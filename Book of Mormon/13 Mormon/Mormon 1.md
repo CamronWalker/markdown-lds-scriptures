@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Mormon 1
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[4 Nephi 1| <-- 4 Nephi 1]] | [[Mormon]] | [[Mormon 2| Mormon 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I, Mormon, make a record of the things which I have both seen and heard, and call it the Book of Mormon.
 ###### 2

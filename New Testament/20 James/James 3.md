@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# James 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[James 2| <-- James 2]] | [[James]] | [[James 4| James 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 MY brethren, be not many masters, knowing that we shall receive the greater condemnation.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 44
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 43| <-- Psalm 43]] | [[Psalms]] | [[Psalm 45| Psalm 45 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/44?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WE have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 28| <-- 1 Chronicles 28]] | [[1 Chronicles]] | [[2 Chronicles 1| 2 Chronicles 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 FURTHERMORE David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God.
 ###### 2

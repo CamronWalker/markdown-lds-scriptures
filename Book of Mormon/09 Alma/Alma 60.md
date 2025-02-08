@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 60
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 59| <-- Alma 59]] | [[Alma]] | [[Alma 61| Alma 61 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/60?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that he wrote again to the governor of the land, who was Pahoran, and these are the words which he wrote, saying: Behold, I direct mine epistle to Pahoran, in the city of Zarahemla, who is the chief judge and the governor over the land, and also to all those who have been chosen by this people to govern and manage the affairs of this war.
 ###### 2

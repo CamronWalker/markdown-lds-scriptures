@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/PoGP
-People: 
-%%
-# Moses 6
+---
+publish: true
+tags:
+  - Scripture/PoGP
+cssclasses:
+  - scriptures
+---
 [[Moses 5| <-- Moses 5]] | [[Moses]] | [[Moses 7| Moses 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND Adam hearkened unto the voice of God, and called upon his sons to repent.
 ###### 2

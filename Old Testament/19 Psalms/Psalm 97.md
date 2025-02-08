@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 97
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 96| <-- Psalm 96]] | [[Psalms]] | [[Psalm 98| Psalm 98 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/97?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.
 ###### 2

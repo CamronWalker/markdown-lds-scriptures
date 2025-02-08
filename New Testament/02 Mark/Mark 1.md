@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 28| <-- Matthew 28]] | [[Mark]] | [[Mark 2| Mark 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE beginning of the gospel of Jesus Christ, the Son of God;
 ###### 2

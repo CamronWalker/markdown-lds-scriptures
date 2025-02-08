@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 29
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 28| <-- Psalm 28]] | [[Psalms]] | [[Psalm 30| Psalm 30 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/29?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GIVE unto the LORD, O ye mighty, give unto the LORD glory and strength.
 ###### 2

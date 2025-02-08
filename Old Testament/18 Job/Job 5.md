@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 4| <-- Job 4]] | [[Job]] | [[Job 6| Job 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 CALL now, if there be any that will answer thee; and to which of the saints wilt thou turn?
 ###### 2

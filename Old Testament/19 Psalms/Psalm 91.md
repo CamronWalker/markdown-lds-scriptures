@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 91
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 90| <-- Psalm 90]] | [[Psalms]] | [[Psalm 92| Psalm 92 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/91?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HE that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
 ###### 2

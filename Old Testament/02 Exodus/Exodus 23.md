@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 22| <-- Exodus 22]] | [[Exodus]] | [[Exodus 24| Exodus 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THOU shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.
 ###### 2

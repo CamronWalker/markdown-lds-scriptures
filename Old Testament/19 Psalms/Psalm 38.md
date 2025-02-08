@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 38
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 37| <-- Psalm 37]] | [[Psalms]] | [[Psalm 39| Psalm 39 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/38?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
 ###### 2

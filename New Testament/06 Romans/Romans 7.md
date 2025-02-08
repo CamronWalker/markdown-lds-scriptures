@@ -4,21 +4,19 @@ Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 7
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 6| <-- Romans 6]] | [[Romans]] | [[Romans 8| Romans 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/7?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 KNOW ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
 ###### 2

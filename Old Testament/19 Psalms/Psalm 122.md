@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 122
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 121| <-- Psalm 121]] | [[Psalms]] | [[Psalm 123| Psalm 123 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/122?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WAS glad when they said unto me, Let us go into the house of the LORD.
 ###### 2

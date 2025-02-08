@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 15
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 14| <-- 2 Samuel 14]] | [[2 Samuel]] | [[2 Samuel 16| 2 Samuel 16 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/15?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.
 ###### 2

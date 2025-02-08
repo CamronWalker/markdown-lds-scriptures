@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Daniel 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Daniel 5| <-- Daniel 5]] | [[Daniel]] | [[Daniel 7| Daniel 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IT pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;
 ###### 2

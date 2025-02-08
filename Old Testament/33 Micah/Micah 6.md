@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Micah 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Micah 5| <-- Micah 5]] | [[Micah]] | [[Micah 7| Micah 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.
 ###### 2

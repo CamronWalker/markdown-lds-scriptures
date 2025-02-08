@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ezekiel 33
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ezekiel 32| <-- Ezekiel 32]] | [[Ezekiel]] | [[Ezekiel 34| Ezekiel 34 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/33?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AGAIN the word of the LORD came unto me, saying,
 ###### 2

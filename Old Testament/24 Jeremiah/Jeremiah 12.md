@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 12
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 11| <-- Jeremiah 11]] | [[Jeremiah]] | [[Jeremiah 13| Jeremiah 13 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/12?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 RIGHTEOUS art thou, O LORD, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper?  wherefore are all they happy that deal very treacherously?
 ###### 2

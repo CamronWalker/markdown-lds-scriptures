@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 11
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 10| <-- Genesis 10]] | [[Genesis]] | [[Genesis 12| Genesis 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/11?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the whole earth was of one language, and of one speech.
 ###### 2

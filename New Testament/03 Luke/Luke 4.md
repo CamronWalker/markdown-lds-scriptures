@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 4
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 3| <-- Luke 3]] | [[Luke]] | [[Luke 5| Luke 5 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/4?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,
 ###### 2

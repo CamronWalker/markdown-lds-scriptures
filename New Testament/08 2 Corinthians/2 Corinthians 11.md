@@ -4,21 +4,19 @@ Chapter ###### 8
 The Second Epistle of Paul the Apostle to the Corinthians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 2 Corinthians 11
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[2 Corinthians 10| <-- 2 Corinthians 10]] | [[2 Corinthians]] | [[2 Corinthians 12| 2 Corinthians 12 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/11?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 WOULD to God ye could bear with me a little in my folly: and indeed bear with me.
 ###### 2

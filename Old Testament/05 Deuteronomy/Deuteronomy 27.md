@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 27
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 26| <-- Deuteronomy 26]] | [[Deuteronomy]] | [[Deuteronomy 28| Deuteronomy 28 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/27?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.
 ###### 2

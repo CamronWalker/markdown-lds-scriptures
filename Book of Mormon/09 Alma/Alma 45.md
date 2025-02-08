@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 45
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 44| <-- Alma 44]] | [[Alma]] | [[Alma 46| Alma 46 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/45?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, now it came to pass that the people of Nephi were exceedingly rejoiced, because the Lord had again delivered them out of the hands of their enemies; therefore they gave thanks unto the Lord their God; yea, and they did fast much and pray much, and they did worship God with exceedingly great joy.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 90
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 89| <-- Psalm 89]] | [[Psalms]] | [[Psalm 91| Psalm 91 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/90?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 LORD, thou hast been our dwelling place in all generations.
 ###### 2

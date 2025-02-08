@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 31
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 30| <-- Jeremiah 30]] | [[Jeremiah]] | [[Jeremiah 32| Jeremiah 32 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/31?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AT the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.
 ###### 2

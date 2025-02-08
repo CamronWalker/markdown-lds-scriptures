@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 143
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 142| <-- Psalm 142]] | [[Psalms]] | [[Psalm 144| Psalm 144 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/143?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 HEAR my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.
 ###### 2

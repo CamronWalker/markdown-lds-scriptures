@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 32
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 31| <-- 2 Nephi 31]] | [[2 Nephi]] | [[2 Nephi 33| 2 Nephi 33 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/32?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now, behold, my beloved brethren, I suppose that ye ponder somewhat in your hearts concerning that which ye should do after ye have entered in by the way. But, behold, why do ye ponder these things in your hearts?
 ###### 2

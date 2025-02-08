@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Luke 9
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Luke 8| <-- Luke 8]] | [[Luke]] | [[Luke 10| Luke 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THEN he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
 ###### 2

@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 24
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 23| <-- Matthew 23]] | [[Matthew]] | [[Matthew 25| Matthew 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Kings 23
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Kings 22| <-- 2 Kings 22]] | [[2 Kings]] | [[2 Kings 24| 2 Kings 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 17| <-- Jeremiah 17]] | [[Jeremiah]] | [[Jeremiah 19| Jeremiah 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE word which came to Jeremiah from the LORD, saying,
 ###### 2

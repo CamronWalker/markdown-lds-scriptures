@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Matthew 20
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Matthew 19| <-- Matthew 19]] | [[Matthew]] | [[Matthew 21| Matthew 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/20?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 FOR the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard.
 ###### 2

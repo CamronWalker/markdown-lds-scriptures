@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Chronicles 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Chronicles 25| <-- 1 Chronicles 25]] | [[1 Chronicles]] | [[1 Chronicles 27| 1 Chronicles 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 CONCERNING the divisions of the porters: Of the Korhites was Meshelemiah the son of Kore, of the sons of Asaph.
 ###### 2

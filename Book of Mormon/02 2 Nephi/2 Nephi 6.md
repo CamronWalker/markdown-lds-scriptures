@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 2 Nephi 6
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[2 Nephi 5| <-- 2 Nephi 5]] | [[2 Nephi]] | [[2 Nephi 7| 2 Nephi 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 The words of Jacob, the brother of Nephi, which he spake unto the people of Nephi:
 ###### 2

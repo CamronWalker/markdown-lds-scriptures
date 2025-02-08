@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Job 20
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Job 19| <-- Job 19]] | [[Job]] | [[Job 21| Job 21 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/20?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEN answered Zophar the Naamathite, and said,
 ###### 2

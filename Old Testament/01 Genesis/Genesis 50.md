@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 50
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 49| <-- Genesis 49]] | [[Genesis]] | [[Exodus 1| Exodus 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/50?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Joseph fell upon his father's face, and wept upon him, and kissed him.
 ###### 2

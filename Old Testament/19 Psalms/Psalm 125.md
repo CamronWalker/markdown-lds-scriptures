@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 125
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 124| <-- Psalm 124]] | [[Psalms]] | [[Psalm 126| Psalm 126 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/125?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THEY that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.
 ###### 2

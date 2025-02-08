@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Samuel 19
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Samuel 18| <-- 1 Samuel 18]] | [[1 Samuel]] | [[1 Samuel 20| 1 Samuel 20 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/19?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Saul spake to Jonathan his son, and to all his servants, that they should kill David.
 ###### 2

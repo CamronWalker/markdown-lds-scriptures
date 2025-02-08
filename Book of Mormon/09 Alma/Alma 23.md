@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 23
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 22| <-- Alma 22]] | [[Alma]] | [[Alma 24| Alma 24 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/23?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, now it came to pass that the king of the Lamanites sent a proclamation among all his people, that they should not lay their hands on Ammon, or Aaron, or Omner, or Himni, nor either of their brethren who should go forth preaching the word of God, in whatsoever place they should be, in any part of their land.
 ###### 2

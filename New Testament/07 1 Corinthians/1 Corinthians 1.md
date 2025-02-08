@@ -1,20 +1,18 @@
 Chapter ###### 7
 The First Epistle of Paul the Apostle to the Corinthians
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# 1 Corinthians 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Romans 16| <-- Romans 16]] | [[1 Corinthians]] | [[1 Corinthians 2| 1 Corinthians 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
 ###### 2

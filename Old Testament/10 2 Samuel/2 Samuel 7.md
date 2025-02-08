@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 2 Samuel 7
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[2 Samuel 6| <-- 2 Samuel 6]] | [[2 Samuel]] | [[2 Samuel 8| 2 Samuel 8 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/7?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies;
 ###### 2

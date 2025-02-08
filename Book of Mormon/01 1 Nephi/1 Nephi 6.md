@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# 1 Nephi 6
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[1 Nephi 5| <-- 1 Nephi 5]] | [[1 Nephi]] | [[1 Nephi 7| 1 Nephi 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And now I, Nephi, do not give the genealogy of my fathers in this part of my record; neither at any time shall I give it after upon these plates which I am writing; for it is given in the record which has been kept by my father; wherefore, I do not write it in this work.
 ###### 2

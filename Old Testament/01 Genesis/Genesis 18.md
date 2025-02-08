@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 18
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 17| <-- Genesis 17]] | [[Genesis]] | [[Genesis 19| Genesis 19 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;
 ###### 2

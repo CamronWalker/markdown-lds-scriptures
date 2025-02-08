@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 121
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 120| <-- Psalm 120]] | [[Psalms]] | [[Psalm 122| Psalm 122 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/121?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 I WILL lift up mine eyes unto the hills, from whence cometh my help.
 ###### 2

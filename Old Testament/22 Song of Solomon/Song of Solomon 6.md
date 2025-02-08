@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Song of Solomon 6
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Song of Solomon 5| <-- Song of Solomon 5]] | [[Song of Solomon]] | [[Song of Solomon 7| Song of Solomon 7 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/6?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHITHER is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.
 ###### 2

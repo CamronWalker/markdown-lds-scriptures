@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 63
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 62| <-- Isaiah 62]] | [[Isaiah]] | [[Isaiah 64| Isaiah 64 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/63?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHO is this that cometh from Edom, with dyed garments from Bozrah?  this that is glorious in his apparel, travelling in the greatness of his strength?  I that speak in righteousness, mighty to save.
 ###### 2

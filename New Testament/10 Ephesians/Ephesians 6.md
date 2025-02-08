@@ -4,21 +4,19 @@ Chapter ###### 10
 The Epistle of Paul the Apostle to the Ephesians
 Next
 
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Ephesians 6
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Ephesians 5| <-- Ephesians 5]] | [[Ephesians]] | [[Philippians 1| Philippians 1 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/6?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 CHILDREN, obey your parents in the Lord: for this is right.
 ###### 2

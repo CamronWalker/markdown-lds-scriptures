@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Revelation 22
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Revelation 21| <-- Revelation 21]] | [[Revelation]] | 
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/22?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 31
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 30| <-- Psalm 30]] | [[Psalms]] | [[Psalm 32| Psalm 32 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/31?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.
 ###### 2

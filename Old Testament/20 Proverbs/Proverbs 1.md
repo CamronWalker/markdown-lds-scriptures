@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Proverbs 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 150| <-- Psalm 150]] | [[Proverbs]] | [[Proverbs 2| Proverbs 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE proverbs of Solomon the son of David, king of Israel;
 ###### 2

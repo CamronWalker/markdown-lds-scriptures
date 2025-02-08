@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 4| <-- Acts 4]] | [[Acts]] | [[Acts 6| Acts 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 BUT a certain man named Ananias, with Sapphira his wife, sold a possession,
 ###### 2

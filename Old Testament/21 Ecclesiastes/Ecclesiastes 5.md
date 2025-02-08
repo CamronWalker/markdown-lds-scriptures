@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Ecclesiastes 5
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Ecclesiastes 4| <-- Ecclesiastes 4]] | [[Ecclesiastes]] | [[Ecclesiastes 6| Ecclesiastes 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/5?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 KEEP thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
 ###### 2

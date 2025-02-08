@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 103
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 102| <-- Psalm 102]] | [[Psalms]] | [[Psalm 104| Psalm 104 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/103?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 BLESS the LORD, O my soul: and all that is within me, bless his holy name.
 ###### 2

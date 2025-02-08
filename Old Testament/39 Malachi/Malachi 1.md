@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Malachi 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Zechariah 14| <-- Zechariah 14]] | [[Malachi]] | [[Malachi 2| Malachi 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE burden of the word of the LORD to Israel by Malachi.
 ###### 2

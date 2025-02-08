@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Isaiah 53
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 52| <-- Isaiah 52]] | [[Isaiah]] | [[Isaiah 54| Isaiah 54 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WHO hath believed our report?  and to whom is the arm of the LORD revealed?
 ###### 2

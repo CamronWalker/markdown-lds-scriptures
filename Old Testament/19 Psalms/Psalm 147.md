@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 147
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 146| <-- Psalm 146]] | [[Psalms]] | [[Psalm 148| Psalm 148 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/147?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PRAISE ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.
 ###### 2

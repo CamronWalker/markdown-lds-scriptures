@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Mark 5
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Mark 4| <-- Mark 4]] | [[Mark]] | [[Mark 6| Mark 6 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/5?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 AND they came over unto the other side of the sea, into the country of the Gadarenes.
 ###### 2

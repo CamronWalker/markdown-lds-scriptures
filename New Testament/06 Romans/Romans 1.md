@@ -1,20 +1,18 @@
 Chapter ###### 6
 The Epistle of Paul the Apostle to the Romans
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Romans 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[Acts 28| <-- Acts 28]] | [[Romans]] | [[Romans 2| Romans 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 PAUL, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,
 ###### 2

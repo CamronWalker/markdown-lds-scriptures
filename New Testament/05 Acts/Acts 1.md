@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# Acts 1
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 21| <-- John 21]] | [[Acts]] | [[Acts 2| Acts 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/1?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THE former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
 ###### 2

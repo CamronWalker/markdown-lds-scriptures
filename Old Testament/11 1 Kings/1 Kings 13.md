@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# 1 Kings 13
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[1 Kings 12| <-- 1 Kings 12]] | [[1 Kings]] | [[1 Kings 14| 1 Kings 14 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/13?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND, behold, there came a man of God out of Judah by the word of the LORD unto Beth-el: and Jeroboam stood by the altar to burn incense.
 ###### 2

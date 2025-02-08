@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Deuteronomy 32
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Deuteronomy 31| <-- Deuteronomy 31]] | [[Deuteronomy]] | [[Deuteronomy 33| Deuteronomy 33 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/32?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 GIVE ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.
 ###### 2

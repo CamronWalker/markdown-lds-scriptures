@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/NewT
-People: 
-%%
-# John 3
+---
+publish: true
+tags:
+  - Scripture/NewT
+cssclasses:
+  - scriptures
+---
 [[John 2| <-- John 2]] | [[John]] | [[John 4| John 4 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 THERE was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 ###### 2

@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 50| <-- Genesis 50]] | [[Exodus]] | [[Exodus 2| Exodus 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 ###### 2

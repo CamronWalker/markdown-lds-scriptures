@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 9
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Jeremiah 8| <-- Jeremiah 8]] | [[Jeremiah]] | [[Jeremiah 10| Jeremiah 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/9?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 OH that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!
 ###### 2

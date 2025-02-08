@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Exodus 21
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Exodus 20| <-- Exodus 20]] | [[Exodus]] | [[Exodus 22| Exodus 22 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/21?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 NOW these are the judgments which thou shalt set before them.
 ###### 2

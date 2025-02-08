@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 49
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 48| <-- Genesis 48]] | [[Genesis]] | [[Genesis 50| Genesis 50 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/49?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 ###### 2

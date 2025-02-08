@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Helaman 9
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Helaman 8| <-- Helaman 8]] | [[Helaman]] | [[Helaman 10| Helaman 10 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/9?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 Behold, now it came to pass that when Nephi had spoken these words, certain men who were among them ran to the judgment-seat; yea, even there were five who went, and they said among themselves, as they went:
 ###### 2

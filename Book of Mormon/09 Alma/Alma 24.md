@@ -1,18 +1,16 @@
-%% Metadata
-Tags: #Scripture/BoM
-People: 
-%%
-# Alma 24
+---
+publish: true
+tags:
+  - Scripture/BoM
+cssclasses:
+  - scriptures
+---
 [[Alma 23| <-- Alma 23]] | [[Alma]] | [[Alma 25| Alma 25 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/24?lang=eng)
 
----
-__Summary__
-
-
-
----
+>[!example] Chapter Summary
+>
 ###### 1
 And it came to pass that the Amalekites and the Amulonites and the Lamanites who were in the land of Amulon, and also in the land of Helam, and who were in the land of Jerusalem, and in fine, in all the land round about, who had not been converted and had not taken upon them the name of Anti-Nephi-Lehi, were stirred up by the Amalekites and by the Amulonites to anger against their brethren.
 ###### 2

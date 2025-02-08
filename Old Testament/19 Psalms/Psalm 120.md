@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 120
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 119| <-- Psalm 119]] | [[Psalms]] | [[Psalm 121| Psalm 121 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/120?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 IN my distress I cried unto the LORD, and he heard me.
 ###### 2

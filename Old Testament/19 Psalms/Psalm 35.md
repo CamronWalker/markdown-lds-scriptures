@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 35
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 34| <-- Psalm 34]] | [[Psalms]] | [[Psalm 36| Psalm 36 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/35?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 PLEAD my cause, O LORD, with them that strive with me: fight against them that fight against me.
 ###### 2

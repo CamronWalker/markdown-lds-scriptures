@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Genesis 26
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Genesis 25| <-- Genesis 25]] | [[Genesis]] | [[Genesis 27| Genesis 27 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/26?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 AND there was a famine in the land, beside the first famine that was in the days of Abraham.  And Isaac went unto Abimelech king of the Philistines unto Gerar.
 ###### 2

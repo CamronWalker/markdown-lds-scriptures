@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Micah 2
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Micah 1| <-- Micah 1]] | [[Micah]] | [[Micah 3| Micah 3 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/2?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 WOE to them that devise iniquity, and work evil upon their beds!  when the morning is light, they practise it, because it is in the power of their hand.
 ###### 2

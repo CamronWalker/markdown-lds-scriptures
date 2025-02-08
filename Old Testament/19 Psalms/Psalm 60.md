@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Psalms 60
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Psalm 59| <-- Psalm 59]] | [[Psalms]] | [[Psalm 61| Psalm 61 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/60?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 O GOD, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
 ###### 2

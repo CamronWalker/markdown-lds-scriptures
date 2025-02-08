@@ -1,21 +1,18 @@
 
 
-%% Metadata
-Tags: #Scripture/OldT
-People: 
-%%
-# Jeremiah 1
+---
+publish: true
+tags:
+  - Scripture/OldT
+cssclasses:
+  - scriptures
+---
 [[Isaiah 66| <-- Isaiah 66]] | [[Jeremiah]] | [[Jeremiah 2| Jeremiah 2 -->]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng)
 
----
-__Summary__
-
-
-
----
-
+>[!example] Chapter Summary
+>
 ###### 1
 THE words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:
 ###### 2
