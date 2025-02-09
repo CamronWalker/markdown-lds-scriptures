@@ -1,30 +1,41 @@
-/* Bible Verses in preview */
-.markdown-preview-view h6,
-.cc-pretty-preview .markdown-preview-view h6
+
+.callout[data-callout="scripture"] {
+  --callout-color: 158, 158, 158;
+  --callout-icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"> <path style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;-inkscape-font-specification:Bitstream Vera Sans" d="M 16 5 C 13.250484 5 11 7.2504839 11 10 L 11 22 A 1.0001 1.0001 0 0 0 11.6875 22.9375 L 11.875 23 L 11.6875 23.0625 A 1.0001 1.0001 0 0 0 11 24 L 11 36 L 6 36 A 1.0001 1.0001 0 0 0 5.90625 36 A 1.0001 1.0001 0 0 0 5 37 L 5 40 C 5 42.749516 7.2504839 45 10 45 L 32 45 C 34.749516 45 37 42.749516 37 40 L 37 35 A 1.0001 1.0001 0 0 0 36.25 34.03125 L 36.125 34 L 36.25 33.96875 A 1.0001 1.0001 0 0 0 37 33 L 37 23 A 1.0001 1.0001 0 0 0 36.71875 22.28125 L 36.4375 22 L 36.71875 21.71875 A 1.0001 1.0001 0 0 0 37 21 L 37 20 A 1.0001 1.0001 0 0 0 36.3125 19.0625 L 36.125 19 L 36.3125 18.9375 A 1.0001 1.0001 0 0 0 37 18 L 37 14 L 44 14 A 1.0001 1.0001 0 0 0 45 13 L 45 10 C 45 7.3039764 42.832584 5.0852138 40.15625 5 C 40.14563 4.9996619 40.135636 5.0002709 40.125 5 A 1.0001 1.0001 0 0 0 40 5 L 39.8125 5 L 16 5 z M 16 7 L 36.125 7 C 35.468136 7.8464167 35 8.8522948 35 10 L 35 12.8125 A 1.0001 1.0001 0 0 0 35 13.21875 L 35 17.28125 L 32.6875 18.0625 A 1.0001 1.0001 0 0 0 32.6875 19.9375 L 34.875 20.6875 L 34.28125 21.28125 A 1.0001 1.0001 0 0 0 34.28125 22.71875 L 35 23.4375 L 35 32.21875 L 31.75 33.03125 A 1.0001 1.0001 0 0 0 31.75 34.96875 L 35 35.78125 L 35 40 C 35 41.668484 33.668484 43 32 43 C 30.331516 43 29 41.668484 29 40 L 29 37 A 1.0001 1.0001 0 0 0 28 36 L 13 36 L 13 24.71875 L 15.3125 23.9375 A 1.0001 1.0001 0 0 0 15.3125 22.0625 L 13 21.28125 L 13 10 C 13 8.3315161 14.331516 7 16 7 z M 39.84375 7 A 1.001098 1.001098 0 0 0 40 7 A 1.0001 1.0001 0 0 0 40.09375 7 C 41.716394 7.0505975 43 8.3640858 43 10 L 43 12 L 37 12 L 37 10 C 37 8.385799 38.25178 7.0828025 39.84375 7 z M 18.71875 16 A 1.0043849 1.0043849 0 0 0 19 18 L 29 18 A 1.0001 1.0001 0 1 0 29 16 L 19 16 A 1.0001 1.0001 0 0 0 18.90625 16 A 1.001098 1.001098 0 0 0 18.8125 16 A 1.0043849 1.0043849 0 0 0 18.71875 16 z M 18.71875 20 A 1.0043849 1.0043849 0 0 0 19 22 L 25 22 A 1.0001 1.0001 0 1 0 25 20 L 19 20 A 1.0001 1.0001 0 0 0 18.90625 20 A 1.001098 1.001098 0 0 0 18.8125 20 A 1.0043849 1.0043849 0 0 0 18.71875 20 z M 18.71875 24 A 1.0043849 1.0043849 0 0 0 19 26 L 29 26 A 1.0001 1.0001 0 1 0 29 24 L 19 24 A 1.0001 1.0001 0 0 0 18.90625 24 A 1.001098 1.001098 0 0 0 18.8125 24 A 1.0043849 1.0043849 0 0 0 18.71875 24 z M 18.71875 28 A 1.0043849 1.0043849 0 0 0 19 30 L 25 30 A 1.0001 1.0001 0 1 0 25 28 L 19 28 A 1.0001 1.0001 0 0 0 18.90625 28 A 1.001098 1.001098 0 0 0 18.8125 28 A 1.0043849 1.0043849 0 0 0 18.71875 28 z M 7 38 L 27 38 L 27 40 C 27 41.147705 27.468136 42.153583 28.125 43 L 10 43 C 8.3315161 43 7 41.668484 7 40 L 7 38 z"/> </svg>' ;
+}
+
+.scriptures h1,
+.scriptures h2,
+.scriptures h3,
+.scriptures h4,
+.scriptures h5,
+.scriptures h6
 {
-  position: relative;
-  left: -4%;
-  top: 27px;
-  line-height: 0px;
-  margin-top: -27px;
-  margin-right: 3px;
-  font-family: var(--font-family-preview);
-  font-weight: 500;
-  font-size: 10px !important;
-  font-weight: bold;
-  font-style: normal;;
-  color: var(--text-faint) !important;
+display: none;
 }
 
-/* Embedding Bible verses */
-div.markdown-embed .markdown-preview-view h6 {
-    position: absolute;
-    left: 10px;
-    top: 10px;
-    margin: 0px;
-  }
-
-.markdown-preview-view .markdown-embed-content p:first-child {
-    margin: 1px;
-    top: 10px;
+[data-callout="scripture"] .internal-embed {
+  padding-left: 0; /* Remove left padding */
+  border-left: none; /* Remove left border */
 }
+
+[data-callout="scripture"] .el-h1, 
+[data-callout="scripture"] .el-h2, 
+[data-callout="scripture"] .el-h3, 
+[data-callout="scripture"] .el-h4, 
+[data-callout="scripture"] .el-h5, 
+[data-callout="scripture"] .el-h6
+ {
+  display: none; /* Hide the element */
+}
+
+[data-callout="scripture"] [dir="auto"] {
+  margin-bottom: 0;
+  margin-top: 6px;
+}
+
+[data-callout="scripture"] .markdown-embed-link {
+  transform: translateY(-15px); /* Move up by 15px */
+  z-index: 10; /* Bring to the front */
+}
+

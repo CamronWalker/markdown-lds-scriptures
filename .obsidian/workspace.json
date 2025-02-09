@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2eae6789d9a38c",
+        "id": "ce434cc9d8e34c82",
         "type": "tabs",
         "children": [
           {
-            "id": "38f375e1286000ee",
+            "id": "2f8a8d50945f417e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pearl of Great Price/03 Joseph Smith—Matthew.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 Joseph Smith—Matthew"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pearl of Great Price/03 Joseph Smith—Matthew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +99,14 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 Joseph Smith—Matthew"
+              "title": "Backlinks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,33 +117,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "38f375e1286000ee",
+  "active": "2f8a8d50945f417e",
   "lastOpenFiles": [
-    "Pearl of Great Price/04 Joseph Smith—History.md",
-    "Pearl of Great Price/05 The Articles of Faith.md",
-    "Pearl of Great Price/03 Joseph Smith—Matthew.md",
-    "Pearl of Great Price/02 Abraham/Abraham 5.md",
-    "Pearl of Great Price/01 Moses/Moses 3.md",
-    "Pearl of Great Price/01 Moses/Moses 4.md",
-    "Pearl of Great Price/01 Moses/Moses 1.md",
-    "New Testament/01 Matthew/Matthew 1.md",
-    "Old Testament/01 Genesis/Genesis 1.md",
-    "Old Testament/01 Genesis/Genesis 2.md",
-    "Doctrine and Covenants/D&C 1.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 4.md",
     "Book of Mormon/01 1 Nephi/1 Nephi 1.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 2.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 22.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 21.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 20.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 19.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 18.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 17.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 16.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 15.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 14.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 13.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 12.md",
-    "Book of Mormon/01 1 Nephi/1 Nephi 11.md"
+    "Untitled.md",
+    "README.md",
+    "Pearl of Great Price/01 Moses/Moses 5.md",
+    "Old Testament/01 Genesis/Genesis 3.md",
+    "Old Testament/01 Genesis/Genesis 50.md",
+    "Old Testament/01 Genesis/Genesis 41.md",
+    "Old Testament/01 Genesis/Genesis 28.md",
+    "Old Testament/01 Genesis/Genesis 17.md",
+    "Old Testament/01 Genesis/Genesis 13.md",
+    "Old Testament/01 Genesis/Genesis 9.md",
+    "Old Testament/01 Genesis/Genesis 2.md",
+    "Old Testament/01 Genesis/Genesis 14.md",
+    "Old Testament/01 Genesis/Genesis 5.md",
+    "New Testament/03 Luke/Luke 4.md",
+    "add_numbers.py",
+    "Doctrine and Covenants/D&C 15.md",
+    "Doctrine and Covenants/D&C 16.md",
+    "Doctrine and Covenants/D&C 7.md",
+    "Doctrine and Covenants/D&C 4.md",
+    "Doctrine and Covenants/D&C 6.md",
+    "New Testament/03 Luke/Luke 1.md",
+    "New Testament/03 Luke/Luke 2.md",
+    "New Testament/05 Acts/Acts 8.md",
+    "New Testament/05 Acts/Acts 3.md",
+    "Old Testament/01 Genesis/Genesis 11.md",
+    "Old Testament/01 Genesis/Genesis 10.md"
   ]
 }
