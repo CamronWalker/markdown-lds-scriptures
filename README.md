@@ -1,7 +1,7 @@
-# markdown lds scriptures for Obsidian
+# Markdown LDS Scriptures for Obsidian
 LDS Scriptures in Markdown format.  These md versions have been set up for Obsidian using the included css to create good looking notes.
 
-## Callouts In Obsidian
+## Gospel Study In Obsidian
 Requirements:
 1. Templater Obsidian Pluggin
 2. Modal forms Obsidian Pluggin
