@@ -1,0 +1,28 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "ChurchofJesusChrist -- Conference Talk",
+	"behavior": "create",
+	"noteContentFormat": ">[!Properties]- Talk Details\n>Link: {{url}}\n>Speaker: {{\"Speaker Full Name---Correct Examples: Karl D. Hirst, David A. Bednar, B. Michele Walker ----- INCORRECT EXAMPLES: Elder Hirst, Elder Karl D. Hirst, Sister Walker, President Holland\"|wikilink}}\n>Conference: {{published|date:\"YYYY\"}}-{{published|date:\"MMM\"}}\n\n{{\"3 bullet point summary followed by a summary of any invitations to action\"|callout:(\"summary\", \"AI Summary\", true)}} \n> ^summarycallout\n# Notes\n\n\n\n\n# Talk\n[Source]({{url}}). Intended as fair use, to be used in reference/study.\n## Featured Quotes\n##### Quote 1\n\"QUOTETEXT\"\n— [[{{title}} — {{\"Speaker Last Name\"}} {{published|date:\"MMM YYYY\"}}]] | [talk link]({{url}})\n\n## Talk Text\n{{content}}",
+	"properties": [
+		{
+			"name": "publish",
+			"value": "true",
+			"type": "checkbox"
+		},
+		{
+			"name": "speaker",
+			"value": "{{\\\"Speaker Full Name---Correct Examples: Karl D. Hirst, David A. Bednar, B. Michele Walker ----- INCORRECT EXAMPLES: Elder Hirst, Elder Karl D. Hirst, Sister Walker, President Holland\\\"|wikilink}}",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "review Gospel/Conference/{{published|date:\\\"YYYY\\\"}}/{{published|date:\\\"MMM\\\"}}",
+			"type": "multitext"
+		}
+	],
+	"triggers": [
+		"https://www.churchofjesuschrist.org/study/general-conference/"
+	],
+	"noteNameFormat": "{{title}} — {{\"Speaker Last Name\"}} {{published|date:\"MMM YYYY\"}}",
+	"path": "Sources/Talks"
+}

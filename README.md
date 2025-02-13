@@ -3,8 +3,9 @@ LDS Scriptures in Markdown format.  These md versions have been set up for Obsid
 
 ## Callouts In Obsidian
 Requirements:
-1. Templater Pluggin
-2. Modal forms Pluggin
-3. css snippet in the snippets folder
+1. Templater Obsidian Pluggin
+2. Modal forms Obsidian Pluggin
+3. Obsidian Clipper Chrome Pluggin
+4. css snippet in the snippets folder
 
-#todo finish instructions... create an issue if someone is actually needing these I just don't feel like writing instructions.
+#todo finish instructions... create an issue if someone is actually needing these I just don't feel like writing instructions. Basically use the templates in the Templates folder and away you go.

@@ -14,28 +14,42 @@
 display: none;
 }
 
-[data-callout="scripture"] .internal-embed {
+/* Format Quote and Scripture Callouts Globally */
+[data-callout="scripture"] .internal-embed,
+[data-callout="quote"] .internal-embed
+ {
   padding-left: 0; /* Remove left padding */
   border-left: none; /* Remove left border */
 }
 
+[data-callout="quote"] .el-h1, 
+[data-callout="quote"] .el-h2, 
+[data-callout="quote"] .el-h3, 
+[data-callout="quote"] .el-h4, 
+[data-callout="quote"] .el-h5, 
+[data-callout="quote"] .el-h6,
+[data-callout="quote"] .embed-title,
 [data-callout="scripture"] .el-h1, 
 [data-callout="scripture"] .el-h2, 
 [data-callout="scripture"] .el-h3, 
 [data-callout="scripture"] .el-h4, 
 [data-callout="scripture"] .el-h5, 
-[data-callout="scripture"] .el-h6
+[data-callout="scripture"] .el-h6,
+[data-callout="scripture"] .embed-title
  {
-  display: none; /* Hide the element */
+  display: none;
 }
 
-[data-callout="scripture"] [dir="auto"] {
+[data-callout="scripture"] [dir="auto"],
+[data-callout="quote"] [dir="auto"] 
+{
   margin-bottom: 0;
-  margin-top: 6px;
+  margin-top: 5px;
 }
 
-[data-callout="scripture"] .markdown-embed-link {
-  transform: translateY(-15px); /* Move up by 15px */
-  z-index: 10; /* Bring to the front */
+[data-callout="scripture"] .markdown-embed-link,
+[data-callout="quote"] .markdown-embed-link
+ {
+  display: none;
 }
 

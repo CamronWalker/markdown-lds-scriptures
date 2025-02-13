@@ -1,0 +1,19 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "Come Follow Me Section",
+	"behavior": "create",
+	"noteContentFormat": "# Notes\n{{\"Bullet point summary of the Gospel messages not the teaching methods. Keep each point short. Limit the number of points as much as possible.\"|callout:(\"summary\", \"AI Summary\", true)}} \n> ^summarycallout\n\n\n# Study Manual\n[source]({{url}})\n\n{{content}}",
+	"properties": [
+		{
+			"name": "publish",
+			"value": "true",
+			"type": "checkbox"
+		}
+	],
+	"triggers": [
+		"https://www.churchofjesuschrist.org/study/manual/come-follow-me"
+	],
+	"noteNameFormat": "{{\"Pretty Title\"}}",
+	"path": "Sources/Come Follow Me",
+	"context": "I want to create some custom variables that will be interpolated into the locations they are asked for.\n\nPretty Title: CFM-2025—followed by the book chapters—followed by the discription\nBe sure to use abbrevations of the the scripture chapters to shorten them as much as possible. Pretty Name MUST be safe as a file name on both mac and windows so be sure to remove special caracters that would prevent the file from saving.\nNO colon or semi colons etc in the Pretty Title\nexample of the title would be: CFM-2025—D&C 10 & 11—That You May Come Off Conqueror\n\nCurrent Title is reading as: {{title}}\n\nHere is the content off the page:\n{{content}}"
+}
