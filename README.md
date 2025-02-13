@@ -8,4 +8,4 @@ Requirements:
 3. Obsidian Clipper Chrome Pluggin
 4. css snippet in the snippets folder
 
-#todo finish instructions... create an issue if someone is actually needing these I just don't feel like writing instructions. Basically use the templates in the Templates folder and away you go.
+Basically use the templates in the Templates folder and away you go. Submit an issue if you need further instructions.
