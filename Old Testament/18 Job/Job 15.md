@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 14| <-- Job 14]] | [[Job]] | [[Job 16| Job 16 -->]]
+[[Job 14| ← Job 14]] | [[Job]] | [[Job 16| Job 16 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/15?lang=eng)
 

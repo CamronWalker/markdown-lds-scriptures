@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Peter 2| <-- 2 Peter 2]] | [[2 Peter]] | [[1 John 1| 1 John 1 -->]]
+[[2 Peter 2| ← 2 Peter 2]] | [[2 Peter]] | [[1 John 1| 1 John 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-pet/3?lang=eng)
 

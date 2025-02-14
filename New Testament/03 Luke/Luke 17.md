@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 16| <-- Luke 16]] | [[Luke]] | [[Luke 18| Luke 18 -->]]
+[[Luke 16| ← Luke 16]] | [[Luke]] | [[Luke 18| Luke 18 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/17?lang=eng)
 

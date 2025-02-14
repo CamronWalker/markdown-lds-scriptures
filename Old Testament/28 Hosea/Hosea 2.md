@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Hosea 1| <-- Hosea 1]] | [[Hosea]] | [[Hosea 3| Hosea 3 -->]]
+[[Hosea 1| ← Hosea 1]] | [[Hosea]] | [[Hosea 3| Hosea 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/2?lang=eng)
 

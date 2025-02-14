@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ether 2| <-- Ether 2]] | [[Ether]] | [[Ether 4| Ether 4 -->]]
+[[Ether 2| ← Ether 2]] | [[Ether]] | [[Ether 4| Ether 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng)
 
@@ -60,7 +61,7 @@ cssclasses:
 ###### 24
 24 For behold, the language which ye shall write I have confounded; wherefore I will cause in my own due time that these stones shall magnify to the eyes of men these things which ye shall write.
 ###### 25
-25 And when the Lord had said these words, he showed unto the brother of Jared all the inhabitants of the earth which had been, and also all that would be; and he withheld them not from his sight, even unto the ends of the earth.
+25 And when the Lord had said these words, he showed unto the brother of Jared all the [[All People of Earth|inhabitants of the earth]] which had been, and also all that would be; and he withheld them not from his sight, even unto the ends of the earth.
 ###### 26
 26 For he had said unto him in times before, that if he would believe in him that he could show unto him all things--it should be shown unto him; therefore the Lord could not withhold anything from him, for he knew that the Lord could show him all things.
 ###### 27

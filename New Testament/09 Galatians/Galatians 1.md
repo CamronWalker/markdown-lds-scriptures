@@ -1,13 +1,12 @@
-Chapter ###### 9
-9 9 The Epistle of Paul the Apostle to the Galatians
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Corinthians 13| <-- 2 Corinthians 13]] | [[Galatians]] | [[Galatians 2| Galatians 2 -->]]
+[[2 Corinthians 13| ← 2 Corinthians 13]] | [[Galatians]] | [[Galatians 2| Galatians 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/1?lang=eng)
 

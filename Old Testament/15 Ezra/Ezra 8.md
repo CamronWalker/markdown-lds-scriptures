@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezra 7| <-- Ezra 7]] | [[Ezra]] | [[Ezra 9| Ezra 9 -->]]
+[[Ezra 7| ← Ezra 7]] | [[Ezra]] | [[Ezra 9| Ezra 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/8?lang=eng)
 

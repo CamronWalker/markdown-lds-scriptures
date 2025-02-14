@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 19| <-- Luke 19]] | [[Luke]] | [[Luke 21| Luke 21 -->]]
+[[Luke 19| ← Luke 19]] | [[Luke]] | [[Luke 21| Luke 21 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/20?lang=eng)
 

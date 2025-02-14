@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 22| <-- 2 Chronicles 22]] | [[2 Chronicles]] | [[2 Chronicles 24| 2 Chronicles 24 -->]]
+[[2 Chronicles 22| ← 2 Chronicles 22]] | [[2 Chronicles]] | [[2 Chronicles 24| 2 Chronicles 24 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/23?lang=eng)
 

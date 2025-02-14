@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 46| <-- Ezekiel 46]] | [[Ezekiel]] | [[Ezekiel 48| Ezekiel 48 -->]]
+[[Ezekiel 46| ← Ezekiel 46]] | [[Ezekiel]] | [[Ezekiel 48| Ezekiel 48 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng)
 

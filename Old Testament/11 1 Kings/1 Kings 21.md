@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Kings 20| <-- 1 Kings 20]] | [[1 Kings]] | [[1 Kings 22| 1 Kings 22 -->]]
+[[1 Kings 20| ← 1 Kings 20]] | [[1 Kings]] | [[1 Kings 22| 1 Kings 22 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/21?lang=eng)
 

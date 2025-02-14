@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Zechariah 12| <-- Zechariah 12]] | [[Zechariah]] | [[Zechariah 14| Zechariah 14 -->]]
+[[Zechariah 12| ← Zechariah 12]] | [[Zechariah]] | [[Zechariah 14| Zechariah 14 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/13?lang=eng)
 

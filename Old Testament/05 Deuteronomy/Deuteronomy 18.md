@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 17| <-- Deuteronomy 17]] | [[Deuteronomy]] | [[Deuteronomy 19| Deuteronomy 19 -->]]
+[[Deuteronomy 17| ← Deuteronomy 17]] | [[Deuteronomy]] | [[Deuteronomy 19| Deuteronomy 19 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=eng)
 

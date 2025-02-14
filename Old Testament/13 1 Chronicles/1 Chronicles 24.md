@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Chronicles 23| <-- 1 Chronicles 23]] | [[1 Chronicles]] | [[1 Chronicles 25| 1 Chronicles 25 -->]]
+[[1 Chronicles 23| ← 1 Chronicles 23]] | [[1 Chronicles]] | [[1 Chronicles 25| 1 Chronicles 25 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/24?lang=eng)
 

@@ -1,17 +1,12 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 11
-11 11 The Epistle of Paul the Apostle to the Philippians
-Next
-
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Philippians 1| <-- Philippians 1]] | [[Philippians]] | [[Philippians 3| Philippians 3 -->]]
+[[Philippians 1| ← Philippians 1]] | [[Philippians]] | [[Philippians 3| Philippians 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=eng)
 

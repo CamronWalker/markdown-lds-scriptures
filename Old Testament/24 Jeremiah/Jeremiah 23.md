@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 22| <-- Jeremiah 22]] | [[Jeremiah]] | [[Jeremiah 24| Jeremiah 24 -->]]
+[[Jeremiah 22| ← Jeremiah 22]] | [[Jeremiah]] | [[Jeremiah 24| Jeremiah 24 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/23?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 30| <-- Exodus 30]] | [[Exodus]] | [[Exodus 32| Exodus 32 -->]]
+[[Exodus 30| ← Exodus 30]] | [[Exodus]] | [[Exodus 32| Exodus 32 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/31?lang=eng)
 

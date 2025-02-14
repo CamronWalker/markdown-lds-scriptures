@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 47| <-- Ezekiel 47]] | [[Ezekiel]] | [[Daniel 1| Daniel 1 -->]]
+[[Ezekiel 47| ← Ezekiel 47]] | [[Ezekiel]] | [[Daniel 1| Daniel 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/48?lang=eng)
 

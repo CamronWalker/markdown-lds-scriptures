@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 13| <-- Ezekiel 13]] | [[Ezekiel]] | [[Ezekiel 15| Ezekiel 15 -->]]
+[[Ezekiel 13| ← Ezekiel 13]] | [[Ezekiel]] | [[Ezekiel 15| Ezekiel 15 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/14?lang=eng)
 

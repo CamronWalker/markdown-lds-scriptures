@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 40| <-- Ezekiel 40]] | [[Ezekiel]] | [[Ezekiel 42| Ezekiel 42 -->]]
+[[Ezekiel 40| ← Ezekiel 40]] | [[Ezekiel]] | [[Ezekiel 42| Ezekiel 42 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/41?lang=eng)
 

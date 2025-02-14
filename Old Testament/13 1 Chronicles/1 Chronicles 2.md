@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Chronicles 1| <-- 1 Chronicles 1]] | [[1 Chronicles]] | [[1 Chronicles 3| 1 Chronicles 3 -->]]
+[[1 Chronicles 1| ← 1 Chronicles 1]] | [[1 Chronicles]] | [[1 Chronicles 3| 1 Chronicles 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/2?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 6| <-- Ezekiel 6]] | [[Ezekiel]] | [[Ezekiel 8| Ezekiel 8 -->]]
+[[Ezekiel 6| ← Ezekiel 6]] | [[Ezekiel]] | [[Ezekiel 8| Ezekiel 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/7?lang=eng)
 

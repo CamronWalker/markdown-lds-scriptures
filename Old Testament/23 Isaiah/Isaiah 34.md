@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 33| <-- Isaiah 33]] | [[Isaiah]] | [[Isaiah 35| Isaiah 35 -->]]
+[[Isaiah 33| ← Isaiah 33]] | [[Isaiah]] | [[Isaiah 35| Isaiah 35 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/34?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 16| <-- Jeremiah 16]] | [[Jeremiah]] | [[Jeremiah 18| Jeremiah 18 -->]]
+[[Jeremiah 16| ← Jeremiah 16]] | [[Jeremiah]] | [[Jeremiah 18| Jeremiah 18 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/17?lang=eng)
 

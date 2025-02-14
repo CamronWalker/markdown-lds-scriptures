@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 17| <-- Psalm 17]] | [[Psalms]] | [[Psalm 19| Psalm 19 -->]]
+[[Psalm 17| ← Psalm 17]] | [[Psalms]] | [[Psalm 19| Psalm 19 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/18?lang=eng)
 

@@ -1,17 +1,12 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 7
-7 7 The First Epistle of Paul the Apostle to the Corinthians
-Next
-
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Corinthians 11| <-- 1 Corinthians 11]] | [[1 Corinthians]] | [[1 Corinthians 13| 1 Corinthians 13 -->]]
+[[1 Corinthians 11| ← 1 Corinthians 11]] | [[1 Corinthians]] | [[1 Corinthians 13| 1 Corinthians 13 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/12?lang=eng)
 

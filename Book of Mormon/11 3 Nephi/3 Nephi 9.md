@@ -2,17 +2,18 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[3 Nephi 8| <-- 3 Nephi 8]] | [[3 Nephi]] | [[3 Nephi 10| 3 Nephi 10 -->]]
+[[3 Nephi 8| ← 3 Nephi 8]] | [[3 Nephi]] | [[3 Nephi 10| 3 Nephi 10 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng)
 
 >[!example] Chapter Summary
 >
 ###### 1
-1 And it came to pass that there was a voice heard among all the inhabitants of the earth, upon all the face of this land, crying:
+1 And it came to pass that there was a voice heard among all the [[All People of Earth|inhabitants of the earth]], upon all the face of this land, crying:
 ###### 2
 2 Wo, wo, wo unto this people; wo unto the inhabitants of the whole earth except they shall repent; for the devil laugheth, and his angels rejoice, because of the slain of the fair sons and daughters of my people; and it is because of their iniquity and abominations that they are fallen!
 ###### 3

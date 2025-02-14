@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 41| <-- Genesis 41]] | [[Genesis]] | [[Genesis 43| Genesis 43 -->]]
+[[Genesis 41| ← Genesis 41]] | [[Genesis]] | [[Genesis 43| Genesis 43 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/42?lang=eng)
 

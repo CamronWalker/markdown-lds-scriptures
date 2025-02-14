@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 32| <-- Job 32]] | [[Job]] | [[Job 34| Job 34 -->]]
+[[Job 32| ← Job 32]] | [[Job]] | [[Job 34| Job 34 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/33?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Samuel 5| <-- 2 Samuel 5]] | [[2 Samuel]] | [[2 Samuel 7| 2 Samuel 7 -->]]
+[[2 Samuel 5| ← 2 Samuel 5]] | [[2 Samuel]] | [[2 Samuel 7| 2 Samuel 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/6?lang=eng)
 

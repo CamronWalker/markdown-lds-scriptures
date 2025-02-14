@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 132| <-- Psalm 132]] | [[Psalms]] | [[Psalm 134| Psalm 134 -->]]
+[[Psalm 132| ← Psalm 132]] | [[Psalms]] | [[Psalm 134| Psalm 134 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/133?lang=eng)
 

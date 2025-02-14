@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ruth 3| <-- Ruth 3]] | [[Ruth]] | [[1 Samuel 1| 1 Samuel 1 -->]]
+[[Ruth 3| ← Ruth 3]] | [[Ruth]] | [[1 Samuel 1| 1 Samuel 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/4?lang=eng)
 

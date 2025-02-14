@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
- | [[1 Nephi]] | [[1 Nephi 2| 1 Nephi 2 -->]]
+ | [[1 Nephi]] | [[1 Nephi 2| 1 Nephi 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng)
 
@@ -40,7 +41,7 @@ cssclasses:
 ###### 13
 13 And he read, saying: Wo, wo, unto Jerusalem, for I have seen thine abominations! Yea, and many things did my father read concerning Jerusalem--that it should be destroyed, and the inhabitants thereof; many should perish by the sword, and many should be carried away captive into Babylon.
 ###### 14
-14 And it came to pass that when my father had read and seen many great and marvelous things, he did exclaim many things unto the Lord; such as: Great and marvelous are thy works, O Lord God Almighty! Thy throne is high in the heavens, and thy power, and goodness, and mercy are over all the inhabitants of the earth; and, because thou art merciful, thou wilt not suffer those who come unto thee that they shall perish!
+14 And it came to pass that when my father had read and seen many great and marvelous things, he did exclaim many things unto the Lord; such as: Great and marvelous are thy works, O Lord God Almighty! Thy throne is high in the heavens, and thy power, and goodness, and mercy are over all the [[All People of Earth|inhabitants of the earth]]; and, because thou art merciful, thou wilt not suffer those who come unto thee that they shall perish!
 ###### 15
 15 And after this manner was the language of my father in the praising of his God; for his soul did rejoice, and his whole heart was filled, because of the things which he had seen, yea, which the Lord had shown unto him.
 ###### 16

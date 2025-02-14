@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 13| <-- Proverbs 13]] | [[Proverbs]] | [[Proverbs 15| Proverbs 15 -->]]
+[[Proverbs 13| ← Proverbs 13]] | [[Proverbs]] | [[Proverbs 15| Proverbs 15 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/14?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 93| <-- Psalm 93]] | [[Psalms]] | [[Psalm 95| Psalm 95 -->]]
+[[Psalm 93| ← Psalm 93]] | [[Psalms]] | [[Psalm 95| Psalm 95 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/94?lang=eng)
 

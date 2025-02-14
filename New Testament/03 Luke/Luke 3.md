@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 2| <-- Luke 2]] | [[Luke]] | [[Luke 4| Luke 4 -->]]
+[[Luke 2| ← Luke 2]] | [[Luke]] | [[Luke 4| Luke 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/3?lang=eng)
 

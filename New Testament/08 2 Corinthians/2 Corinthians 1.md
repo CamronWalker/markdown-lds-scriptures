@@ -1,13 +1,12 @@
-Chapter ###### 8
-8 8 The Second Epistle of Paul the Apostle to the Corinthians
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Corinthians 16| <-- 1 Corinthians 16]] | [[2 Corinthians]] | [[2 Corinthians 2| 2 Corinthians 2 -->]]
+[[1 Corinthians 16| ← 1 Corinthians 16]] | [[2 Corinthians]] | [[2 Corinthians 2| 2 Corinthians 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-cor/1?lang=eng)
 

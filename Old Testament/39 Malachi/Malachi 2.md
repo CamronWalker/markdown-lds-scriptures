@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Malachi 1| <-- Malachi 1]] | [[Malachi]] | [[Malachi 3| Malachi 3 -->]]
+[[Malachi 1| ← Malachi 1]] | [[Malachi]] | [[Malachi 3| Malachi 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng)
 

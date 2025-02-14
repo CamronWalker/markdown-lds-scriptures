@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Mark 13| <-- Mark 13]] | [[Mark]] | [[Mark 15| Mark 15 -->]]
+[[Mark 13| ← Mark 13]] | [[Mark]] | [[Mark 15| Mark 15 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=eng)
 

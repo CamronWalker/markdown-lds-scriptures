@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Titus 3| <-- Titus 3]] | [[Philemon]] | [[Hebrews 1| Hebrews 1 -->]]
+[[Titus 3| ← Titus 3]] | [[Philemon]] | [[Hebrews 1| Hebrews 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philem/1?lang=eng)
 

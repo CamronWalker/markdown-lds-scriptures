@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 36| <-- Ezekiel 36]] | [[Ezekiel]] | [[Ezekiel 38| Ezekiel 38 -->]]
+[[Ezekiel 36| ← Ezekiel 36]] | [[Ezekiel]] | [[Ezekiel 38| Ezekiel 38 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=eng)
 

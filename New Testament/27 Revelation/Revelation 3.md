@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Revelation 2| <-- Revelation 2]] | [[Revelation]] | [[Revelation 4| Revelation 4 -->]]
+[[Revelation 2| ← Revelation 2]] | [[Revelation]] | [[Revelation 4| Revelation 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/3?lang=eng)
 

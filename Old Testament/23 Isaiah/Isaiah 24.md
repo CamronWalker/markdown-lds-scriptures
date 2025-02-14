@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 23| <-- Isaiah 23]] | [[Isaiah]] | [[Isaiah 25| Isaiah 25 -->]]
+[[Isaiah 23| ← Isaiah 23]] | [[Isaiah]] | [[Isaiah 25| Isaiah 25 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/24?lang=eng)
 
@@ -24,7 +23,7 @@ cssclasses:
 ###### 5
 5 The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
 ###### 6
-6 Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.
+6 Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the [[All People of Earth|inhabitants of the earth]] are burned, and few men left.
 ###### 7
 7 The new wine mourneth, the vine languisheth, all the merryhearted do sigh.
 ###### 8

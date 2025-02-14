@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Daniel 3| <-- Daniel 3]] | [[Daniel]] | [[Daniel 5| Daniel 5 -->]]
+[[Daniel 3| ← Daniel 3]] | [[Daniel]] | [[Daniel 5| Daniel 5 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/4?lang=eng)
 
@@ -82,7 +81,7 @@ cssclasses:
 ###### 34
 34 And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion is an everlasting dominion, and his kingdom is from generation to generation:
 ###### 35
-35 And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?
+35 And all the [[All People of Earth|inhabitants of the earth]] are reputed as nothing: and he doeth according to his will in the army of heaven, and among the [[All People of Earth|inhabitants of the earth]]: and none can stay his hand, or say unto him, What doest thou?
 ###### 36
 36 At the same time my reason returned unto me; and for the glory of my kingdom, mine honour and brightness returned unto me; and my counsellors and my lords sought unto me; and I was established in my kingdom, and excellent majesty was added unto me.
 ###### 37

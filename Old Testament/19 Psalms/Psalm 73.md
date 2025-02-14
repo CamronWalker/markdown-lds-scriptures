@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 72| <-- Psalm 72]] | [[Psalms]] | [[Psalm 74| Psalm 74 -->]]
+[[Psalm 72| ← Psalm 72]] | [[Psalms]] | [[Psalm 74| Psalm 74 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/73?lang=eng)
 

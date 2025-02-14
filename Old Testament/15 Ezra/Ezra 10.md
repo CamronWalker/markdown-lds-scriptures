@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezra 9| <-- Ezra 9]] | [[Ezra]] | [[Nehemiah 1| Nehemiah 1 -->]]
+[[Ezra 9| ← Ezra 9]] | [[Ezra]] | [[Nehemiah 1| Nehemiah 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/10?lang=eng)
 

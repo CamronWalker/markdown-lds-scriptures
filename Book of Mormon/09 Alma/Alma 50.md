@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Alma 49| <-- Alma 49]] | [[Alma]] | [[Alma 51| Alma 51 -->]]
+[[Alma 49| ← Alma 49]] | [[Alma]] | [[Alma 51| Alma 51 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/50?lang=eng)
 

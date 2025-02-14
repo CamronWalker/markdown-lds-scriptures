@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 10| <-- Ezekiel 10]] | [[Ezekiel]] | [[Ezekiel 12| Ezekiel 12 -->]]
+[[Ezekiel 10| ← Ezekiel 10]] | [[Ezekiel]] | [[Ezekiel 12| Ezekiel 12 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/11?lang=eng)
 

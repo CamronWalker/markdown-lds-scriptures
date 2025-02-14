@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Samuel 27| <-- 1 Samuel 27]] | [[1 Samuel]] | [[1 Samuel 29| 1 Samuel 29 -->]]
+[[1 Samuel 27| ← 1 Samuel 27]] | [[1 Samuel]] | [[1 Samuel 29| 1 Samuel 29 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/28?lang=eng)
 

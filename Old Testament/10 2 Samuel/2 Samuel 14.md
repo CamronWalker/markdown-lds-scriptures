@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Samuel 13| <-- 2 Samuel 13]] | [[2 Samuel]] | [[2 Samuel 15| 2 Samuel 15 -->]]
+[[2 Samuel 13| ← 2 Samuel 13]] | [[2 Samuel]] | [[2 Samuel 15| 2 Samuel 15 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/14?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Joshua 17| <-- Joshua 17]] | [[Joshua]] | [[Joshua 19| Joshua 19 -->]]
+[[Joshua 17| ← Joshua 17]] | [[Joshua]] | [[Joshua 19| Joshua 19 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/18?lang=eng)
 

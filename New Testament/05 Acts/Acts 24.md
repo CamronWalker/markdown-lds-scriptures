@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 23| <-- Acts 23]] | [[Acts]] | [[Acts 25| Acts 25 -->]]
+[[Acts 23| ← Acts 23]] | [[Acts]] | [[Acts 25| Acts 25 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/24?lang=eng)
 

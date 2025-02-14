@@ -1,13 +1,12 @@
-Chapter ###### 11
-11 11 The Epistle of Paul the Apostle to the Philippians
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ephesians 6| <-- Ephesians 6]] | [[Philippians]] | [[Philippians 2| Philippians 2 -->]]
+[[Ephesians 6| ← Ephesians 6]] | [[Philippians]] | [[Philippians 2| Philippians 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/philip/1?lang=eng)
 

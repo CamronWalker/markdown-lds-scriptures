@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Judges 1| <-- Judges 1]] | [[Judges]] | [[Judges 3| Judges 3 -->]]
+[[Judges 1| ← Judges 1]] | [[Judges]] | [[Judges 3| Judges 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/2?lang=eng)
 

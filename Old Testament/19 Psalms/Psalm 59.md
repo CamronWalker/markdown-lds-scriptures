@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 58| <-- Psalm 58]] | [[Psalms]] | [[Psalm 60| Psalm 60 -->]]
+[[Psalm 58| ← Psalm 58]] | [[Psalms]] | [[Psalm 60| Psalm 60 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/59?lang=eng)
 

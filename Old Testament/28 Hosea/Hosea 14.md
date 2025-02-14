@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Hosea 13| <-- Hosea 13]] | [[Hosea]] | [[Joel 1| Joel 1 -->]]
+[[Hosea 13| ← Hosea 13]] | [[Hosea]] | [[Joel 1| Joel 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/14?lang=eng)
 

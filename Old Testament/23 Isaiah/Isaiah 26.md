@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 25| <-- Isaiah 25]] | [[Isaiah]] | [[Isaiah 27| Isaiah 27 -->]]
+[[Isaiah 25| ← Isaiah 25]] | [[Isaiah]] | [[Isaiah 27| Isaiah 27 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/26?lang=eng)
 
@@ -54,7 +53,7 @@ cssclasses:
 ###### 20
 20 ¶ Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.
 ###### 21
-21 For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.
+21 For, behold, the LORD cometh out of his place to punish the [[All People of Earth|inhabitants of the earth]] for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.
 
 
 

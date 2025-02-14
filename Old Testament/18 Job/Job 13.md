@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 12| <-- Job 12]] | [[Job]] | [[Job 14| Job 14 -->]]
+[[Job 12| ← Job 12]] | [[Job]] | [[Job 14| Job 14 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/13?lang=eng)
 

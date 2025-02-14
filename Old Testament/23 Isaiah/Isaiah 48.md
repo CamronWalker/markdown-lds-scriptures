@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 47| <-- Isaiah 47]] | [[Isaiah]] | [[Isaiah 49| Isaiah 49 -->]]
+[[Isaiah 47| ← Isaiah 47]] | [[Isaiah]] | [[Isaiah 49| Isaiah 49 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/48?lang=eng)
 

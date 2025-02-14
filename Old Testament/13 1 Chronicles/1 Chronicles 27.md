@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Chronicles 26| <-- 1 Chronicles 26]] | [[1 Chronicles]] | [[1 Chronicles 28| 1 Chronicles 28 -->]]
+[[1 Chronicles 26| ← 1 Chronicles 26]] | [[1 Chronicles]] | [[1 Chronicles 28| 1 Chronicles 28 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/27?lang=eng)
 

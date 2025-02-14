@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 113| <-- Psalm 113]] | [[Psalms]] | [[Psalm 115| Psalm 115 -->]]
+[[Psalm 113| ← Psalm 113]] | [[Psalms]] | [[Psalm 115| Psalm 115 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/114?lang=eng)
 

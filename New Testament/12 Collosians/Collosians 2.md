@@ -1,17 +1,12 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 12
-12 12 The Epistle of Paul the Apostle to the Colossians
-Next
-
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Collosians 1| <-- Collosians 1]] | [[Collosians]] | [[Collosians 3| Collosians 3 -->]]
+[[Collosians 1| ← Collosians 1]] | [[Collosians]] | [[Collosians 3| Collosians 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/2?lang=eng)
 

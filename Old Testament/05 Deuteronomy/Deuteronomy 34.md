@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 33| <-- Deuteronomy 33]] | [[Deuteronomy]] | [[Joshua 1| Joshua 1 -->]]
+[[Deuteronomy 33| ← Deuteronomy 33]] | [[Deuteronomy]] | [[Joshua 1| Joshua 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/34?lang=eng)
 

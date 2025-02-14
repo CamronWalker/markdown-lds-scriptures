@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Numbers 34| <-- Numbers 34]] | [[Numbers]] | [[Numbers 36| Numbers 36 -->]]
+[[Numbers 34| ← Numbers 34]] | [[Numbers]] | [[Numbers 36| Numbers 36 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/35?lang=eng)
 

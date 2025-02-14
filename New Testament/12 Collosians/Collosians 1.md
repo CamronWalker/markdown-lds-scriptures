@@ -1,13 +1,12 @@
-Chapter ###### 12
-12 12 The Epistle of Paul the Apostle to the Colossians
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Philippians 4| <-- Philippians 4]] | [[Collosians]] | [[Collosians 2| Collosians 2 -->]]
+[[Philippians 4| ← Philippians 4]] | [[Collosians]] | [[Collosians 2| Collosians 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/col/1?lang=eng)
 

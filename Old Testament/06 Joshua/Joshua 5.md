@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Joshua 4| <-- Joshua 4]] | [[Joshua]] | [[Joshua 6| Joshua 6 -->]]
+[[Joshua 4| ← Joshua 4]] | [[Joshua]] | [[Joshua 6| Joshua 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/5?lang=eng)
 

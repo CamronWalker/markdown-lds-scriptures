@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Zechariah 3| <-- Zechariah 3]] | [[Zechariah]] | [[Zechariah 5| Zechariah 5 -->]]
+[[Zechariah 3| ← Zechariah 3]] | [[Zechariah]] | [[Zechariah 5| Zechariah 5 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/4?lang=eng)
 

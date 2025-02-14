@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 9| <-- Exodus 9]] | [[Exodus]] | [[Exodus 11| Exodus 11 -->]]
+[[Exodus 9| ← Exodus 9]] | [[Exodus]] | [[Exodus 11| Exodus 11 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/10?lang=eng)
 

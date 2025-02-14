@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Matthew 6| <-- Matthew 6]] | [[Matthew]] | [[Matthew 8| Matthew 8 -->]]
+[[Matthew 6| ← Matthew 6]] | [[Matthew]] | [[Matthew 8| Matthew 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng)
 

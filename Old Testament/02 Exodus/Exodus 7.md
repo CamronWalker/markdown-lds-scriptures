@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 6| <-- Exodus 6]] | [[Exodus]] | [[Exodus 8| Exodus 8 -->]]
+[[Exodus 6| ← Exodus 6]] | [[Exodus]] | [[Exodus 8| Exodus 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/7?lang=eng)
 

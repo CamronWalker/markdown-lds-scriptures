@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 134| <-- Psalm 134]] | [[Psalms]] | [[Psalm 136| Psalm 136 -->]]
+[[Psalm 134| ← Psalm 134]] | [[Psalms]] | [[Psalm 136| Psalm 136 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/135?lang=eng)
 

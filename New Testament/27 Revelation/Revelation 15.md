@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Revelation 14| <-- Revelation 14]] | [[Revelation]] | [[Revelation 16| Revelation 16 -->]]
+[[Revelation 14| ← Revelation 14]] | [[Revelation]] | [[Revelation 16| Revelation 16 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/15?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Samuel 21| <-- 2 Samuel 21]] | [[2 Samuel]] | [[2 Samuel 23| 2 Samuel 23 -->]]
+[[2 Samuel 21| ← 2 Samuel 21]] | [[2 Samuel]] | [[2 Samuel 23| 2 Samuel 23 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/22?lang=eng)
 

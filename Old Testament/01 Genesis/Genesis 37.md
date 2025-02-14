@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 36| <-- Genesis 36]] | [[Genesis]] | [[Genesis 38| Genesis 38 -->]]
+[[Genesis 36| ← Genesis 36]] | [[Genesis]] | [[Genesis 38| Genesis 38 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/37?lang=eng)
 

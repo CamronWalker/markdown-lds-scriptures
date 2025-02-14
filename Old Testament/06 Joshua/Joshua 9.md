@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Joshua 8| <-- Joshua 8]] | [[Joshua]] | [[Joshua 10| Joshua 10 -->]]
+[[Joshua 8| ← Joshua 8]] | [[Joshua]] | [[Joshua 10| Joshua 10 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/9?lang=eng)
 

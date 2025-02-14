@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 149| <-- Psalm 149]] | [[Psalms]] | [[Proverbs 1| Proverbs 1 -->]]
+[[Psalm 149| ← Psalm 149]] | [[Psalms]] | [[Proverbs 1| Proverbs 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/150?lang=eng)
 

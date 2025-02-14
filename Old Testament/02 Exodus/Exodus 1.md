@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 50| <-- Genesis 50]] | [[Exodus]] | [[Exodus 2| Exodus 2 -->]]
+[[Genesis 50| ← Genesis 50]] | [[Exodus]] | [[Exodus 2| Exodus 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/1?lang=eng)
 

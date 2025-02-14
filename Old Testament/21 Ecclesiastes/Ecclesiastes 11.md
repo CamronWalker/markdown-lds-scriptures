@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ecclesiastes 10| <-- Ecclesiastes 10]] | [[Ecclesiastes]] | [[Ecclesiastes 12| Ecclesiastes 12 -->]]
+[[Ecclesiastes 10| ← Ecclesiastes 10]] | [[Ecclesiastes]] | [[Ecclesiastes 12| Ecclesiastes 12 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/11?lang=eng)
 

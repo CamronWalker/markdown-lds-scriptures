@@ -1,17 +1,12 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 10
-10 10 The Epistle of Paul the Apostle to the Ephesians
-Next
-
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ephesians 4| <-- Ephesians 4]] | [[Ephesians]] | [[Ephesians 6| Ephesians 6 -->]]
+[[Ephesians 4| ← Ephesians 4]] | [[Ephesians]] | [[Ephesians 6| Ephesians 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/5?lang=eng)
 

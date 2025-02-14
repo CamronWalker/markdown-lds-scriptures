@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 9| <-- Deuteronomy 9]] | [[Deuteronomy]] | [[Deuteronomy 11| Deuteronomy 11 -->]]
+[[Deuteronomy 9| ← Deuteronomy 9]] | [[Deuteronomy]] | [[Deuteronomy 11| Deuteronomy 11 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/10?lang=eng)
 

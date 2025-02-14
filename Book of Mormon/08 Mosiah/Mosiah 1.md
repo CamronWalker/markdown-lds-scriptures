@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Words of Mormon 1| <-- Words of Mormon 1]] | [[Mosiah]] | [[Mosiah 2| Mosiah 2 -->]]
+[[Words of Mormon 1| ← Words of Mormon 1]] | [[Mosiah]] | [[Mosiah 2| Mosiah 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/1?lang=eng)
 

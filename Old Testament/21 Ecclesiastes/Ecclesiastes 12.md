@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ecclesiastes 11| <-- Ecclesiastes 11]] | [[Ecclesiastes]] | [[Song of Solomon 1| Song of Solomon 1 -->]]
+[[Ecclesiastes 11| ← Ecclesiastes 11]] | [[Ecclesiastes]] | [[Song of Solomon 1| Song of Solomon 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/12?lang=eng)
 

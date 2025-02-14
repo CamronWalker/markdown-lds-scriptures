@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 18| <-- Acts 18]] | [[Acts]] | [[Acts 20| Acts 20 -->]]
+[[Acts 18| ← Acts 18]] | [[Acts]] | [[Acts 20| Acts 20 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/19?lang=eng)
 

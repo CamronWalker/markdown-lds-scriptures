@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Kings 2| <-- 1 Kings 2]] | [[1 Kings]] | [[1 Kings 4| 1 Kings 4 -->]]
+[[1 Kings 2| ← 1 Kings 2]] | [[1 Kings]] | [[1 Kings 4| 1 Kings 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=eng)
 

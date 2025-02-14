@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Samual 1| <-- 2 Samual 1]] | [[2 Samuel]] | [[2 Samuel 3| 2 Samuel 3 -->]]
+[[2 Samual 1| ← 2 Samual 1]] | [[2 Samuel]] | [[2 Samuel 3| 2 Samuel 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/2?lang=eng)
 

@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 9| <-- Luke 9]] | [[Luke]] | [[Luke 11| Luke 11 -->]]
+[[Luke 9| ← Luke 9]] | [[Luke]] | [[Luke 11| Luke 11 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/10?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekial 1| <-- Ezekial 1]] | [[Ezekiel]] | [[Ezekiel 3| Ezekiel 3 -->]]
+[[Ezekial 1| ← Ezekial 1]] | [[Ezekiel]] | [[Ezekiel 3| Ezekiel 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/2?lang=eng)
 

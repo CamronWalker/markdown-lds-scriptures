@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 13| <-- Acts 13]] | [[Acts]] | [[Acts 15| Acts 15 -->]]
+[[Acts 13| ← Acts 13]] | [[Acts]] | [[Acts 15| Acts 15 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/14?lang=eng)
 

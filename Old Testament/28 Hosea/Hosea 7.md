@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Hosea 6| <-- Hosea 6]] | [[Hosea]] | [[Hosea 8| Hosea 8 -->]]
+[[Hosea 6| ← Hosea 6]] | [[Hosea]] | [[Hosea 8| Hosea 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/7?lang=eng)
 

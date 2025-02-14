@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Zephaniah 1| <-- Zephaniah 1]] | [[Zephaniah]] | [[Zephaniah 3| Zephaniah 3 -->]]
+[[Zephaniah 1| ← Zephaniah 1]] | [[Zephaniah]] | [[Zephaniah 3| Zephaniah 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zeph/2?lang=eng)
 

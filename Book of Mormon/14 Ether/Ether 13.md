@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ether 12| <-- Ether 12]] | [[Ether]] | [[Ether 14| Ether 14 -->]]
+[[Ether 12| ← Ether 12]] | [[Ether]] | [[Ether 14| Ether 14 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/ether/13?lang=eng)
 

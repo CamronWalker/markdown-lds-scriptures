@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Kings 17| <-- 2 Kings 17]] | [[2 Kings]] | [[2 Kings 19| 2 Kings 19 -->]]
+[[2 Kings 17| ← 2 Kings 17]] | [[2 Kings]] | [[2 Kings 19| 2 Kings 19 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-kgs/18?lang=eng)
 

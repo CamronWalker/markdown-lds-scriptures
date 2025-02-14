@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ruth 2| <-- Ruth 2]] | [[Ruth]] | [[Ruth 4| Ruth 4 -->]]
+[[Ruth 2| ← Ruth 2]] | [[Ruth]] | [[Ruth 4| Ruth 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ruth/3?lang=eng)
 

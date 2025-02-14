@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jonah 2| <-- Jonah 2]] | [[Jonah]] | [[Jonah 4| Jonah 4 -->]]
+[[Jonah 2| ← Jonah 2]] | [[Jonah]] | [[Jonah 4| Jonah 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/3?lang=eng)
 

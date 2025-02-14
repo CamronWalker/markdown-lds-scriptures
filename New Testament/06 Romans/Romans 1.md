@@ -1,13 +1,12 @@
-Chapter ###### 6
-6 6 The Epistle of Paul the Apostle to the Romans
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 28| <-- Acts 28]] | [[Romans]] | [[Romans 2| Romans 2 -->]]
+[[Acts 28| ← Acts 28]] | [[Romans]] | [[Romans 2| Romans 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=eng)
 

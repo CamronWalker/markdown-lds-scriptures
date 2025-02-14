@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[John 20| <-- John 20]] | [[John]] | [[Acts 1| Acts 1 -->]]
+[[John 20| ← John 20]] | [[John]] | [[Acts 1| Acts 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/21?lang=eng)
 

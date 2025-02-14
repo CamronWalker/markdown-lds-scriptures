@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Haggai 2| <-- Haggai 2]] | [[Zechariah]] | [[Zechariah 2| Zechariah 2 -->]]
+[[Haggai 2| ← Haggai 2]] | [[Zechariah]] | [[Zechariah 2| Zechariah 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/1?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 8| <-- Isaiah 8]] | [[Isaiah]] | [[Isaiah 10| Isaiah 10 -->]]
+[[Isaiah 8| ← Isaiah 8]] | [[Isaiah]] | [[Isaiah 10| Isaiah 10 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/9?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Daniel 6| <-- Daniel 6]] | [[Daniel]] | [[Daniel 8| Daniel 8 -->]]
+[[Daniel 6| ← Daniel 6]] | [[Daniel]] | [[Daniel 8| Daniel 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/dan/7?lang=eng)
 

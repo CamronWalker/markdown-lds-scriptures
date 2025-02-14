@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 126| <-- Psalm 126]] | [[Psalms]] | [[Psalm 128| Psalm 128 -->]]
+[[Psalm 126| ← Psalm 126]] | [[Psalms]] | [[Psalm 128| Psalm 128 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/127?lang=eng)
 

@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 5| <-- Acts 5]] | [[Acts]] | [[Acts 7| Acts 7 -->]]
+[[Acts 5| ← Acts 5]] | [[Acts]] | [[Acts 7| Acts 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/6?lang=eng)
 

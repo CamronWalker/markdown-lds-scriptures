@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 32| <-- Deuteronomy 32]] | [[Deuteronomy]] | [[Deuteronomy 34| Deuteronomy 34 -->]]
+[[Deuteronomy 32| ← Deuteronomy 32]] | [[Deuteronomy]] | [[Deuteronomy 34| Deuteronomy 34 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/33?lang=eng)
 

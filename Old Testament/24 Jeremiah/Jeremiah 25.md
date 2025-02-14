@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 24| <-- Jeremiah 24]] | [[Jeremiah]] | [[Jeremiah 26| Jeremiah 26 -->]]
+[[Jeremiah 24| ← Jeremiah 24]] | [[Jeremiah]] | [[Jeremiah 26| Jeremiah 26 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/25?lang=eng)
 
@@ -70,9 +69,9 @@ cssclasses:
 ###### 28
 28 And it shall be, if they refuse to take the cup at thine hand to drink, then shalt thou say unto them, Thus saith the LORD of hosts; Ye shall certainly drink.
 ###### 29
-29 For, lo, I begin to bring evil on the city which is called by my name, and should ye be utterly unpunished?  Ye shall not be unpunished: for I will call for a sword upon all the inhabitants of the earth, saith the LORD of hosts.
+29 For, lo, I begin to bring evil on the city which is called by my name, and should ye be utterly unpunished?  Ye shall not be unpunished: for I will call for a sword upon all the [[All People of Earth|inhabitants of the earth]], saith the LORD of hosts.
 ###### 30
-30 Therefore prophesy thou against them all these words, and say unto them, The LORD shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread the grapes, against all the inhabitants of the earth.
+30 Therefore prophesy thou against them all these words, and say unto them, The LORD shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread the grapes, against all the [[All People of Earth|inhabitants of the earth]].
 ###### 31
 31 A noise shall come even to the ends of the earth; for the LORD hath a controversy with the nations, he will plead with all flesh; he will give them that are wicked to the sword, saith the LORD.
 ###### 32

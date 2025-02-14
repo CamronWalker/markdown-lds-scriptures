@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 101| <-- Psalm 101]] | [[Psalms]] | [[Psalm 103| Psalm 103 -->]]
+[[Psalm 101| ← Psalm 101]] | [[Psalms]] | [[Psalm 103| Psalm 103 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/102?lang=eng)
 

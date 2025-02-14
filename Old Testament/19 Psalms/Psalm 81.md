@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 80| <-- Psalm 80]] | [[Psalms]] | [[Psalm 82| Psalm 82 -->]]
+[[Psalm 80| ← Psalm 80]] | [[Psalms]] | [[Psalm 82| Psalm 82 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/81?lang=eng)
 

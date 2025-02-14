@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/DandC
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[D&C 6| <-- D&C 6]] | [[D&C]] | [[D&C 8| D&C 8 -->]]
+[[D&C 6| ← D&C 6]] | [[D&C]] | [[D&C 8| D&C 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/7?lang=eng)
 

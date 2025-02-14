@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Kings 25| <-- 2 Kings 25]] | [[1 Chronicles]] | [[1 Chronicles 2| 1 Chronicles 2 -->]]
+[[2 Kings 25| ← 2 Kings 25]] | [[1 Chronicles]] | [[1 Chronicles 2| 1 Chronicles 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/1?lang=eng)
 

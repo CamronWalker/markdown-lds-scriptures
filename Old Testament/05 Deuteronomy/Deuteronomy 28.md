@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 27| <-- Deuteronomy 27]] | [[Deuteronomy]] | [[Deuteronomy 29| Deuteronomy 29 -->]]
+[[Deuteronomy 27| ← Deuteronomy 27]] | [[Deuteronomy]] | [[Deuteronomy 29| Deuteronomy 29 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/28?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Samuel 30| <-- 1 Samuel 30]] | [[1 Samuel]] | [[2 Samual 1| 2 Samual 1 -->]]
+[[1 Samuel 30| ← 1 Samuel 30]] | [[1 Samuel]] | [[2 Samual 1| 2 Samual 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/31?lang=eng)
 

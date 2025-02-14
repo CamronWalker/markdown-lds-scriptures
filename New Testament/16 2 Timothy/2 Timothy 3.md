@@ -1,17 +1,12 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 16
-16 16 The Second Epistle of Paul the Apostle to Timothy
-Next
-
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Timothy 2| <-- 2 Timothy 2]] | [[2 Timothy]] | [[2 Timothy 4| 2 Timothy 4 -->]]
+[[2 Timothy 2| ← 2 Timothy 2]] | [[2 Timothy]] | [[2 Timothy 4| 2 Timothy 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/3?lang=eng)
 

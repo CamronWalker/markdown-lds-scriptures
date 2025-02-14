@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 35| <-- 2 Chronicles 35]] | [[2 Chronicles]] | [[Ezra 1| Ezra 1 -->]]
+[[2 Chronicles 35| ← 2 Chronicles 35]] | [[2 Chronicles]] | [[Ezra 1| Ezra 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/36?lang=eng)
 

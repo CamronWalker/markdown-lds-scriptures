@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 11| <-- Luke 11]] | [[Luke]] | [[Luke 13| Luke 13 -->]]
+[[Luke 11| ← Luke 11]] | [[Luke]] | [[Luke 13| Luke 13 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=eng)
 

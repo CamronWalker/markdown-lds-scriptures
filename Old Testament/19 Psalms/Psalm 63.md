@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 62| <-- Psalm 62]] | [[Psalms]] | [[Psalm 64| Psalm 64 -->]]
+[[Psalm 62| ← Psalm 62]] | [[Psalms]] | [[Psalm 64| Psalm 64 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/63?lang=eng)
 

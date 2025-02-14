@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 1| <-- Jeremiah 1]] | [[Jeremiah]] | [[Jeremiah 3| Jeremiah 3 -->]]
+[[Jeremiah 1| ← Jeremiah 1]] | [[Jeremiah]] | [[Jeremiah 3| Jeremiah 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=eng)
 

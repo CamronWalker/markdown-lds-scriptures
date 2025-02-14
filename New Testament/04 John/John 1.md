@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 24| <-- Luke 24]] | [[John]] | [[John 2| John 2 -->]]
+[[Luke 24| ← Luke 24]] | [[John]] | [[John 2| John 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/1?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 36| <-- Exodus 36]] | [[Exodus]] | [[Exodus 38| Exodus 38 -->]]
+[[Exodus 36| ← Exodus 36]] | [[Exodus]] | [[Exodus 38| Exodus 38 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/37?lang=eng)
 

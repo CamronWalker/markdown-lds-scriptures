@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Esther 9| <-- Esther 9]] | [[Esther]] | [[Job 1| Job 1 -->]]
+[[Esther 9| ← Esther 9]] | [[Esther]] | [[Job 1| Job 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/10?lang=eng)
 

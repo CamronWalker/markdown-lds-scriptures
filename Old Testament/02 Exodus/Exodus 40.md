@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 39| <-- Exodus 39]] | [[Exodus]] | [[Leviticus 1| Leviticus 1 -->]]
+[[Exodus 39| ← Exodus 39]] | [[Exodus]] | [[Leviticus 1| Leviticus 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/40?lang=eng)
 

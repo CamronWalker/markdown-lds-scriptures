@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 26| <-- Isaiah 26]] | [[Isaiah]] | [[Isaiah 28| Isaiah 28 -->]]
+[[Isaiah 26| ← Isaiah 26]] | [[Isaiah]] | [[Isaiah 28| Isaiah 28 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/27?lang=eng)
 

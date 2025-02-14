@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 9| <-- Job 9]] | [[Job]] | [[Job 11| Job 11 -->]]
+[[Job 9| ← Job 9]] | [[Job]] | [[Job 11| Job 11 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/10?lang=eng)
 

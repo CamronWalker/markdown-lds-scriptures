@@ -1,17 +1,12 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 13
-13 13 The First Epistle of Paul the Apostle to the Thessalonians
-Next
-
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Thessalonians 4| <-- 1 Thessalonians 4]] | [[1 Thessalonians]] | [[2 Thessalonians 1| 2 Thessalonians 1 -->]]
+[[1 Thessalonians 4| ← 1 Thessalonians 4]] | [[1 Thessalonians]] | [[2 Thessalonians 1| 2 Thessalonians 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=eng)
 

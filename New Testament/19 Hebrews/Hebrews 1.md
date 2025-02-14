@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Philemon 1| <-- Philemon 1]] | [[Hebrews]] | [[Hebrews 2| Hebrews 2 -->]]
+[[Philemon 1| ← Philemon 1]] | [[Hebrews]] | [[Hebrews 2| Hebrews 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/1?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 26| <-- 2 Chronicles 26]] | [[2 Chronicles]] | [[2 Chronicles 28| 2 Chronicles 28 -->]]
+[[2 Chronicles 26| ← 2 Chronicles 26]] | [[2 Chronicles]] | [[2 Chronicles 28| 2 Chronicles 28 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/27?lang=eng)
 

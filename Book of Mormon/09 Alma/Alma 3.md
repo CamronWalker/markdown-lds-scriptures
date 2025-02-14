@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Alma 2| <-- Alma 2]] | [[Alma]] | [[Alma 4| Alma 4 -->]]
+[[Alma 2| ← Alma 2]] | [[Alma]] | [[Alma 4| Alma 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=eng)
 

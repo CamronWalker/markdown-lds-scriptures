@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 30| <-- Genesis 30]] | [[Genesis]] | [[Genesis 32| Genesis 32 -->]]
+[[Genesis 30| ← Genesis 30]] | [[Genesis]] | [[Genesis 32| Genesis 32 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/31?lang=eng)
 

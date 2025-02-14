@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 24| <-- Proverbs 24]] | [[Proverbs]] | [[Proverbs 26| Proverbs 26 -->]]
+[[Proverbs 24| ← Proverbs 24]] | [[Proverbs]] | [[Proverbs 26| Proverbs 26 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/25?lang=eng)
 

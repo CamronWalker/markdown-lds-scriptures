@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[John 2| <-- John 2]] | [[John]] | [[John 4| John 4 -->]]
+[[John 2| ← John 2]] | [[John]] | [[John 4| John 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng)
 

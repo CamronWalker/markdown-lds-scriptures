@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 33| <-- 2 Chronicles 33]] | [[2 Chronicles]] | [[2 Chronicles 35| 2 Chronicles 35 -->]]
+[[2 Chronicles 33| ← 2 Chronicles 33]] | [[2 Chronicles]] | [[2 Chronicles 35| 2 Chronicles 35 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/34?lang=eng)
 

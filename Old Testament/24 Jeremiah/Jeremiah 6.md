@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 5| <-- Jeremiah 5]] | [[Jeremiah]] | [[Jeremiah 7| Jeremiah 7 -->]]
+[[Jeremiah 5| ← Jeremiah 5]] | [[Jeremiah]] | [[Jeremiah 7| Jeremiah 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/6?lang=eng)
 

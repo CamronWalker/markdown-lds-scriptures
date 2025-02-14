@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Mosiah 16| <-- Mosiah 16]] | [[Mosiah]] | [[Mosiah 18| Mosiah 18 -->]]
+[[Mosiah 16| ← Mosiah 16]] | [[Mosiah]] | [[Mosiah 18| Mosiah 18 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=eng)
 

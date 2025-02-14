@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 3| <-- Exodus 3]] | [[Exodus]] | [[Exodus 5| Exodus 5 -->]]
+[[Exodus 3| ← Exodus 3]] | [[Exodus]] | [[Exodus 5| Exodus 5 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/4?lang=eng)
 

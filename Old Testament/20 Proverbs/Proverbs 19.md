@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 18| <-- Proverbs 18]] | [[Proverbs]] | [[Proverbs 20| Proverbs 20 -->]]
+[[Proverbs 18| ← Proverbs 18]] | [[Proverbs]] | [[Proverbs 20| Proverbs 20 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/19?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 76| <-- Psalm 76]] | [[Psalms]] | [[Psalm 78| Psalm 78 -->]]
+[[Psalm 76| ← Psalm 76]] | [[Psalms]] | [[Psalm 78| Psalm 78 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/77?lang=eng)
 

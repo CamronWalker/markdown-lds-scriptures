@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/PoGP
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Moses 8| <-- Moses 8]] | [[Abraham]] | [[Abraham 2| Abraham 2 -->]]
+[[Moses 8| ← Moses 8]] | [[Abraham]] | [[Abraham 2| Abraham 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=eng)
 

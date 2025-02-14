@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 85| <-- Psalm 85]] | [[Psalms]] | [[Psalm 87| Psalm 87 -->]]
+[[Psalm 85| ← Psalm 85]] | [[Psalms]] | [[Psalm 87| Psalm 87 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/86?lang=eng)
 

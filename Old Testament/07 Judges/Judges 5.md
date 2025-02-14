@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Judges 4| <-- Judges 4]] | [[Judges]] | [[Judges 6| Judges 6 -->]]
+[[Judges 4| ← Judges 4]] | [[Judges]] | [[Judges 6| Judges 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/5?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 34| <-- Deuteronomy 34]] | [[Joshua]] | [[Joshua 2| Joshua 2 -->]]
+[[Deuteronomy 34| ← Deuteronomy 34]] | [[Joshua]] | [[Joshua 2| Joshua 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng)
 

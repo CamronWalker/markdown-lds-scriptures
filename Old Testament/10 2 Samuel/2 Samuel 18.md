@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Samuel 17| <-- 2 Samuel 17]] | [[2 Samuel]] | [[2 Samuel 19| 2 Samuel 19 -->]]
+[[2 Samuel 17| ← 2 Samuel 17]] | [[2 Samuel]] | [[2 Samuel 19| 2 Samuel 19 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-sam/18?lang=eng)
 

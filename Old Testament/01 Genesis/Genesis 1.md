@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[New File Na| <-- New File Na]] | [[Genesis]] | [[Genesis 2| Genesis 2 -->]]
+[[New File Na| ← New File Na]] | [[Genesis]] | [[Genesis 2| Genesis 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng)
 

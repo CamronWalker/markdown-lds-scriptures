@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 150| <-- Psalm 150]] | [[Proverbs]] | [[Proverbs 2| Proverbs 2 -->]]
+[[Psalm 150| ← Psalm 150]] | [[Proverbs]] | [[Proverbs 2| Proverbs 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/1?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Lamentations 2| <-- Lamentations 2]] | [[Lamentations]] | [[Lamentations 4| Lamentations 4 -->]]
+[[Lamentations 2| ← Lamentations 2]] | [[Lamentations]] | [[Lamentations 4| Lamentations 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=eng)
 

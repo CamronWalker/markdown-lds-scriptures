@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Daniel 12| <-- Daniel 12]] | [[Hosea]] | [[Hosea 2| Hosea 2 -->]]
+[[Daniel 12| ← Daniel 12]] | [[Hosea]] | [[Hosea 2| Hosea 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/1?lang=eng)
 

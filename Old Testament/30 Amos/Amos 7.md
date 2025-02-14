@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Amos 6| <-- Amos 6]] | [[Amos]] | [[Amos 8| Amos 8 -->]]
+[[Amos 6| ← Amos 6]] | [[Amos]] | [[Amos 8| Amos 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/7?lang=eng)
 

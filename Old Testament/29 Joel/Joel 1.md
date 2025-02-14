@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Hosea 14| <-- Hosea 14]] | [[Joel]] | [[Joel 2| Joel 2 -->]]
+[[Hosea 14| ← Hosea 14]] | [[Joel]] | [[Joel 2| Joel 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/joel/1?lang=eng)
 

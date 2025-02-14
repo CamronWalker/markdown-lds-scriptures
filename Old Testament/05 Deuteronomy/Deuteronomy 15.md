@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 14| <-- Deuteronomy 14]] | [[Deuteronomy]] | [[Deuteronomy 16| Deuteronomy 16 -->]]
+[[Deuteronomy 14| ← Deuteronomy 14]] | [[Deuteronomy]] | [[Deuteronomy 16| Deuteronomy 16 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/15?lang=eng)
 

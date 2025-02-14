@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 52| <-- Jeremiah 52]] | [[Lamentations]] | [[Lamentations 2| Lamentations 2 -->]]
+[[Jeremiah 52| ← Jeremiah 52]] | [[Lamentations]] | [[Lamentations 2| Lamentations 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=eng)
 

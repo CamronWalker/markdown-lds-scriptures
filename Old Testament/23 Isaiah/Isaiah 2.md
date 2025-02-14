@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 1| <-- Isaiah 1]] | [[Isaiah]] | [[Isaiah 3| Isaiah 3 -->]]
+[[Isaiah 1| ← Isaiah 1]] | [[Isaiah]] | [[Isaiah 3| Isaiah 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/2?lang=eng)
 

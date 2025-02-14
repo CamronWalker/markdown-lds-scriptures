@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezra 1| <-- Ezra 1]] | [[Ezra]] | [[Ezra 3| Ezra 3 -->]]
+[[Ezra 1| ← Ezra 1]] | [[Ezra]] | [[Ezra 3| Ezra 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezra/2?lang=eng)
 

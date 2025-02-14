@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Leviticus 11| <-- Leviticus 11]] | [[Leviticus]] | [[Leviticus 13| Leviticus 13 -->]]
+[[Leviticus 11| ← Leviticus 11]] | [[Leviticus]] | [[Leviticus 13| Leviticus 13 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/12?lang=eng)
 

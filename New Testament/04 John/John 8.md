@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[John 7| <-- John 7]] | [[John]] | [[John 9| John 9 -->]]
+[[John 7| ← John 7]] | [[John]] | [[John 9| John 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/8?lang=eng)
 

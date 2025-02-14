@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Numbers 26| <-- Numbers 26]] | [[Numbers]] | [[Numbers 28| Numbers 28 -->]]
+[[Numbers 26| ← Numbers 26]] | [[Numbers]] | [[Numbers 28| Numbers 28 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/27?lang=eng)
 

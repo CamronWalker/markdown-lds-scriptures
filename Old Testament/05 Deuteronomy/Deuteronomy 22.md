@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 21| <-- Deuteronomy 21]] | [[Deuteronomy]] | [[Deuteronomy 23| Deuteronomy 23 -->]]
+[[Deuteronomy 21| ← Deuteronomy 21]] | [[Deuteronomy]] | [[Deuteronomy 23| Deuteronomy 23 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/22?lang=eng)
 

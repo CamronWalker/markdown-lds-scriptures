@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 23| <-- Exodus 23]] | [[Exodus]] | [[Exodus 25| Exodus 25 -->]]
+[[Exodus 23| ← Exodus 23]] | [[Exodus]] | [[Exodus 25| Exodus 25 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/24?lang=eng)
 

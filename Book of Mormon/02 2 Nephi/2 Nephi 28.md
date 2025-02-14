@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Nephi 27| <-- 2 Nephi 27]] | [[2 Nephi]] | [[2 Nephi 29| 2 Nephi 29 -->]]
+[[2 Nephi 27| ← 2 Nephi 27]] | [[2 Nephi]] | [[2 Nephi 29| 2 Nephi 29 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=eng)
 
@@ -42,9 +43,9 @@ cssclasses:
 ###### 15
 15 O the wise, and the learned, and the rich, that are puffed up in the pride of their hearts, and all those who preach false doctrines, and all those who commit whoredoms, and pervert the right way of the Lord, wo, wo, wo be unto them, saith the Lord God Almighty, for they shall be thrust down to hell!
 ###### 16
-16 Wo unto them that turn aside the just for a thing of naught and revile against that which is good, and say that it is of no worth! For the day shall come that the Lord God will speedily visit the inhabitants of the earth; and in that day that they are fully ripe in iniquity they shall perish.
+16 Wo unto them that turn aside the just for a thing of naught and revile against that which is good, and say that it is of no worth! For the day shall come that the Lord God will speedily visit the [[All People of Earth|inhabitants of the earth]]; and in that day that they are fully ripe in iniquity they shall perish.
 ###### 17
-17 But behold, if the inhabitants of the earth shall repent of their wickedness and abominations they shall not be destroyed, saith the Lord of Hosts.
+17 But behold, if the [[All People of Earth|inhabitants of the earth]] shall repent of their wickedness and abominations they shall not be destroyed, saith the Lord of Hosts.
 ###### 18
 18 But behold, that great and abominable church, the whore of all the earth, must tumble to the earth, and great must be the fall thereof.
 ###### 19

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 26| <-- Ezekiel 26]] | [[Ezekiel]] | [[Ezekiel 28| Ezekiel 28 -->]]
+[[Ezekiel 26| ← Ezekiel 26]] | [[Ezekiel]] | [[Ezekiel 28| Ezekiel 28 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/27?lang=eng)
 

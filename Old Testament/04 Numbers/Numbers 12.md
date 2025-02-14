@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Numbers 11| <-- Numbers 11]] | [[Numbers]] | [[Numbers 13| Numbers 13 -->]]
+[[Numbers 11| ← Numbers 11]] | [[Numbers]] | [[Numbers 13| Numbers 13 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/12?lang=eng)
 

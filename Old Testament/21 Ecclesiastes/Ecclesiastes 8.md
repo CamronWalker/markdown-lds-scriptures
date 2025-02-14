@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ecclesiastes 7| <-- Ecclesiastes 7]] | [[Ecclesiastes]] | [[Ecclesiastes 9| Ecclesiastes 9 -->]]
+[[Ecclesiastes 7| ← Ecclesiastes 7]] | [[Ecclesiastes]] | [[Ecclesiastes 9| Ecclesiastes 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/8?lang=eng)
 

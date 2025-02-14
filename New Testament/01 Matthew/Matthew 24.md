@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Matthew 23| <-- Matthew 23]] | [[Matthew]] | [[Matthew 25| Matthew 25 -->]]
+[[Matthew 23| ← Matthew 23]] | [[Matthew]] | [[Matthew 25| Matthew 25 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=eng)
 
@@ -81,10 +82,12 @@ cssclasses:
 34 Verily I say unto you, This generation shall not pass, till all these things be fulfilled.
 ###### 35
 35 Heaven and earth shall pass away, but my words shall not pass away.
+##### 36-37
 ###### 36
 36 ¶ But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.
 ###### 37
 37 But as the days of Noe were, so shall also the coming of the Son of man be.
+##### End 36-37
 ###### 38
 38 For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
 ###### 39

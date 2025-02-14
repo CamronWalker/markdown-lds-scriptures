@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Malachi 2| <-- Malachi 2]] | [[Malachi]] | [[Malachi 4| Malachi 4 -->]]
+[[Malachi 2| ← Malachi 2]] | [[Malachi]] | [[Malachi 4| Malachi 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/4?lang=eng)
 

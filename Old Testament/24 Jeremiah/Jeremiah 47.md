@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 46| <-- Jeremiah 46]] | [[Jeremiah]] | [[Jeremiah 48| Jeremiah 48 -->]]
+[[Jeremiah 46| ← Jeremiah 46]] | [[Jeremiah]] | [[Jeremiah 48| Jeremiah 48 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/47?lang=eng)
 

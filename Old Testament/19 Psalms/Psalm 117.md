@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 116| <-- Psalm 116]] | [[Psalms]] | [[Psalm 118| Psalm 118 -->]]
+[[Psalm 116| ← Psalm 116]] | [[Psalms]] | [[Psalm 118| Psalm 118 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/117?lang=eng)
 

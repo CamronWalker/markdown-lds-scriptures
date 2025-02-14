@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 148| <-- Psalm 148]] | [[Psalms]] | [[Psalm 150| Psalm 150 -->]]
+[[Psalm 148| ← Psalm 148]] | [[Psalms]] | [[Psalm 150| Psalm 150 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/149?lang=eng)
 

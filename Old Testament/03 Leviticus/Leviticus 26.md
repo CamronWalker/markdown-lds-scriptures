@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Leviticus 25| <-- Leviticus 25]] | [[Leviticus]] | [[Leviticus 27| Leviticus 27 -->]]
+[[Leviticus 25| ← Leviticus 25]] | [[Leviticus]] | [[Leviticus 27| Leviticus 27 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/26?lang=eng)
 

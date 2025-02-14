@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/PoGP
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Moses 5| <-- Moses 5]] | [[Moses]] | [[Moses 7| Moses 7 -->]]
+[[Moses 5| ← Moses 5]] | [[Moses]] | [[Moses 7| Moses 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng)
 

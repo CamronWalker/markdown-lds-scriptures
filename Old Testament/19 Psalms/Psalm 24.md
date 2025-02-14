@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 23| <-- Psalm 23]] | [[Psalms]] | [[Psalm 25| Psalm 25 -->]]
+[[Psalm 23| ← Psalm 23]] | [[Psalms]] | [[Psalm 25| Psalm 25 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=eng)
 

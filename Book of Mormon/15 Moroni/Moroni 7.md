@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Moroni 6| <-- Moroni 6]] | [[Moroni]] | [[Moroni 8| Moroni 8 -->]]
+[[Moroni 6| ← Moroni 6]] | [[Moroni]] | [[Moroni 8| Moroni 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/7?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 3| <-- Ezekiel 3]] | [[Ezekiel]] | [[Ezekiel 5| Ezekiel 5 -->]]
+[[Ezekiel 3| ← Ezekiel 3]] | [[Ezekiel]] | [[Ezekiel 5| Ezekiel 5 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/4?lang=eng)
 

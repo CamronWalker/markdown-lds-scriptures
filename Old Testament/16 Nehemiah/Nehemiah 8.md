@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Nehemiah 7| <-- Nehemiah 7]] | [[Nehemiah]] | [[Nehemiah 9| Nehemiah 9 -->]]
+[[Nehemiah 7| ← Nehemiah 7]] | [[Nehemiah]] | [[Nehemiah 9| Nehemiah 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/8?lang=eng)
 

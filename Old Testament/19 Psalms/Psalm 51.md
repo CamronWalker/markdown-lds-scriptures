@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 50| <-- Psalm 50]] | [[Psalms]] | [[Psalm 52| Psalm 52 -->]]
+[[Psalm 50| ← Psalm 50]] | [[Psalms]] | [[Psalm 52| Psalm 52 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/51?lang=eng)
 

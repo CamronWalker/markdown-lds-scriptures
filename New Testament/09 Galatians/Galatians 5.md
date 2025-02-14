@@ -1,17 +1,12 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 9
-9 9 The Epistle of Paul the Apostle to the Galatians
-Next
-
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Galatians 4| <-- Galatians 4]] | [[Galatians]] | [[Galatians 6| Galatians 6 -->]]
+[[Galatians 4| ← Galatians 4]] | [[Galatians]] | [[Galatians 6| Galatians 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/gal/5?lang=eng)
 

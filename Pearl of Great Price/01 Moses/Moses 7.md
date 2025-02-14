@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/PoGP
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Moses 6| <-- Moses 6]] | [[Moses]] | [[Moses 8| Moses 8 -->]]
+[[Moses 6| ← Moses 6]] | [[Moses]] | [[Moses 8| Moses 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng)
 
@@ -52,7 +53,7 @@ cssclasses:
 ###### 20
 20 And it came to pass that Enoch talked with the Lord; and he said unto the Lord: Surely Zion shall dwell in safety forever. But the Lord said unto Enoch: Zion have I blessed, but the residue of the people have I cursed.
 ###### 21
-21 And it came to pass that the Lord showed unto Enoch all the inhabitants of the earth; and he beheld, and lo, Zion, in process of time, was taken up into heaven. And the Lord said unto Enoch: Behold mine abode forever.
+21 And it came to pass that the Lord showed unto Enoch all the [[All People of Earth|inhabitants of the earth]]; and he beheld, and lo, Zion, in process of time, was taken up into heaven. And the Lord said unto Enoch: Behold mine abode forever.
 ###### 22
 22 And Enoch also beheld the residue of the people which were the sons of Adam; and they were a mixture of all the seed of Adam save it was the seed of Cain, for the seed of Cain were black, and had not place among them.
 ###### 23
@@ -60,7 +61,7 @@ cssclasses:
 ###### 24
 24 And there came generation upon generation; and Enoch was high and lifted up, even in the bosom of the Father, and of the Son of Man; and behold, the power of Satan was upon all the face of the earth.
 ###### 25
-25 And he saw angels descending out of heaven; and he heard a loud voice saying: Wo, wo be unto the inhabitants of the earth.
+25 And he saw angels descending out of heaven; and he heard a loud voice saying: Wo, wo be unto the [[All People of Earth|inhabitants of the earth]].
 ###### 26
 26 And he beheld Satan; and he had a great chain in his hand, and it veiled the whole face of the earth with darkness; and he looked up and laughed, and his angels rejoiced.
 ###### 27

@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jarom 1| <-- Jarom 1]] | [[Omni]] | [[Words of Mormon 1| Words of Mormon 1 -->]]
+[[Jarom 1| ← Jarom 1]] | [[Omni]] | [[Words of Mormon 1| Words of Mormon 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=eng)
 

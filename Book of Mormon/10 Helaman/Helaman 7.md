@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Helaman 6| <-- Helaman 6]] | [[Helaman]] | [[Helaman 8| Helaman 8 -->]]
+[[Helaman 6| ← Helaman 6]] | [[Helaman]] | [[Helaman 8| Helaman 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/7?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 19| <-- Genesis 19]] | [[Genesis]] | [[Genesis 21| Genesis 21 -->]]
+[[Genesis 19| ← Genesis 19]] | [[Genesis]] | [[Genesis 21| Genesis 21 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/20?lang=eng)
 

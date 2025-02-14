@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 24| <-- Deuteronomy 24]] | [[Deuteronomy]] | [[Deuteronomy 26| Deuteronomy 26 -->]]
+[[Deuteronomy 24| ← Deuteronomy 24]] | [[Deuteronomy]] | [[Deuteronomy 26| Deuteronomy 26 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/25?lang=eng)
 

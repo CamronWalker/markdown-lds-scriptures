@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Nephi 16| <-- 1 Nephi 16]] | [[1 Nephi]] | [[1 Nephi 18| 1 Nephi 18 -->]]
+[[1 Nephi 16| ← 1 Nephi 16]] | [[1 Nephi]] | [[1 Nephi 18| 1 Nephi 18 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng)
 

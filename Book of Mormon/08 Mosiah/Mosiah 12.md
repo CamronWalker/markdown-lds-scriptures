@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Mosiah 11| <-- Mosiah 11]] | [[Mosiah]] | [[Mosiah 13| Mosiah 13 -->]]
+[[Mosiah 11| ← Mosiah 11]] | [[Mosiah]] | [[Mosiah 13| Mosiah 13 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/12?lang=eng)
 

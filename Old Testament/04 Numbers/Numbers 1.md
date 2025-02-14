@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Leviticus 27| <-- Leviticus 27]] | [[Numbers]] | [[Numbers 2| Numbers 2 -->]]
+[[Leviticus 27| ← Leviticus 27]] | [[Numbers]] | [[Numbers 2| Numbers 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/1?lang=eng)
 

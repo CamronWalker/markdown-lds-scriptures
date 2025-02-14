@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 16| <-- Proverbs 16]] | [[Proverbs]] | [[Proverbs 18| Proverbs 18 -->]]
+[[Proverbs 16| ← Proverbs 16]] | [[Proverbs]] | [[Proverbs 18| Proverbs 18 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/17?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 31| <-- Psalm 31]] | [[Psalms]] | [[Psalm 33| Psalm 33 -->]]
+[[Psalm 31| ← Psalm 31]] | [[Psalms]] | [[Psalm 33| Psalm 33 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/32?lang=eng)
 

@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 26| <-- Acts 26]] | [[Acts]] | [[Acts 28| Acts 28 -->]]
+[[Acts 26| ← Acts 26]] | [[Acts]] | [[Acts 28| Acts 28 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/27?lang=eng)
 

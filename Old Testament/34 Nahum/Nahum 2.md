@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Nahum 1| <-- Nahum 1]] | [[Nahum]] | [[Nahum 3| Nahum 3 -->]]
+[[Nahum 1| ← Nahum 1]] | [[Nahum]] | [[Nahum 3| Nahum 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/nahum/2?lang=eng)
 

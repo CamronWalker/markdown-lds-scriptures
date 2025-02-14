@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Mosiah 28| <-- Mosiah 28]] | [[Mosiah]] | [[Alma 1| Alma 1 -->]]
+[[Mosiah 28| ← Mosiah 28]] | [[Mosiah]] | [[Alma 1| Alma 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/29?lang=eng)
 

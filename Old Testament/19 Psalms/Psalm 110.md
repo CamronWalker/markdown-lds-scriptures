@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 109| <-- Psalm 109]] | [[Psalms]] | [[Psalm 111| Psalm 111 -->]]
+[[Psalm 109| ← Psalm 109]] | [[Psalms]] | [[Psalm 111| Psalm 111 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/110?lang=eng)
 

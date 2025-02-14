@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 45| <-- Psalm 45]] | [[Psalms]] | [[Psalm 47| Psalm 47 -->]]
+[[Psalm 45| ← Psalm 45]] | [[Psalms]] | [[Psalm 47| Psalm 47 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/46?lang=eng)
 

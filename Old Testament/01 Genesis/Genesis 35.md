@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 34| <-- Genesis 34]] | [[Genesis]] | [[Genesis 36| Genesis 36 -->]]
+[[Genesis 34| ← Genesis 34]] | [[Genesis]] | [[Genesis 36| Genesis 36 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/35?lang=eng)
 

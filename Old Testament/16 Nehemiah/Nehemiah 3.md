@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Nehemiah 2| <-- Nehemiah 2]] | [[Nehemiah]] | [[Nehemiah 4| Nehemiah 4 -->]]
+[[Nehemiah 2| ← Nehemiah 2]] | [[Nehemiah]] | [[Nehemiah 4| Nehemiah 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/3?lang=eng)
 

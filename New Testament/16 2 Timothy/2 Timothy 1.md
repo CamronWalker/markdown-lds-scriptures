@@ -1,13 +1,12 @@
-Chapter ###### 16
-16 16 The Second Epistle of Paul the Apostle to Timothy
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Timothy 6| <-- 1 Timothy 6]] | [[2 Timothy]] | [[2 Timothy 2| 2 Timothy 2 -->]]
+[[1 Timothy 6| ← 1 Timothy 6]] | [[2 Timothy]] | [[2 Timothy 2| 2 Timothy 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-tim/1?lang=eng)
 

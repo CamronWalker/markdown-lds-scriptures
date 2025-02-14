@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 47| <-- Genesis 47]] | [[Genesis]] | [[Genesis 49| Genesis 49 -->]]
+[[Genesis 47| ← Genesis 47]] | [[Genesis]] | [[Genesis 49| Genesis 49 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/48?lang=eng)
 

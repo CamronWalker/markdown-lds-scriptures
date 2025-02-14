@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Song of Solomon 5| <-- Song of Solomon 5]] | [[Song of Solomon]] | [[Song of Solomon 7| Song of Solomon 7 -->]]
+[[Song of Solomon 5| ← Song of Solomon 5]] | [[Song of Solomon]] | [[Song of Solomon 7| Song of Solomon 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/6?lang=eng)
 

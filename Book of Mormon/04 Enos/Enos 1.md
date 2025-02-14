@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jacob 7| <-- Jacob 7]] | [[Enos]] | [[Jarom 1| Jarom 1 -->]]
+[[Jacob 7| ← Jacob 7]] | [[Enos]] | [[Jarom 1| Jarom 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/enos/1?lang=eng)
 

@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Hebrews 9| <-- Hebrews 9]] | [[Hebrews]] | [[Hebrews 11| Hebrews 11 -->]]
+[[Hebrews 9| ← Hebrews 9]] | [[Hebrews]] | [[Hebrews 11| Hebrews 11 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/10?lang=eng)
 

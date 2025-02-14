@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 31| <-- Ezekiel 31]] | [[Ezekiel]] | [[Ezekiel 33| Ezekiel 33 -->]]
+[[Ezekiel 31| ← Ezekiel 31]] | [[Ezekiel]] | [[Ezekiel 33| Ezekiel 33 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/32?lang=eng)
 

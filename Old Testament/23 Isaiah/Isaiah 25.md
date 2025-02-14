@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 24| <-- Isaiah 24]] | [[Isaiah]] | [[Isaiah 26| Isaiah 26 -->]]
+[[Isaiah 24| ← Isaiah 24]] | [[Isaiah]] | [[Isaiah 26| Isaiah 26 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=eng)
 

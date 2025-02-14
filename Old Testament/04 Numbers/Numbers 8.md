@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Numbers 7| <-- Numbers 7]] | [[Numbers]] | [[Numbers 9| Numbers 9 -->]]
+[[Numbers 7| ← Numbers 7]] | [[Numbers]] | [[Numbers 9| Numbers 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/8?lang=eng)
 

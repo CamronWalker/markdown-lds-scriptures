@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 7| <-- Acts 7]] | [[Acts]] | [[Acts 9| Acts 9 -->]]
+[[Acts 7| ← Acts 7]] | [[Acts]] | [[Acts 9| Acts 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/8?lang=eng)
 

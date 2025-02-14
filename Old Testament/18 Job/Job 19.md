@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 18| <-- Job 18]] | [[Job]] | [[Job 20| Job 20 -->]]
+[[Job 18| ← Job 18]] | [[Job]] | [[Job 20| Job 20 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/19?lang=eng)
 

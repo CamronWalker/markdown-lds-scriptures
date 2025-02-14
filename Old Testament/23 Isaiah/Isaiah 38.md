@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 37| <-- Isaiah 37]] | [[Isaiah]] | [[Isaiah 39| Isaiah 39 -->]]
+[[Isaiah 37| ← Isaiah 37]] | [[Isaiah]] | [[Isaiah 39| Isaiah 39 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/38?lang=eng)
 

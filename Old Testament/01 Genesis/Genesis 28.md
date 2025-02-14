@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 27| <-- Genesis 27]] | [[Genesis]] | [[Genesis 29| Genesis 29 -->]]
+[[Genesis 27| ← Genesis 27]] | [[Genesis]] | [[Genesis 29| Genesis 29 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/28?lang=eng)
 

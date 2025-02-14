@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Joshua 14| <-- Joshua 14]] | [[Joshua]] | [[Joshua 16| Joshua 16 -->]]
+[[Joshua 14| ← Joshua 14]] | [[Joshua]] | [[Joshua 16| Joshua 16 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/15?lang=eng)
 

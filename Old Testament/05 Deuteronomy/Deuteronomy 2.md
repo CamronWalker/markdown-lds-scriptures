@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 1| <-- Deuteronomy 1]] | [[Deuteronomy]] | [[Deuteronomy 3| Deuteronomy 3 -->]]
+[[Deuteronomy 1| ← Deuteronomy 1]] | [[Deuteronomy]] | [[Deuteronomy 3| Deuteronomy 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/2?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 28| <-- Proverbs 28]] | [[Proverbs]] | [[Proverbs 30| Proverbs 30 -->]]
+[[Proverbs 28| ← Proverbs 28]] | [[Proverbs]] | [[Proverbs 30| Proverbs 30 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/29?lang=eng)
 

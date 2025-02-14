@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Matthew 16| <-- Matthew 16]] | [[Matthew]] | [[Matthew 18| Matthew 18 -->]]
+[[Matthew 16| ← Matthew 16]] | [[Matthew]] | [[Matthew 18| Matthew 18 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/17?lang=eng)
 

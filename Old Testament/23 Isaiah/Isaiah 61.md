@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 60| <-- Isaiah 60]] | [[Isaiah]] | [[Isaiah 62| Isaiah 62 -->]]
+[[Isaiah 60| ← Isaiah 60]] | [[Isaiah]] | [[Isaiah 62| Isaiah 62 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/61?lang=eng)
 

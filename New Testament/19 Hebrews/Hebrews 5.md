@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Hebrews 4| <-- Hebrews 4]] | [[Hebrews]] | [[Hebrews 6| Hebrews 6 -->]]
+[[Hebrews 4| ← Hebrews 4]] | [[Hebrews]] | [[Hebrews 6| Hebrews 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/5?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 66| <-- Isaiah 66]] | [[Jeremiah]] | [[Jeremiah 2| Jeremiah 2 -->]]
+[[Isaiah 66| ← Isaiah 66]] | [[Jeremiah]] | [[Jeremiah 2| Jeremiah 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng)
 

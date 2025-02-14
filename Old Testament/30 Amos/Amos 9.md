@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Amos 8| <-- Amos 8]] | [[Amos]] | [[Obadiah 1| Obadiah 1 -->]]
+[[Amos 8| ← Amos 8]] | [[Amos]] | [[Obadiah 1| Obadiah 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/9?lang=eng)
 

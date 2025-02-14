@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Joel 2| <-- Joel 2]] | [[Joel]] | [[Amos 1| Amos 1 -->]]
+[[Joel 2| ← Joel 2]] | [[Joel]] | [[Amos 1| Amos 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/joel/3?lang=eng)
 

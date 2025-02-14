@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Titus 1| <-- Titus 1]] | [[Titus]] | [[Titus 3| Titus 3 -->]]
+[[Titus 1| ← Titus 1]] | [[Titus]] | [[Titus 3| Titus 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/titus/2?lang=eng)
 

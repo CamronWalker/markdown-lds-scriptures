@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Mosiah 23| <-- Mosiah 23]] | [[Mosiah]] | [[Mosiah 25| Mosiah 25 -->]]
+[[Mosiah 23| ← Mosiah 23]] | [[Mosiah]] | [[Mosiah 25| Mosiah 25 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/24?lang=eng)
 

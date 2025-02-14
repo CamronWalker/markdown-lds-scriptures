@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Numbers 35| <-- Numbers 35]] | [[Numbers]] | [[Deuteronomy 1| Deuteronomy 1 -->]]
+[[Numbers 35| ← Numbers 35]] | [[Numbers]] | [[Deuteronomy 1| Deuteronomy 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/36?lang=eng)
 

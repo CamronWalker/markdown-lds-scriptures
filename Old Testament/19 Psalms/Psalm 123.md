@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 122| <-- Psalm 122]] | [[Psalms]] | [[Psalm 124| Psalm 124 -->]]
+[[Psalm 122| ← Psalm 122]] | [[Psalms]] | [[Psalm 124| Psalm 124 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/123?lang=eng)
 

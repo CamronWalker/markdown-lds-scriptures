@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jude 1| <-- Jude 1]] | [[Revelation]] | [[Revelation 2| Revelation 2 -->]]
+[[Jude 1| ← Jude 1]] | [[Revelation]] | [[Revelation 2| Revelation 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/1?lang=eng)
 

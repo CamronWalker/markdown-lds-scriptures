@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 38| <-- Jeremiah 38]] | [[Jeremiah]] | [[Jeremiah 40| Jeremiah 40 -->]]
+[[Jeremiah 38| ← Jeremiah 38]] | [[Jeremiah]] | [[Jeremiah 40| Jeremiah 40 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/39?lang=eng)
 

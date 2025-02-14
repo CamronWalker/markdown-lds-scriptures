@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 141| <-- Psalm 141]] | [[Psalms]] | [[Psalm 143| Psalm 143 -->]]
+[[Psalm 141| ← Psalm 141]] | [[Psalms]] | [[Psalm 143| Psalm 143 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/142?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 58| <-- Isaiah 58]] | [[Isaiah]] | [[Isaiah 60| Isaiah 60 -->]]
+[[Isaiah 58| ← Isaiah 58]] | [[Isaiah]] | [[Isaiah 60| Isaiah 60 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/59?lang=eng)
 

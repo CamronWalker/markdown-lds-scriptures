@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Hebrews 12| <-- Hebrews 12]] | [[Hebrews]] | [[James 1| James 1 -->]]
+[[Hebrews 12| ← Hebrews 12]] | [[Hebrews]] | [[James 1| James 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/heb/13?lang=eng)
 

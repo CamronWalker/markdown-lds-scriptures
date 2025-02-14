@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 6| <-- 2 Chronicles 6]] | [[2 Chronicles]] | [[2 Chronicles 8| 2 Chronicles 8 -->]]
+[[2 Chronicles 6| ← 2 Chronicles 6]] | [[2 Chronicles]] | [[2 Chronicles 8| 2 Chronicles 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/7?lang=eng)
 

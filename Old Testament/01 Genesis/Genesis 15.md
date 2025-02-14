@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 14| <-- Genesis 14]] | [[Genesis]] | [[Genesis 16| Genesis 16 -->]]
+[[Genesis 14| ← Genesis 14]] | [[Genesis]] | [[Genesis 16| Genesis 16 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/15?lang=eng)
 

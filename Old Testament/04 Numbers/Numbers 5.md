@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Numbers 4| <-- Numbers 4]] | [[Numbers]] | [[Numbers 6| Numbers 6 -->]]
+[[Numbers 4| ← Numbers 4]] | [[Numbers]] | [[Numbers 6| Numbers 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/5?lang=eng)
 

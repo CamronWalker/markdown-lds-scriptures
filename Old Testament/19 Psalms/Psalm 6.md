@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 5| <-- Psalm 5]] | [[Psalms]] | [[Psalm 7| Psalm 7 -->]]
+[[Psalm 5| ← Psalm 5]] | [[Psalms]] | [[Psalm 7| Psalm 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/6?lang=eng)
 

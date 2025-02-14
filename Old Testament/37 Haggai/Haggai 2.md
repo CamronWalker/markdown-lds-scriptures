@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Haggai 1| <-- Haggai 1]] | [[Haggai]] | [[Zechariah 1| Zechariah 1 -->]]
+[[Haggai 1| ← Haggai 1]] | [[Haggai]] | [[Zechariah 1| Zechariah 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hag/2?lang=eng)
 

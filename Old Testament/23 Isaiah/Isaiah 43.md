@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 42| <-- Isaiah 42]] | [[Isaiah]] | [[Isaiah 44| Isaiah 44 -->]]
+[[Isaiah 42| ← Isaiah 42]] | [[Isaiah]] | [[Isaiah 44| Isaiah 44 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=eng)
 

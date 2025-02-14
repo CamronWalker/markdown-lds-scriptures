@@ -1,17 +1,12 @@
-The Scriptures: The New Testament
-Prev
-Chapter ###### 6
-6 6 The Epistle of Paul the Apostle to the Romans
-Next
-
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Romans 13| <-- Romans 13]] | [[Romans]] | [[Romans 15| Romans 15 -->]]
+[[Romans 13| ← Romans 13]] | [[Romans]] | [[Romans 15| Romans 15 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rom/14?lang=eng)
 

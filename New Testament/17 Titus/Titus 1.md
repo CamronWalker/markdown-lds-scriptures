@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Timothy 4| <-- 2 Timothy 4]] | [[Titus]] | [[Titus 2| Titus 2 -->]]
+[[2 Timothy 4| ← 2 Timothy 4]] | [[Titus]] | [[Titus 2| Titus 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/titus/1?lang=eng)
 

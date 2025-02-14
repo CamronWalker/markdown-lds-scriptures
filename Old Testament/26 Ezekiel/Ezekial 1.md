@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Lamentations 5| <-- Lamentations 5]] | [[Ezekiel]] | [[Ezekiel 2| Ezekiel 2 -->]]
+[[Lamentations 5| ← Lamentations 5]] | [[Ezekiel]] | [[Ezekiel 2| Ezekiel 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/1?lang=eng)
 

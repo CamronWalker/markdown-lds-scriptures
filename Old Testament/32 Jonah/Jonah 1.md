@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Obadiah 1| <-- Obadiah 1]] | [[Jonah]] | [[Jonah 2| Jonah 2 -->]]
+[[Obadiah 1| ← Obadiah 1]] | [[Jonah]] | [[Jonah 2| Jonah 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jonah/1?lang=eng)
 

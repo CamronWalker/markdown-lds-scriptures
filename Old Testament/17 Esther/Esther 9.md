@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Esther 8| <-- Esther 8]] | [[Esther]] | [[Esther 10| Esther 10 -->]]
+[[Esther 8| ← Esther 8]] | [[Esther]] | [[Esther 10| Esther 10 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/esth/9?lang=eng)
 

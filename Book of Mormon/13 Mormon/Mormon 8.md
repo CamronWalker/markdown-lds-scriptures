@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Mormon 7| <-- Mormon 7]] | [[Mormon]] | [[Mormon 9| Mormon 9 -->]]
+[[Mormon 7| ← Mormon 7]] | [[Mormon]] | [[Mormon 9| Mormon 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/morm/8?lang=eng)
 

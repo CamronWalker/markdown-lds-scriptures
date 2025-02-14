@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 28| <-- Psalm 28]] | [[Psalms]] | [[Psalm 30| Psalm 30 -->]]
+[[Psalm 28| ← Psalm 28]] | [[Psalms]] | [[Psalm 30| Psalm 30 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/29?lang=eng)
 

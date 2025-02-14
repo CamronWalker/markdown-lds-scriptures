@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Lamentations 4| <-- Lamentations 4]] | [[Lamentations]] | [[Ezekial 1| Ezekial 1 -->]]
+[[Lamentations 4| ← Lamentations 4]] | [[Lamentations]] | [[Ezekial 1| Ezekial 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lam/5?lang=eng)
 

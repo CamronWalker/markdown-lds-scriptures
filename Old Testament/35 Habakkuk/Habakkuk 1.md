@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Nahum 3| <-- Nahum 3]] | [[Habakkuk]] | [[Habakkuk 2| Habakkuk 2 -->]]
+[[Nahum 3| ← Nahum 3]] | [[Habakkuk]] | [[Habakkuk 2| Habakkuk 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hab/1?lang=eng)
 

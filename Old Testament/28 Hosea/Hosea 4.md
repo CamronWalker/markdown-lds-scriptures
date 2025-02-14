@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Hosea 3| <-- Hosea 3]] | [[Hosea]] | [[Hosea 5| Hosea 5 -->]]
+[[Hosea 3| ← Hosea 3]] | [[Hosea]] | [[Hosea 5| Hosea 5 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/hosea/4?lang=eng)
 

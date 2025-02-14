@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 22| <-- Luke 22]] | [[Luke]] | [[Luke 24| Luke 24 -->]]
+[[Luke 22| ← Luke 22]] | [[Luke]] | [[Luke 24| Luke 24 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=eng)
 

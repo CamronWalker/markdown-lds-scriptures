@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 11| <-- Psalm 11]] | [[Psalms]] | [[Psalm 13| Psalm 13 -->]]
+[[Psalm 11| ← Psalm 11]] | [[Psalms]] | [[Psalm 13| Psalm 13 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/12?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Judges 9| <-- Judges 9]] | [[Judges]] | [[Judges 11| Judges 11 -->]]
+[[Judges 9| ← Judges 9]] | [[Judges]] | [[Judges 11| Judges 11 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/10?lang=eng)
 

@@ -1,13 +1,12 @@
-Chapter ###### 14
-14 The Second Epistle of Paul the Apostle to the Thessalonians
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Thessalonians 5| <-- 1 Thessalonians 5]] | [[2 Thessalonians]] | [[2 Thessalonians 2| 2 Thessalonians 2 -->]]
+[[1 Thessalonians 5| ← 1 Thessalonians 5]] | [[2 Thessalonians]] | [[2 Thessalonians 2| 2 Thessalonians 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/2-thes/1?lang=eng)
 

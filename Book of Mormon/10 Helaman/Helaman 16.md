@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Helaman 15| <-- Helaman 15]] | [[Helaman]] | [[3 Nephi 1| 3 Nephi 1 -->]]
+[[Helaman 15| ← Helaman 15]] | [[Helaman]] | [[3 Nephi 1| 3 Nephi 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/hel/16?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 27| <-- Exodus 27]] | [[Exodus]] | [[Exodus 29| Exodus 29 -->]]
+[[Exodus 27| ← Exodus 27]] | [[Exodus]] | [[Exodus 29| Exodus 29 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/28?lang=eng)
 

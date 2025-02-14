@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 20| <-- Acts 20]] | [[Acts]] | [[Acts 22| Acts 22 -->]]
+[[Acts 20| ← Acts 20]] | [[Acts]] | [[Acts 22| Acts 22 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/21?lang=eng)
 

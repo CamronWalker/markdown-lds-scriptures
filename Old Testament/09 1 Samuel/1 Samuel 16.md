@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Samuel 15| <-- 1 Samuel 15]] | [[1 Samuel]] | [[1 Samuel 17| 1 Samuel 17 -->]]
+[[1 Samuel 15| ← 1 Samuel 15]] | [[1 Samuel]] | [[1 Samuel 17| 1 Samuel 17 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=eng)
 

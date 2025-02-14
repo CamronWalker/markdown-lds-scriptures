@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 36| <-- Psalm 36]] | [[Psalms]] | [[Psalm 38| Psalm 38 -->]]
+[[Psalm 36| ← Psalm 36]] | [[Psalms]] | [[Psalm 38| Psalm 38 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/37?lang=eng)
 

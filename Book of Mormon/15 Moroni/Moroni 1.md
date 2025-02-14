@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ether 15| <-- Ether 15]] | [[Moroni]] | [[Moroni 2| Moroni 2 -->]]
+[[Ether 15| ← Ether 15]] | [[Moroni]] | [[Moroni 2| Moroni 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/moro/1?lang=eng)
 

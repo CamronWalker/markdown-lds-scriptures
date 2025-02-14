@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 15| <-- Exodus 15]] | [[Exodus]] | [[Exodus 17| Exodus 17 -->]]
+[[Exodus 15| ← Exodus 15]] | [[Exodus]] | [[Exodus 17| Exodus 17 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/16?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 50| <-- Jeremiah 50]] | [[Jeremiah]] | [[Jeremiah 52| Jeremiah 52 -->]]
+[[Jeremiah 50| ← Jeremiah 50]] | [[Jeremiah]] | [[Jeremiah 52| Jeremiah 52 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/51?lang=eng)
 

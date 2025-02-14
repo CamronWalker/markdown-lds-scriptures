@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 40| <-- Exodus 40]] | [[Leviticus]] | [[Leviticus 2| Leviticus 2 -->]]
+[[Exodus 40| ← Exodus 40]] | [[Leviticus]] | [[Leviticus 2| Leviticus 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng)
 

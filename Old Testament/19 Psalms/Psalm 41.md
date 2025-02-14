@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 40| <-- Psalm 40]] | [[Psalms]] | [[Psalm 42| Psalm 42 -->]]
+[[Psalm 40| ← Psalm 40]] | [[Psalms]] | [[Psalm 42| Psalm 42 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/41?lang=eng)
 

@@ -1,13 +1,12 @@
-Chapter ###### 13
-13 The First Epistle of Paul the Apostle to the Thessalonians
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Collosians 4| <-- Collosians 4]] | [[1 Thessalonians]] | [[1 Thessalonians 2| 1 Thessalonians 2 -->]]
+[[Collosians 4| ← Collosians 4]] | [[1 Thessalonians]] | [[1 Thessalonians 2| 1 Thessalonians 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-thes/1?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 47| <-- Psalm 47]] | [[Psalms]] | [[Psalm 49| Psalm 49 -->]]
+[[Psalm 47| ← Psalm 47]] | [[Psalms]] | [[Psalm 49| Psalm 49 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/48?lang=eng)
 

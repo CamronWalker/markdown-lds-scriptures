@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 2| <-- Proverbs 2]] | [[Proverbs]] | [[Proverbs 4| Proverbs 4 -->]]
+[[Proverbs 2| ← Proverbs 2]] | [[Proverbs]] | [[Proverbs 4| Proverbs 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=eng)
 

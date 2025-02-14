@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Chronicles 13| <-- 1 Chronicles 13]] | [[1 Chronicles]] | [[1 Chronicles 15| 1 Chronicles 15 -->]]
+[[1 Chronicles 13| ← 1 Chronicles 13]] | [[1 Chronicles]] | [[1 Chronicles 15| 1 Chronicles 15 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/14?lang=eng)
 

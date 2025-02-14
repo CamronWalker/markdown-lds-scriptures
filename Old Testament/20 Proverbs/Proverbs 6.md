@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 5| <-- Proverbs 5]] | [[Proverbs]] | [[Proverbs 7| Proverbs 7 -->]]
+[[Proverbs 5| ← Proverbs 5]] | [[Proverbs]] | [[Proverbs 7| Proverbs 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/6?lang=eng)
 

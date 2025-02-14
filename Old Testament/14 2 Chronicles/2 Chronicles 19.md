@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 18| <-- 2 Chronicles 18]] | [[2 Chronicles]] | [[2 Chronicles 20| 2 Chronicles 20 -->]]
+[[2 Chronicles 18| ← 2 Chronicles 18]] | [[2 Chronicles]] | [[2 Chronicles 20| 2 Chronicles 20 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/19?lang=eng)
 

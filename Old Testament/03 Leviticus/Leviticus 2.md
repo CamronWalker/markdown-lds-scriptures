@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Leviticus 1| <-- Leviticus 1]] | [[Leviticus]] | [[Leviticus 3| Leviticus 3 -->]]
+[[Leviticus 1| ← Leviticus 1]] | [[Leviticus]] | [[Leviticus 3| Leviticus 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/2?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Zechariah 13| <-- Zechariah 13]] | [[Zechariah]] | [[Malachi 1| Malachi 1 -->]]
+[[Zechariah 13| ← Zechariah 13]] | [[Zechariah]] | [[Malachi 1| Malachi 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zech/14?lang=eng)
 

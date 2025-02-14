@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Nephi 4| <-- 2 Nephi 4]] | [[2 Nephi]] | [[2 Nephi 6| 2 Nephi 6 -->]]
+[[2 Nephi 4| ← 2 Nephi 4]] | [[2 Nephi]] | [[2 Nephi 6| 2 Nephi 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng)
 

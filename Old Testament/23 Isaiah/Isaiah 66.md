@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 65| <-- Isaiah 65]] | [[Isaiah]] | [[Jeremiah 1| Jeremiah 1 -->]]
+[[Isaiah 65| ← Isaiah 65]] | [[Isaiah]] | [[Jeremiah 1| Jeremiah 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/66?lang=eng)
 

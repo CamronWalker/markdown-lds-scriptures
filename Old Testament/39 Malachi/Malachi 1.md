@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Zechariah 14| <-- Zechariah 14]] | [[Malachi]] | [[Malachi 2| Malachi 2 -->]]
+[[Zechariah 14| ← Zechariah 14]] | [[Malachi]] | [[Malachi 2| Malachi 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/mal/1?lang=eng)
 

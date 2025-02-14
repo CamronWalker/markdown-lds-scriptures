@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 17| <-- Isaiah 17]] | [[Isaiah]] | [[Isaiah 19| Isaiah 19 -->]]
+[[Isaiah 17| ← Isaiah 17]] | [[Isaiah]] | [[Isaiah 19| Isaiah 19 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/18?lang=eng)
 

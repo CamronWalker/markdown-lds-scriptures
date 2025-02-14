@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 29| <-- 2 Chronicles 29]] | [[2 Chronicles]] | [[2 Chronicles 31| 2 Chronicles 31 -->]]
+[[2 Chronicles 29| ← 2 Chronicles 29]] | [[2 Chronicles]] | [[2 Chronicles 31| 2 Chronicles 31 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/30?lang=eng)
 

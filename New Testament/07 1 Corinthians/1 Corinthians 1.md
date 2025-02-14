@@ -1,13 +1,12 @@
-Chapter ###### 7
-7 7 The First Epistle of Paul the Apostle to the Corinthians
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Romans 16| <-- Romans 16]] | [[1 Corinthians]] | [[1 Corinthians 2| 1 Corinthians 2 -->]]
+[[Romans 16| ← Romans 16]] | [[1 Corinthians]] | [[1 Corinthians 2| 1 Corinthians 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/1-cor/1?lang=eng)
 

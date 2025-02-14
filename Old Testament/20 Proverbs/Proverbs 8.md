@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 7| <-- Proverbs 7]] | [[Proverbs]] | [[Proverbs 9| Proverbs 9 -->]]
+[[Proverbs 7| ← Proverbs 7]] | [[Proverbs]] | [[Proverbs 9| Proverbs 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/8?lang=eng)
 

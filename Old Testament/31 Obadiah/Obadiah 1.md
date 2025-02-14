@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Amos 9| <-- Amos 9]] | [[Obadiah]] | [[Jonah 1| Jonah 1 -->]]
+[[Amos 9| ← Amos 9]] | [[Obadiah]] | [[Jonah 1| Jonah 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/obad/1?lang=eng)
 

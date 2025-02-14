@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Leviticus 17| <-- Leviticus 17]] | [[Leviticus]] | [[Leviticus 19| Leviticus 19 -->]]
+[[Leviticus 17| ← Leviticus 17]] | [[Leviticus]] | [[Leviticus 19| Leviticus 19 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/18?lang=eng)
 

@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Mosiah 19| <-- Mosiah 19]] | [[Mosiah]] | [[Mosiah 21| Mosiah 21 -->]]
+[[Mosiah 19| ← Mosiah 19]] | [[Mosiah]] | [[Mosiah 21| Mosiah 21 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=eng)
 

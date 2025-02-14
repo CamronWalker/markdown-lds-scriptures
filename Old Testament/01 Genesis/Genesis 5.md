@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 4| <-- Genesis 4]] | [[Genesis]] | [[Genesis 6| Genesis 6 -->]]
+[[Genesis 4| ← Genesis 4]] | [[Genesis]] | [[Genesis 6| Genesis 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/5?lang=eng)
 

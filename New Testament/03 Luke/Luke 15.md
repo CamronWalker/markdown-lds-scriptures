@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 14| <-- Luke 14]] | [[Luke]] | [[Luke 16| Luke 16 -->]]
+[[Luke 14| ← Luke 14]] | [[Luke]] | [[Luke 16| Luke 16 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/15?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 20| <-- Job 20]] | [[Job]] | [[Job 22| Job 22 -->]]
+[[Job 20| ← Job 20]] | [[Job]] | [[Job 22| Job 22 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/21?lang=eng)
 

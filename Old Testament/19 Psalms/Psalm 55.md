@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 54| <-- Psalm 54]] | [[Psalms]] | [[Psalm 56| Psalm 56 -->]]
+[[Psalm 54| ← Psalm 54]] | [[Psalms]] | [[Psalm 56| Psalm 56 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/55?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Amos 1| <-- Amos 1]] | [[Amos]] | [[Amos 3| Amos 3 -->]]
+[[Amos 1| ← Amos 1]] | [[Amos]] | [[Amos 3| Amos 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/2?lang=eng)
 

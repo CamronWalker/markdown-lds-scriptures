@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Matthew 26| <-- Matthew 26]] | [[Matthew]] | [[Matthew 28| Matthew 28 -->]]
+[[Matthew 26| ← Matthew 26]] | [[Matthew]] | [[Matthew 28| Matthew 28 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/27?lang=eng)
 

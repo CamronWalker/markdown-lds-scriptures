@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Micah 1| <-- Micah 1]] | [[Micah]] | [[Micah 3| Micah 3 -->]]
+[[Micah 1| ← Micah 1]] | [[Micah]] | [[Micah 3| Micah 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/2?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 96| <-- Psalm 96]] | [[Psalms]] | [[Psalm 98| Psalm 98 -->]]
+[[Psalm 96| ← Psalm 96]] | [[Psalms]] | [[Psalm 98| Psalm 98 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/97?lang=eng)
 

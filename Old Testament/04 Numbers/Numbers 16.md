@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Numbers 15| <-- Numbers 15]] | [[Numbers]] | [[Numbers 17| Numbers 17 -->]]
+[[Numbers 15| ← Numbers 15]] | [[Numbers]] | [[Numbers 17| Numbers 17 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/16?lang=eng)
 

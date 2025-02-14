@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Kings 15| <-- 1 Kings 15]] | [[1 Kings]] | [[1 Kings 17| 1 Kings 17 -->]]
+[[1 Kings 15| ← 1 Kings 15]] | [[1 Kings]] | [[1 Kings 17| 1 Kings 17 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-kgs/16?lang=eng)
 

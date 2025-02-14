@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 43| <-- Ezekiel 43]] | [[Ezekiel]] | [[Ezekiel 45| Ezekiel 45 -->]]
+[[Ezekiel 43| ← Ezekiel 43]] | [[Ezekiel]] | [[Ezekiel 45| Ezekiel 45 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/44?lang=eng)
 

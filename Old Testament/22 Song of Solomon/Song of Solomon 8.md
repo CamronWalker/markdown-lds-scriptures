@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Song of Solomon 7| <-- Song of Solomon 7]] | [[Song of Solomon]] | [[Isaiah 1| Isaiah 1 -->]]
+[[Song of Solomon 7| ← Song of Solomon 7]] | [[Song of Solomon]] | [[Isaiah 1| Isaiah 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/song/8?lang=eng)
 

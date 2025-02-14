@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Chronicles 5| <-- 1 Chronicles 5]] | [[1 Chronicles]] | [[1 Chronicles 7| 1 Chronicles 7 -->]]
+[[1 Chronicles 5| ← 1 Chronicles 5]] | [[1 Chronicles]] | [[1 Chronicles 7| 1 Chronicles 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/6?lang=eng)
 

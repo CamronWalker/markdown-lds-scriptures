@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 25| <-- Psalm 25]] | [[Psalms]] | [[Psalm 27| Psalm 27 -->]]
+[[Psalm 25| ← Psalm 25]] | [[Psalms]] | [[Psalm 27| Psalm 27 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/26?lang=eng)
 

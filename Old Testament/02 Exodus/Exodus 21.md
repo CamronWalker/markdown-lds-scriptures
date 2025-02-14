@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Exodus 20| <-- Exodus 20]] | [[Exodus]] | [[Exodus 22| Exodus 22 -->]]
+[[Exodus 20| ← Exodus 20]] | [[Exodus]] | [[Exodus 22| Exodus 22 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ex/21?lang=eng)
 

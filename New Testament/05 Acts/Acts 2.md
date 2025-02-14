@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 1| <-- Acts 1]] | [[Acts]] | [[Acts 3| Acts 3 -->]]
+[[Acts 1| ← Acts 1]] | [[Acts]] | [[Acts 3| Acts 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/2?lang=eng)
 

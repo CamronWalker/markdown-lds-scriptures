@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 27| <-- Job 27]] | [[Job]] | [[Job 29| Job 29 -->]]
+[[Job 27| ← Job 27]] | [[Job]] | [[Job 29| Job 29 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/28?lang=eng)
 

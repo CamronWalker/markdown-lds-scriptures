@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jacob 5| <-- Jacob 5]] | [[Jacob]] | [[Jacob 7| Jacob 7 -->]]
+[[Jacob 5| ← Jacob 5]] | [[Jacob]] | [[Jacob 7| Jacob 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/jacob/6?lang=eng)
 

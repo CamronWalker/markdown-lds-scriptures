@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ecclesiastes 2| <-- Ecclesiastes 2]] | [[Ecclesiastes]] | [[Ecclesiastes 4| Ecclesiastes 4 -->]]
+[[Ecclesiastes 2| ← Ecclesiastes 2]] | [[Ecclesiastes]] | [[Ecclesiastes 4| Ecclesiastes 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/eccl/3?lang=eng)
 

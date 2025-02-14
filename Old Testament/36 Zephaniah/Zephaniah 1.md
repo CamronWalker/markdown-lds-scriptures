@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Habakkuk 3| <-- Habakkuk 3]] | [[Zephaniah]] | [[Zephaniah 2| Zephaniah 2 -->]]
+[[Habakkuk 3| ← Habakkuk 3]] | [[Zephaniah]] | [[Zephaniah 2| Zephaniah 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/zeph/1?lang=eng)
 

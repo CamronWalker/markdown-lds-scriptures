@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Matthew 3| <-- Matthew 3]] | [[Matthew]] | [[Matthew 5| Matthew 5 -->]]
+[[Matthew 3| ← Matthew 3]] | [[Matthew]] | [[Matthew 5| Matthew 5 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=eng)
 

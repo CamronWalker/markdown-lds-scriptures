@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Leviticus 5| <-- Leviticus 5]] | [[Leviticus]] | [[Leviticus 7| Leviticus 7 -->]]
+[[Leviticus 5| ← Leviticus 5]] | [[Leviticus]] | [[Leviticus 7| Leviticus 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/6?lang=eng)
 

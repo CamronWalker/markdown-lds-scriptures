@@ -2,25 +2,26 @@
 publish: true
 tags:
   - Scripture/DandC
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[D&C 4| <-- D&C 4]] | [[D&C]] | [[D&C 6| D&C 6 -->]]
+[[D&C 4| ← D&C 4]] | [[D&C]] | [[D&C 6| D&C 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?lang=eng)
 
 >[!example] Chapter Summary
 >
 ###### 1
-1 BEHOLD, I say unto you, that as my servant Martin Harris has desired a witness at my hand, that you, my servant Joseph Smith, Jun., have got the plates of which you have testified and borne record that you have received of me;
+1 BEHOLD, I say unto you, that as my servant Martin Harris has desired a witness at my hand, that you, my servant [[Joseph Smith, Jr|Joseph Smith, Jun]]., have got the plates of which you have testified and borne record that you have received of me;
 ###### 2
-2 And now, behold, this shall you say unto him--he who spake unto you, said unto you: I, the Lord, am God, and have given these things unto you, my servant Joseph Smith, Jun., and have commanded you that you should stand as a witness of these things;
+2 And now, behold, this shall you say unto him--he who spake unto you, said unto you: I, the Lord, am God, and have given these things unto you, my servant [[Joseph Smith, Jr|Joseph Smith, Jun]]., and have commanded you that you should stand as a witness of these things;
 ###### 3
 3 And I have caused you that you should enter into a covenant with me, that you should not show them except to those persons to whom I commanded you; and you have no power over them except I grant it unto you.
 ###### 4
 4 And you have a gift to translate the plates; and this is the first gift that I bestowed upon you; and I have commanded that you should pretend to no other gift until my purpose is fulfilled in this; for I will grant unto you no other gift until it is finished.
 ###### 5
-5 Verily, I say unto you, that woe shall come unto the inhabitants of the earth if they will not hearken unto my words;
+5 Verily, I say unto you, that woe shall come unto the [[All People of Earth|inhabitants of the earth]] if they will not hearken unto my words;
 ###### 6
 6 For hereafter you shall be ordained and go forth and deliver my words unto the children of men.
 ###### 7
@@ -48,7 +49,7 @@ cssclasses:
 ###### 18
 18 And their testimony shall also go forth unto the condemnation of this generation if they harden their hearts against them;
 ###### 19
-19 For a desolating scourge shall go forth among the inhabitants of the earth, and shall continue to be poured out from time to time, if they repent not, until the earth is empty, and the inhabitants thereof are consumed away and utterly destroyed by the brightness of my coming.
+19 For a desolating scourge shall go forth among the [[All People of Earth|inhabitants of the earth]], and shall continue to be poured out from time to time, if they repent not, until the earth is empty, and the inhabitants thereof are consumed away and utterly destroyed by the brightness of my coming.
 ###### 20
 20 Behold, I tell you these things, even as I also told the people of the destruction of Jerusalem; and my word shall be verified at this time as it hath hitherto been verified.
 ###### 21
@@ -60,7 +61,7 @@ cssclasses:
 ###### 24
 24 Behold, I say unto him, he exalts himself and does not humble himself sufficiently before me; but if he will bow down before me, and humble himself in mighty prayer and faith, in the sincerity of his heart, then will I grant unto him a view of the things which he desires to see.
 ###### 25
-25 And then he shall say unto the people of this generation: Behold, I have seen the things which the Lord hath shown unto Joseph Smith, Jun., and I know of a surety that they are true, for I have seen them, for they have been shown unto me by the power of God and not of man.
+25 And then he shall say unto the people of this generation: Behold, I have seen the things which the Lord hath shown unto [[Joseph Smith, Jr|Joseph Smith, Jun]]., and I know of a surety that they are true, for I have seen them, for they have been shown unto me by the power of God and not of man.
 ###### 26
 26 And I the Lord command him, my servant Martin Harris, that he shall say no more unto them concerning these things, except he shall say: I have seen them, and they have been shown unto me by the power of God; and these are the words which he shall say.
 ###### 27

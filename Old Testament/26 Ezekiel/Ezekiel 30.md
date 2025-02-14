@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 29| <-- Ezekiel 29]] | [[Ezekiel]] | [[Ezekiel 31| Ezekiel 31 -->]]
+[[Ezekiel 29| ← Ezekiel 29]] | [[Ezekiel]] | [[Ezekiel 31| Ezekiel 31 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/30?lang=eng)
 

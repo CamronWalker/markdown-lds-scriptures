@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 21| <-- Isaiah 21]] | [[Isaiah]] | [[Isaiah 23| Isaiah 23 -->]]
+[[Isaiah 21| ← Isaiah 21]] | [[Isaiah]] | [[Isaiah 23| Isaiah 23 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=eng)
 

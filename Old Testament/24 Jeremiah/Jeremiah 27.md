@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 26| <-- Jeremiah 26]] | [[Jeremiah]] | [[Jeremiah 28| Jeremiah 28 -->]]
+[[Jeremiah 26| ← Jeremiah 26]] | [[Jeremiah]] | [[Jeremiah 28| Jeremiah 28 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/27?lang=eng)
 

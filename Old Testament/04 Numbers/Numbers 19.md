@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Numbers 18| <-- Numbers 18]] | [[Numbers]] | [[Numbers 20| Numbers 20 -->]]
+[[Numbers 18| ← Numbers 18]] | [[Numbers]] | [[Numbers 20| Numbers 20 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/num/19?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 32| <-- Psalm 32]] | [[Psalms]] | [[Psalm 34| Psalm 34 -->]]
+[[Psalm 32| ← Psalm 32]] | [[Psalms]] | [[Psalm 34| Psalm 34 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/33?lang=eng)
 
@@ -40,7 +39,7 @@ cssclasses:
 ###### 13
 13 The LORD looketh from heaven; he beholdeth all the sons of men.
 ###### 14
-14 From the place of his habitation he looketh upon all the inhabitants of the earth.
+14 From the place of his habitation he looketh upon all the [[All People of Earth|inhabitants of the earth]].
 ###### 15
 15 He fashioneth their hearts alike; he considereth all their works.
 ###### 16

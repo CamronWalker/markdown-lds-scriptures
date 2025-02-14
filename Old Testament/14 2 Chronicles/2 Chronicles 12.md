@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 11| <-- 2 Chronicles 11]] | [[2 Chronicles]] | [[2 Chronicles 13| 2 Chronicles 13 -->]]
+[[2 Chronicles 11| ← 2 Chronicles 11]] | [[2 Chronicles]] | [[2 Chronicles 13| 2 Chronicles 13 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/12?lang=eng)
 

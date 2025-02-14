@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 53| <-- Isaiah 53]] | [[Isaiah]] | [[Isaiah 55| Isaiah 55 -->]]
+[[Isaiah 53| ← Isaiah 53]] | [[Isaiah]] | [[Isaiah 55| Isaiah 55 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=eng)
 

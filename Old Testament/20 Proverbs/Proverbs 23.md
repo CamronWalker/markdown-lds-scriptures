@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 22| <-- Proverbs 22]] | [[Proverbs]] | [[Proverbs 24| Proverbs 24 -->]]
+[[Proverbs 22| ← Proverbs 22]] | [[Proverbs]] | [[Proverbs 24| Proverbs 24 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/23?lang=eng)
 

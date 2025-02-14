@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Chronicles 20| <-- 1 Chronicles 20]] | [[1 Chronicles]] | [[1 Chronicles 22| 1 Chronicles 22 -->]]
+[[1 Chronicles 20| ← 1 Chronicles 20]] | [[1 Chronicles]] | [[1 Chronicles 22| 1 Chronicles 22 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-chr/21?lang=eng)
 

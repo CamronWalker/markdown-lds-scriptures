@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Micah 5| <-- Micah 5]] | [[Micah]] | [[Micah 7| Micah 7 -->]]
+[[Micah 5| ← Micah 5]] | [[Micah]] | [[Micah 7| Micah 7 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/micah/6?lang=eng)
 

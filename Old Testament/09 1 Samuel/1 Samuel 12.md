@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Samuel 11| <-- 1 Samuel 11]] | [[1 Samuel]] | [[1 Samuel 13| 1 Samuel 13 -->]]
+[[1 Samuel 11| ← 1 Samuel 11]] | [[1 Samuel]] | [[1 Samuel 13| 1 Samuel 13 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/12?lang=eng)
 

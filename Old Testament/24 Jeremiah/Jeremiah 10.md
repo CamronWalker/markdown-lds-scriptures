@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Jeremiah 9| <-- Jeremiah 9]] | [[Jeremiah]] | [[Jeremiah 11| Jeremiah 11 -->]]
+[[Jeremiah 9| ← Jeremiah 9]] | [[Jeremiah]] | [[Jeremiah 11| Jeremiah 11 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/jer/10?lang=eng)
 

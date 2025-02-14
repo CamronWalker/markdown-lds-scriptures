@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 14| <-- 2 Chronicles 14]] | [[2 Chronicles]] | [[2 Chronicles 16| 2 Chronicles 16 -->]]
+[[2 Chronicles 14| ← 2 Chronicles 14]] | [[2 Chronicles]] | [[2 Chronicles 16| 2 Chronicles 16 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/15?lang=eng)
 

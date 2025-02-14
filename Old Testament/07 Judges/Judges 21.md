@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Judges 20| <-- Judges 20]] | [[Judges]] | [[Ruth 1| Ruth 1 -->]]
+[[Judges 20| ← Judges 20]] | [[Judges]] | [[Ruth 1| Ruth 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/21?lang=eng)
 

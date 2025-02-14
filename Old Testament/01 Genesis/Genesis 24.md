@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 23| <-- Genesis 23]] | [[Genesis]] | [[Genesis 25| Genesis 25 -->]]
+[[Genesis 23| ← Genesis 23]] | [[Genesis]] | [[Genesis 25| Genesis 25 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/24?lang=eng)
 

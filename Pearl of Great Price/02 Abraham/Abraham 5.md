@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/PoGP
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Abraham 4| <-- Abraham 4]] | [[Abraham]] | [[03 Joseph Smith—Matthew| 03 Joseph Smith--Matthew 1 -->]]
+[[Abraham 4| ← Abraham 4]] | [[Abraham]] | [[03 Joseph Smith—Matthew| 03 Joseph Smith--Matthew 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/5?lang=eng)
 

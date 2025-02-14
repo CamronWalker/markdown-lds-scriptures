@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 137| <-- Psalm 137]] | [[Psalms]] | [[Psalm 139| Psalm 139 -->]]
+[[Psalm 137| ← Psalm 137]] | [[Psalms]] | [[Psalm 139| Psalm 139 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/138?lang=eng)
 

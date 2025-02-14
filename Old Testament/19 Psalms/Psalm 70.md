@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 69| <-- Psalm 69]] | [[Psalms]] | [[Psalm 71| Psalm 71 -->]]
+[[Psalm 69| ← Psalm 69]] | [[Psalms]] | [[Psalm 71| Psalm 71 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/70?lang=eng)
 

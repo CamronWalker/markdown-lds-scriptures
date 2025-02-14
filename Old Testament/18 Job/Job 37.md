@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 36| <-- Job 36]] | [[Job]] | [[Job 38| Job 38 -->]]
+[[Job 36| ← Job 36]] | [[Job]] | [[Job 38| Job 38 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/37?lang=eng)
 

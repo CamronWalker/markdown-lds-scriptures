@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 42| <-- Job 42]] | [[Psalms]] | [[Psalm 2| Psalm 2 -->]]
+[[Job 42| ← Job 42]] | [[Psalms]] | [[Psalm 2| Psalm 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/1?lang=eng)
 

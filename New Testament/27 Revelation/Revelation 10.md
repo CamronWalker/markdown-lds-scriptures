@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Revelation 9| <-- Revelation 9]] | [[Revelation]] | [[Revelation 11| Revelation 11 -->]]
+[[Revelation 9| ← Revelation 9]] | [[Revelation]] | [[Revelation 11| Revelation 11 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/rev/10?lang=eng)
 

@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Nephi 1| <-- 2 Nephi 1]] | [[2 Nephi]] | [[2 Nephi 3| 2 Nephi 3 -->]]
+[[2 Nephi 1| ← 2 Nephi 1]] | [[2 Nephi]] | [[2 Nephi 3| 2 Nephi 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng)
 
@@ -26,7 +27,7 @@ cssclasses:
 ###### 7
 7 Behold, he offereth himself a sacrifice for sin, to answer the ends of the law, unto all those who have a broken heart and a contrite spirit; and unto none else can the ends of the law be answered.
 ###### 8
-8 Wherefore, how great the importance to make these things known unto the inhabitants of the earth, that they may know that there is no flesh that can dwell in the presence of God, save it be through the merits, and mercy, and grace of the Holy Messiah, who layeth down his life according to the flesh, and taketh it again by the power of the Spirit, that he may bring to pass the resurrection of the dead, being the first that should rise.
+8 Wherefore, how great the importance to make these things known unto the [[All People of Earth|inhabitants of the earth]], that they may know that there is no flesh that can dwell in the presence of God, save it be through the merits, and mercy, and grace of the Holy Messiah, who layeth down his life according to the flesh, and taketh it again by the power of the Spirit, that he may bring to pass the resurrection of the dead, being the first that should rise.
 ###### 9
 9 Wherefore, he is the firstfruits unto God, inasmuch as he shall make intercession for all the children of men; and they that believe in him shall be saved.
 ###### 10

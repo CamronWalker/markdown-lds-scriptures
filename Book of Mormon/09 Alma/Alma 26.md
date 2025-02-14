@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Alma 25| <-- Alma 25]] | [[Alma]] | [[Alma 27| Alma 27 -->]]
+[[Alma 25| ← Alma 25]] | [[Alma]] | [[Alma 27| Alma 27 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Ezekiel 21| <-- Ezekiel 21]] | [[Ezekiel]] | [[Ezekiel 23| Ezekiel 23 -->]]
+[[Ezekiel 21| ← Ezekiel 21]] | [[Ezekiel]] | [[Ezekiel 23| Ezekiel 23 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ezek/22?lang=eng)
 

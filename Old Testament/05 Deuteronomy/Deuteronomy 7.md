@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Deuteronomy 6| <-- Deuteronomy 6]] | [[Deuteronomy]] | [[Deuteronomy 8| Deuteronomy 8 -->]]
+[[Deuteronomy 6| ← Deuteronomy 6]] | [[Deuteronomy]] | [[Deuteronomy 8| Deuteronomy 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/deut/7?lang=eng)
 

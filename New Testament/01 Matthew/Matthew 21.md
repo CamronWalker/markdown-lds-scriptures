@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Matthew 20| <-- Matthew 20]] | [[Matthew]] | [[Matthew 22| Matthew 22 -->]]
+[[Matthew 20| ← Matthew 20]] | [[Matthew]] | [[Matthew 22| Matthew 22 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/matt/21?lang=eng)
 

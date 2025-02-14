@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[John 16| <-- John 16]] | [[John]] | [[John 18| John 18 -->]]
+[[John 16| ← John 16]] | [[John]] | [[John 18| John 18 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/john/17?lang=eng)
 

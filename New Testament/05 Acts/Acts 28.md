@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Acts 27| <-- Acts 27]] | [[Acts]] | [[Romans 1| Romans 1 -->]]
+[[Acts 27| ← Acts 27]] | [[Acts]] | [[Romans 1| Romans 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/acts/28?lang=eng)
 

@@ -1,13 +1,12 @@
-Chapter ###### 10
-10 10 The Epistle of Paul the Apostle to the Ephesians
 ---
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Galatians 6| <-- Galatians 6]] | [[Ephesians]] | [[Ephesians 2| Ephesians 2 -->]]
+[[Galatians 6| ← Galatians 6]] | [[Ephesians]] | [[Ephesians 2| Ephesians 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/eph/1?lang=eng)
 

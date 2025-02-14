@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/DandC
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[D&C 2| <-- D&C 2]] | [[D&C]] | [[D&C 4| D&C 4 -->]]
+[[D&C 2| ← D&C 2]] | [[D&C]] | [[D&C 4| D&C 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Leviticus 7| <-- Leviticus 7]] | [[Leviticus]] | [[Leviticus 9| Leviticus 9 -->]]
+[[Leviticus 7| ← Leviticus 7]] | [[Leviticus]] | [[Leviticus 9| Leviticus 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/lev/8?lang=eng)
 

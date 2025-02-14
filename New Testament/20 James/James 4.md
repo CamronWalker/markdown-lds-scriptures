@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[James 3| <-- James 3]] | [[James]] | [[James 5| James 5 -->]]
+[[James 3| ← James 3]] | [[James]] | [[James 5| James 5 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/james/4?lang=eng)
 

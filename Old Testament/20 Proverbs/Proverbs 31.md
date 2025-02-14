@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Proverbs 30| <-- Proverbs 30]] | [[Proverbs]] | [[Ecclesiastes 1| Ecclesiastes 1 -->]]
+[[Proverbs 30| ← Proverbs 30]] | [[Proverbs]] | [[Ecclesiastes 1| Ecclesiastes 1 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/prov/31?lang=eng)
 

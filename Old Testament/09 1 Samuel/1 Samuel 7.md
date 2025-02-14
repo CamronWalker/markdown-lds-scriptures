@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[1 Samuel 6| <-- 1 Samuel 6]] | [[1 Samuel]] | [[1 Samuel 8| 1 Samuel 8 -->]]
+[[1 Samuel 6| ← 1 Samuel 6]] | [[1 Samuel]] | [[1 Samuel 8| 1 Samuel 8 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/1-sam/7?lang=eng)
 

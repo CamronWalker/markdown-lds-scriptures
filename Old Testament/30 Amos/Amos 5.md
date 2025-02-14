@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Amos 4| <-- Amos 4]] | [[Amos]] | [[Amos 6| Amos 6 -->]]
+[[Amos 4| ← Amos 4]] | [[Amos]] | [[Amos 6| Amos 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/amos/5?lang=eng)
 

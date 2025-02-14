@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Joshua 24| <-- Joshua 24]] | [[Judges]] | [[Judges 2| Judges 2 -->]]
+[[Joshua 24| ← Joshua 24]] | [[Judges]] | [[Judges 2| Judges 2 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/1?lang=eng)
 

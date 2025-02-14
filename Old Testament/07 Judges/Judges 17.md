@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Judges 16| <-- Judges 16]] | [[Judges]] | [[Judges 18| Judges 18 -->]]
+[[Judges 16| ← Judges 16]] | [[Judges]] | [[Judges 18| Judges 18 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/judg/17?lang=eng)
 

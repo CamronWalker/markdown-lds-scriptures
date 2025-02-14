@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/BoM
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[3 Nephi 25| <-- 3 Nephi 25]] | [[3 Nephi]] | [[3 Nephi 27| 3 Nephi 27 -->]]
+[[3 Nephi 25| ← 3 Nephi 25]] | [[3 Nephi]] | [[3 Nephi 27| 3 Nephi 27 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=eng)
 

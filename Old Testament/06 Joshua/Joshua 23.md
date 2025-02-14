@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Joshua 22| <-- Joshua 22]] | [[Joshua]] | [[Joshua 24| Joshua 24 -->]]
+[[Joshua 22| ← Joshua 22]] | [[Joshua]] | [[Joshua 24| Joshua 24 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/josh/23?lang=eng)
 

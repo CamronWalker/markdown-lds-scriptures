@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/NewT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Luke 4| <-- Luke 4]] | [[Luke]] | [[Luke 6| Luke 6 -->]]
+[[Luke 4| ← Luke 4]] | [[Luke]] | [[Luke 6| Luke 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/nt/luke/5?lang=eng)
 

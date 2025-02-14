@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 24| <-- Job 24]] | [[Job]] | [[Job 26| Job 26 -->]]
+[[Job 24| ← Job 24]] | [[Job]] | [[Job 26| Job 26 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/25?lang=eng)
 

@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Isaiah 4| <-- Isaiah 4]] | [[Isaiah]] | [[Isaiah 6| Isaiah 6 -->]]
+[[Isaiah 4| ← Isaiah 4]] | [[Isaiah]] | [[Isaiah 6| Isaiah 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=eng)
 

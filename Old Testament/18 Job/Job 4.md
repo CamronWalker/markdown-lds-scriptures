@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Job 3| <-- Job 3]] | [[Job]] | [[Job 5| Job 5 -->]]
+[[Job 3| ← Job 3]] | [[Job]] | [[Job 5| Job 5 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/job/4?lang=eng)
 

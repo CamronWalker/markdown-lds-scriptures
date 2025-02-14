@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Psalm 2| <-- Psalm 2]] | [[Psalms]] | [[Psalm 4| Psalm 4 -->]]
+[[Psalm 2| ← Psalm 2]] | [[Psalms]] | [[Psalm 4| Psalm 4 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/ps/3?lang=eng)
 

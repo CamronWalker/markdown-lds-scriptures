@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Nehemiah 10| <-- Nehemiah 10]] | [[Nehemiah]] | [[Nehemiah 12| Nehemiah 12 -->]]
+[[Nehemiah 10| ← Nehemiah 10]] | [[Nehemiah]] | [[Nehemiah 12| Nehemiah 12 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/neh/11?lang=eng)
 

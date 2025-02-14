@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Genesis 7| <-- Genesis 7]] | [[Genesis]] | [[Genesis 9| Genesis 9 -->]]
+[[Genesis 7| ← Genesis 7]] | [[Genesis]] | [[Genesis 9| Genesis 9 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/gen/8?lang=eng)
 

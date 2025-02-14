@@ -2,10 +2,11 @@
 publish: true
 tags:
   - Scripture/PoGP
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[Abraham 1| <-- Abraham 1]] | [[Abraham]] | [[Abraham 3| Abraham 3 -->]]
+[[Abraham 1| ← Abraham 1]] | [[Abraham]] | [[Abraham 3| Abraham 3 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng)
 

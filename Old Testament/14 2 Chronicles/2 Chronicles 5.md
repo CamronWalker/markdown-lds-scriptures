@@ -1,13 +1,12 @@
-
-
 ---
 publish: true
 tags:
   - Scripture/OldT
+  - no-graph
 cssclasses:
   - scriptures
 ---
-[[2 Chronicles 4| <-- 2 Chronicles 4]] | [[2 Chronicles]] | [[2 Chronicles 6| 2 Chronicles 6 -->]]
+[[2 Chronicles 4| ← 2 Chronicles 4]] | [[2 Chronicles]] | [[2 Chronicles 6| 2 Chronicles 6 →]]
 
 [Online](https://churchofjesuschrist.org/study/scriptures/ot/2-chr/5?lang=eng)
 
